@@ -1,8 +1,8 @@
-# Cross Functional Requirements
+# System Quality Attributes
 
-Also known as "CFRs", "Non-Functional Requirements", "NFRs", "Quality Attributes", "QAs".
+System quality attributes are also known as Cross-Functional Requirements (CFRs) and Non-Functional Requirements (NFRs).
 
-See [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
+See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
 * [accessibility](https://en.wikipedia.org/wiki/Accessibility): for people who experience disabilities.
 
