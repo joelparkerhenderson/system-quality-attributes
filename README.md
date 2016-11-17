@@ -39,7 +39,9 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [controllability](TODO): for controling the state of the system.
 
-* [consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems)): the degree to which the system and its data must be consistent, such as changing only in allowed ways.
+* [consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems)):
+
+* [continuity](TODO)
 
 * [correctness](https://wikipedia.org/wiki/Correctness_(computer_science))
 
