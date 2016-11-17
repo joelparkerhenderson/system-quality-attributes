@@ -155,6 +155,7 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [scalability](https://wikipedia.org/wiki/Scalability)
 
+* [schedulability](TODO)
 * [seamlessness](https://en.wiktionary.orghttps://wikipedia.org/wiki/Special:Search/seamless)
 
 * [self-sustainability](https://wikipedia.org/wiki/Self-sustainability)
