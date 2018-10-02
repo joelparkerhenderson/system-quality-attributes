@@ -13,29 +13,31 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [accuracy](https://wikipedia.org/wiki/Accuracy): for closeness of measurements to true values.
 
-* [adaptability](https://wikipedia.org/wiki/Adaptation_(computer_science))
+* [adaptability](https://wikipedia.org/wiki/Adaptation_(computer_science)): a user can substantially customise the system through tailoring activities by themselves (cf. adaptivity).
 
-* [administrability](TODO)
+* [adaptivity](https://wikipedia.org/wiki/Adaptation_(computer_science)): adapts automatically to its users according to changing conditions, i.e. an adaptive system (cf adaptability).
 
-* [affordability](https://en.wiktionary.orghttps://wikipedia.org/wiki/affordability)
+* [administrability](TODO): for administering the system
 
-* [agility](https://wikipedia.org/wiki/Agility)
+* [affordability](https://wikipedia.org/wiki/affordability): the degree that system performance, cost, and schedule constraints are balanced over the system life.
 
-* [auditability](https://wikipedia.org/wiki/Auditability)
+* [agility](TODO): the degree of a comprehensive response to the business challenges of rapidly changing markets.
 
-* [autonomy](https://wikipedia.org/wiki/Autonomy)
+* [auditability](https://wikipedia.org/wiki/Audit): the degree of independent examination of accounts, logs, records, traffic, etc.
 
-* [automatability]() for automation interactions with the system, components, tests, etc.
+* [autonomy](https://wikipedia.org/wiki/Autonomy): the degree that a system can make its own decisions.
+
+* [automatability](TODO): for automation interactions with the system, components, tests, etc.
 
 * [atomicity](https://en.wikipedia.org/wiki/Atomicity_(database_systems)): a transaction must be "all or nothing"; see [ACID](https://en.wikipedia.org/wiki/ACID).
 
-* [availability](https://wikipedia.org/wiki/Availability)
+* [availability](https://wikipedia.org/wiki/Availability): the proportion of time a system is in a functioning condition.
 
-* [compatibility](https://en.wiktionary.orghttps://wikipedia.org/wiki/compatibility)
+* [compatibility](https://wikipedia.org/wiki/compatibility): the degree that the system can work with other systems.
 
 * [composability](https://wikipedia.org/wiki/Composability)
 
-* [configurability](https://en.wiktionary.orghttps://wikipedia.org/wiki/configurability)
+* [configurability](https://wikipedia.org/wiki/configurability)
 
 * [controllability](TODO): for controling the state of the system.
 
@@ -47,19 +49,19 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [credibility](https://wikipedia.org/wiki/Credibility)
 
-* [customizability](https://en.wiktionary.orghttps://wikipedia.org/wiki/customizability)
+* [customizability](https://wikipedia.org/wiki/customizability)
 
 * [debugability](TODO)
 
-* [degradability](https://en.wiktionary.orghttps://wikipedia.org/wiki/degradability)
+* [degradability](https://wikipedia.org/wiki/degradability)
 
-* [determinability](https://en.wiktionary.orghttps://wikipedia.org/wiki/determinable)
+* [determinability](https://wikipedia.org/wiki/determinable)
 
-* [demonstrability](https://en.wiktionary.orghttps://wikipedia.org/wiki/demonstrability)
+* [demonstrability](https://wikipedia.org/wiki/demonstrability)
 
 * [dependability](https://wikipedia.org/wiki/Dependability)
 
-* [deployability](https://en.wiktionary.orghttps://wikipedia.org/wiki/deployability)
+* [deployability](https://wikipedia.org/wiki/deployability)
 
 * [discoverability](https://wikipedia.org/wiki/Discoverability)
 
@@ -69,7 +71,7 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [effectiveness](https://wikipedia.org/wiki/Effectiveness)
 
-* [efficiency](https://en.wiktionary.orghttps://wikipedia.org/wiki/efficiency)
+* [efficiency](https://wikipedia.org/wiki/efficiency)
 
 * [evolvability](https://wikipedia.org/wiki/Evolvability)
 
@@ -87,9 +89,9 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [homogeneity](https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity): uses the same technologies, such as one language and framework.
 
-* [inspectability](https://en.wiktionary.orghttps://wikipedia.org/wiki/inspectability)
+* [inspectability](https://wikipedia.org/wiki/inspectability)
 
-* [installability](https://en.wiktionary.orghttps://wikipedia.org/wiki/installability)
+* [installability](https://wikipedia.org/wiki/installability)
 
 * [integrity](https://wikipedia.org/wiki/Data_corruption)
 
@@ -105,11 +107,11 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [maintainability](https://wikipedia.org/wiki/Maintainability)
 
-* [manageability](https://en.wiktionary.orghttps://wikipedia.org/wiki/manageability)
+* [manageability](https://wikipedia.org/wiki/manageability)
 
-* [mobility](https://en.wiktionary.orghttps://wikipedia.org/wiki/mobility)
+* [mobility](https://wikipedia.org/wiki/mobility)
 
-* [modifiability](https://en.wiktionary.orghttps://wikipedia.org/wiki/modifiability)
+* [modifiability](https://wikipedia.org/wiki/modifiability)
 
 * [modularity](https://wikipedia.org/wiki/Modularity_(programming))
 
@@ -129,11 +131,11 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [process capabilities](https://wikipedia.org/wiki/Capability_(systems_engineering))
 
-* [producibility](https://en.wiktionary.orghttps://wikipedia.org/wiki/producibility)
+* [producibility](https://wikipedia.org/wiki/producibility)
 
-* [provability](https://en.wiktionary.orghttps://wikipedia.org/wiki/provability)
+* [provability](https://wikipedia.org/wiki/provability)
 
-* [recoverability](https://en.wiktionary.orghttps://wikipedia.org/wiki/recoverability)
+* [recoverability](https://wikipedia.org/wiki/recoverability)
 
 * [relevance](https://wikipedia.org/wiki/Relevance)
 
@@ -157,13 +159,13 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [schedulability](TODO)
 
-* [seamlessness](https://en.wiktionary.orghttps://wikipedia.org/wiki/Special:Search/seamless)
+* [seamlessness](https://wikipedia.org/wiki/Special:Search/seamless)
 
 * [self-sustainability](https://wikipedia.org/wiki/Self-sustainability)
 
 * [serviceability](https://wikipedia.org/wiki/Serviceability_(computer))
 
-* [securability](https://en.wiktionary.orghttps://wikipedia.org/wiki/securability)
+* [securability](https://wikipedia.org/wiki/securability)
 
 * [separability](TODO): each item has a single well defined responsibility.
 
@@ -179,7 +181,7 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [sustainability](https://wikipedia.org/wiki/Sustainability)
 
-* [tailorability](https://en.wiktionary.orghttps://wikipedia.org/wiki/tailorability)
+* [tailorability](https://wikipedia.org/wiki/tailorability)
 
 * [testability](https://wikipedia.org/wiki/Testability)
 
@@ -189,11 +191,11 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 
 * [transparency](https://wikipedia.org/wiki/Transparency_(behavior))
 
-* [ubiquity](https://en.wiktionary.orghttps://wikipedia.org/wiki/ubiquity)
+* [ubiquity](https://wikipedia.org/wiki/ubiquity)
 
 * [understandability](https://wikipedia.org/wiki/Understandability): the system items are self-explaining, or documented, or diagrammed, etc.
 
-* [upgradability](https://en.wiktionary.orghttps://wikipedia.org/wiki/upgradability)
+* [upgradability](https://wikipedia.org/wiki/upgradability)
 
 * [usability](https://wikipedia.org/wiki/Usability)
 
