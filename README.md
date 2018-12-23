@@ -1,9 +1,10 @@
 # System Quality Attributes
 
-System quality attributes are also known as :
+System quality attributes may also be known as :
 
-* Cross-Functional Requirements (CFRs)
 * Non-Functional Requirements (NFRs)
+
+* Cross-Functional Constraints (CFCs)
 
 See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
@@ -200,3 +201,4 @@ See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wik
 * [usability](https://wikipedia.org/wiki/Usability)
 
 * [warrantability](https://en.wikipedia.org/wiki/Warranty): for guarantees or promises, express or implied, such as for legal contracts, SLAs, and QoS.
+ 
