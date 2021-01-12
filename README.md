@@ -6,7 +6,7 @@ System quality attributes may also be known as :
 
 * Cross-Functional Constraints (CFCs)
 
-* Quality of Service Specifiations (QoSSs)
+* Quality of Service Specifications (QoSSs)
 
 See Wikipedia's [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
