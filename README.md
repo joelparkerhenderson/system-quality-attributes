@@ -58,8 +58,8 @@ The quality, ability, or extent of being adaptive. Compare adaptability.
 
 The quality, ability, or extent of being administerable.
 
-  * [Wikipedia](TODO): for administering the system
-
+  * [Wikipedia](https://wikipedia.org/wiki/System_administration): The upkeep, configuration, and reliable operation of computer systems, especially multi-user computers, such as servers. The system administrator seeks to ensure that the uptime, performance, resources, and security of the computers they manage meet the needs of the users and the needs of the organization. 
+* 
   * [Dictionary](https://www.dictionary.com/browse/administer): Administer. to manage; to have executive charge of; to administer the law.
 
 
@@ -76,7 +76,7 @@ The quality, ability, or extent of being afforable.
 
 The quality, ability, or extent of being agile.
 
-  * [Wikipedia](TODO): the degree of a comprehensive response to the business challenges of rapidly changing markets.
+  * [Wikipedia](https://wikipedia.org/wiki/Business_agility)): the degree of a comprehensive response to the business challenges of rapidly changing markets. Business agility refers to rapid, continuous, and systematic evolutionary adaptation and entrepreneurial innovation directed at gaining and maintaining competitive advantage. Business agility can be sustained by maintaining and adapting the goods and services offered to meet with customer demands. An extension of this concept is the agile enterprise, which refers to an organization that uses key principles of complex adaptive systems, complexity science, and organizational intelligence to achieve success.
 
   * [Dictionary](https://www.dictionary.com/browse/agile): quick and well-coordinated in movement; lithe. marked by an ability to think quickly; mentally acute or aware. noting or relating to a philosophy of product development and production intended to create and distribute batches of working products in a short period of time with subsequent batches planned in a cyclical schedule of improvement, production, and distribution.
 
@@ -102,6 +102,8 @@ The quality, ability, or extent of being autonomous.
 ### Automatability
 
 The quality, ability, or extent of being automatable.
+
+  * [Wikipedia](https://wikipedia.org/wiki/Automation): Automation describes a wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines.
 
   * [Dictionary](https://www.dictionary.com/browse/automatable): to apply the principles of automation to (a mechanical process, industry, office, etc.). to operate or control by automation. to displace or make obsolete by automation. to install automatic procedures, as for manufacturing or servicing; follow or utilize the principles of automation.
 
@@ -155,7 +157,7 @@ The quality, ability, or extent of being configurable.
 
 The quality, ability, or extent of being controllable.
 
-  * [Wikipedia](TODO): for controling the state of the system.
+  * [Wikipedia](https://wikipedia.org/wiki/Control_system): A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines. The control systems are designed via control engineering process. 
 
   * [Dictionary](https://www.dictionary.com/browse/control): Control. To exercise direction over; dominate: command.
 To hold in check; curb. The situation of being under the regulation, domination, or command of another..
@@ -165,7 +167,7 @@ To hold in check; curb. The situation of being under the regulation, domination,
 
 The quality, ability, or extent of being consistent.
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems)):
+  * [Wikipedia](https://wikipedia.org/wiki/Consistency_(database_systems)): In database systems, consistency (or correctness) refers to the requirement that any given database transaction must change affected data only in allowed ways. Any data written to the database must be valid according to all defined rules, including constraints, cascades, triggers, and any combination thereof. This does not guarantee correctness of the transaction in all ways the application programmer might have wanted (that is the responsibility of application-level code) but merely that any programming errors cannot result in the violation of any defined database constraints. Consistency can also be understood as after a successful write, update or delete of a Record, any read request immediately receives the latest value of the Record. 
 
   * [Dictionary](https://www.dictionary.com/browse/consistent): agreeing or accordant; compatible; not self-contradictory.
 constantly adhering to the same principles, course, form, etc. holding firmly together; cohering.
@@ -175,7 +177,7 @@ constantly adhering to the same principles, course, form, etc. holding firmly to
 
 The quality, ability, or extent of being continuous.
 
-  * [Wikipedia](TODO)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Business_continuity_planning): Business continuity may be defined as "the capability of an organization to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident",[1] and business continuity planning [2][3] (or business continuity and resiliency planning) is the process of creating systems of prevention and recovery to deal with potential threats to a company. In addition to prevention, the goal is to enable ongoing operations before and during execution of disaster recovery. Business continuity is the intended outcome of proper execution of both business continuity planning and disaster recovery. 
 
   * [Dictionary](https://www.dictionary.com/browse/continuous): uninterrupted in time; without cessation. being in immediate connection or spatial relationship.
 
@@ -211,7 +213,7 @@ The quality, ability, or extent of being customizable.
 
 The quality, ability, or extent of being debuggable.
 
-  * [Wikipedia](TODO): 
+  * [Wikipedia]([TODO](https://en.wikipedia.org/wiki/Debugging): In computer programming and software development, debugging is the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.
 
   * [Dictionary](https://www.dictionary.com/browse/debug): Debug. To detect and remove defects from a system. Computers. To detect and remove errors from a computer program.
 
@@ -539,7 +541,7 @@ The quality, ability, or extent of being portable.
 
   * [Wikipedia](https://wikipedia.org/wiki/Software_portability)
 
-  * [Dictionary]()
+  * [Dictionary](https://www.dictionary.com/browse/portable): Portable. Computers. (of data sets, software, etc.) capable of being used on different computer systems. capable of being transported or conveyed: a portable stage.
 
 
 ### Precision
@@ -548,7 +550,8 @@ The quality, ability, or extent of being precise.
 
   * [Wikipedia](https://wikipedia.org/wiki/Precision_(computer_science))
 
-  * [Dictionary]()
+  * [Dictionary](https://www.dictionary.com/browse/precision): Precision. the state or quality of being precise.
+accuracy; exactness: to arrive at an estimate with precision. mechanical or scientific exactness: a lens ground with precision.
 
 
 ### Predictability
@@ -575,7 +578,7 @@ The quality, ability, or extent of being producable.
 
   * [Wikipedia](https://wikipedia.org/wiki/producibility)
 
-  * [Dictionary]()
+  * [Dictionary](https://www.dictionary.com/browse/produce) Produce. to bring into existence; give rise to; cause. to bring into existence by intellectual or creative ability.
 
 
 ### Provability
@@ -674,8 +677,7 @@ The quality, ability, or extent of being safe.
 
   * [Wikipedia](https://wikipedia.org/wiki/Safety)
 
-  * [Dictionary](https://www.dictionary.com/browse/safety): the state of being safe; freedom from the occurrence or risk of injury, danger, or loss.
-the quality of averting or not causing injury, danger, or loss.
+  * [Dictionary](https://www.dictionary.com/browse/safety): the state of being safe; freedom from the occurrence or risk of injury, danger, or loss. the quality of averting or not causing injury, danger, or loss.
 
 
 ### Scalability
@@ -684,7 +686,7 @@ The quality, ability, or extent of being scalable.
 
   * [Wikipedia](https://wikipedia.org/wiki/Scalability)
 
-  * [Dictionary](TODO)
+  * [Dictionary](https://www.dictionary.com/browse/scalability): Scalability. the ability of something, esp a computer system, to adapt to increased demands.
 
 
 ### Schedulability
@@ -713,8 +715,8 @@ The quality, ability, or extent of being self-sustainable.
 
   * [Wikipedia](https://wikipedia.org/wiki/Self-sustainability)
 
-  * [Dictionary]()
-
+  * [Dictionary](https://www.dictionary.com/browse/sustainable): Sustainable. capable of being supported or upheld, as by having its weight borne from below. pertaining to a system that maintains its own viability by using techniques that allow for continual reuse.
+  
 
 ### Serviceability
 
@@ -740,7 +742,7 @@ The quality, ability, or extent of being separable.
 
   * [Wikipedia](TODO): each item has a single well defined responsibility.
 
-  * [Dictionary](https://www.dictionary.com/browse/separable): capable of being separated, parted, or dissociated.
+  * [Dictionary](https://www.dictionary.com/browse/separable): Separable. capable of being separated, parted, or dissociated.
 
 
 ### Simplicity
@@ -758,7 +760,7 @@ The quality, ability, or extent of being stable.
 
   * [Wikipedia](https://wikipedia.org/wiki/Stability_Model)
 
-  * [Dictionary]()
+  * [Dictionary](https://www.dictionary.com/browse/stability): Stability. the state or quality of being stable. Firmness in position. Continuance without change; permanence.
 
 
 ### Standards compliance
@@ -767,8 +769,8 @@ The quality, ability, or extent of being standards compliant.
 
   * [Wikipedia](https://wikipedia.org/wiki/Standardization)
 
-  * [Dictionary]()
-
+  * [Dictionary](https://www.dictionary.com/browse/standardize): Standardize. to compare with or test by a standard.
+  
 
 ### Supportability
 
@@ -776,7 +778,7 @@ The quality, ability, or extent of being supportable.
 
   * [Wikipedia](TODO)
 
-  * [Dictionary](https://www.dictionary.com/browse/survive): Survive. to continue to live or exist after the death, cessation, or occurrence of. to endure or live through (an affliction, adversity, misery, etc.).
+  * [Dictionary](https://www.dictionary.com/browse/supportability): Supportability. capable of being supported; endurable; maintainable.
 
 
 ### Survivability
@@ -785,7 +787,8 @@ The quality, ability, or extent of being survivable.
 
   * [Wikipedia](https://wikipedia.org/wiki/Survivability)
 
-  * [Dictionary]()
+  * [Dictionary](https://www.dictionary.com/browse/survive): Survive. to continue to live or exist after the death, cessation, or occurrence of. to endure or live through (an affliction, adversity, misery, etc.).
+
 
 
 ### Sustainability
