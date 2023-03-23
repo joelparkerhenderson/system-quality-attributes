@@ -2,9 +2,7 @@
 
 Degradability: the quality/ability/extent of being degradable.
 
-<div data-chatgpt-prompt="explain degradability (system quality attribute, non-functional requirement, cross-functional contraint)">
-
-Degradability is a system quality attribute that refers to the ability of a system to operate at an acceptable level of performance even when certain components or resources are unavailable. 
+<div data-chatgpt-prompt="explain degradability (system quality attribute, cross-functional constraint, non-functional requirement)">Degradability is a system quality attribute that refers to the ability of a system to operate at an acceptable level of performance even when certain components or resources are unavailable. 
 
 Degradability is a non-functional requirement that is essential for systems that are critical to business operations or public safety.
 
@@ -12,9 +10,7 @@ Degradability is a cross-functional constraint that affects multiple aspects of 
 
 A system that is not sufficiently degradable may experience catastrophic failure in the event of an unexpected outage or overload. This can lead to significant financial losses, loss of life, or damage to the reputation of the organization that operates the system.
 
-In contrast, a highly degradable system can continue to operate even during adverse conditions, allowing critical functions to continue without interruption. This can help to increase the reliability, availability, and maintainability of the system, which are all important considerations for ensuring business continuity and public safety.
-
-</div>
+In contrast, a highly degradable system can continue to operate even during adverse conditions, allowing critical functions to continue without interruption. This can help to increase the reliability, availability, and maintainability of the system, which are all important considerations for ensuring business continuity and public safety.</div>
 
 * [Wikipedia: TODO](TODO). 
 

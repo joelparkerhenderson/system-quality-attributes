@@ -4,9 +4,9 @@ System quality attributes are a broad way to describe all of these:
 
 * [System Quality Attributes (SQAs)](doc/system-quality-attributes)
 
-* [Non-Functional Requirements (NFRs)](doc/non-functional-requirements)
+* [Cross-Functional Constraints (CFCs)](doc/cross-functional-constraints)
 
-* [Cross-Functional Constraints (CFCs)](doc/cross-functional-contraints)
+* [Non-Functional Requirements (NFRs)](doc/non-functional-requirements)
 
 System quality attributes explained:
 

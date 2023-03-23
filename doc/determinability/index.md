@@ -2,17 +2,13 @@
 
 Determinability: the quality/ability/extent of being determinable.
 
-<div data-chatgpt-prompt="explain determinability (system quality attribute, non-functional requirement, cross-functional contraint)">
-
-Determinability refers to the ability of a system or software application to identify, diagnose, and rectify any errors or problems that may arise during its operation. It is a system quality attribute that ensures the reliability and stability of the system. This non-functional requirement is a cross-functional constraint that impacts various aspects of software development, including design, implementation, testing, and maintenance.
+<div data-chatgpt-prompt="explain determinability (system quality attribute, cross-functional constraint, non-functional requirement)">Determinability refers to the ability of a system or software application to identify, diagnose, and rectify any errors or problems that may arise during its operation. It is a system quality attribute that ensures the reliability and stability of the system. This non-functional requirement is a cross-functional constraint that impacts various aspects of software development, including design, implementation, testing, and maintenance.
 
 Determinability is an essential system quality attribute because it enhances the system's ability to self-diagnose and self-correct any problems that may occur. This attribute contributes to the dependability, fault tolerance, and availability of the system. It also helps to reduce downtime, improve user experience, and increase system efficiency.
 
 To achieve determinability, software developers must design and implement robust error handling mechanisms that can detect and diagnose failures, log error messages, and provide feedback to users. Moreover, they must ensure that the system is capable of recovering from failures and that the recovery process is transparent and reliable.
 
-In summary, determinability is a system quality attribute that ensures the reliability, stability, and robustness of a system. It is a non-functional requirement that impacts various aspects of software development, including design, implementation, testing, and maintenance. Achieving determinability requires robust error handling mechanisms, fault tolerance, and reliable recovery processes.
-
-</div>
+In summary, determinability is a system quality attribute that ensures the reliability, stability, and robustness of a system. It is a non-functional requirement that impacts various aspects of software development, including design, implementation, testing, and maintenance. Achieving determinability requires robust error handling mechanisms, fault tolerance, and reliable recovery processes.</div>
 
 * [Wikipedia: Determinable](https://wikipedia.org/wiki/Determinable): TODO
 

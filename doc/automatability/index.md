@@ -2,15 +2,11 @@
 
 Automatability: the quality/ability/extent of being automatable.
 
-<div data-chatgpt-prompt="explain automatability (system quality attribute, non-functional requirement, cross-functional contraint)">
-
-Automatability is a system quality attribute that refers to the ease with which a system can be automated or integrate with automation tools. 
+<div data-chatgpt-prompt="explain automatability (system quality attribute, cross-functional constraint, non-functional requirement)">Automatability is a system quality attribute that refers to the ease with which a system can be automated or integrate with automation tools. 
 
 Automatability is a non-functional requirement that involves creating software that can easily automate its processes, i.e., make it easy to integrate with scripts or other automated tools. Automatability is a critical attribute for modern software development and can save time and reduce the likelihood of errors or bugs.
 
-Automatability is a cross-functional constraint that affects developers, testers, and system administrators who can automate their workflows with the help of automation tools. In summary, by considering automatability as an essential system quality attribute, software development teams can build more sustainable and efficient software systems that offer long-term benefits to both developers and end-users.
-
-</div>
+Automatability is a cross-functional constraint that affects developers, testers, and system administrators who can automate their workflows with the help of automation tools. In summary, by considering automatability as an essential system quality attribute, software development teams can build more sustainable and efficient software systems that offer long-term benefits to both developers and end-users.</div>
 
 * [Wikipedia: Automation](https://wikipedia.org/wiki/Automation): A wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines.
 
