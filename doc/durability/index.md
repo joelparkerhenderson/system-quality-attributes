@@ -14,11 +14,11 @@ Overall, durability is a critical system quality attribute that must be carefull
 
 </span>
 
+**Define durable:** <span data-chatgpt-prompt="define durable (computers and software)">Durable in the context of computers and software refers to the ability of a device or program to withstand wear and tear, perform consistently over a long period of time, and withstand changes or updates in the technological environment without becoming obsolete. Durable computers and software are designed with reliable components and feature regular maintenance to ensure longevity and avoid data loss or corruption.</span>
+
 ## See Also
 
 * [Wikipedia: Durability (database systems](https://wikipedia.org/wiki/Durability_(database_systems)): a transaction that is committed is preserved, even in the event of power loss, crashes, or errors; see [ACID](https://wikipedia.org/wiki/ACID).
 
 * [Dictionary: durable](https://www.dictionary.com/browse/durable): able to resist wear, decay, etc., well; lasting; enduring.
-
-* [OpenAI: durable](https:://openai.com): <span data-chatgpt-prompt="define durable (computers and software)">Durable in the context of computers and software refers to the ability of a device or program to withstand wear and tear, perform consistently over a long period of time, and withstand changes or updates in the technological environment without becoming obsolete. Durable computers and software are designed with reliable components and feature regular maintenance to ensure longevity and avoid data loss or corruption.</span>
 

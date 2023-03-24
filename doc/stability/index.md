@@ -12,10 +12,10 @@ As a cross-functional constraint, stability requires the collaboration and coope
 
 </span>
 
+**Define stable:** <span data-chatgpt-prompt="define stable (computers and software)">In the context of computers and software, stability refers to the ability of a system to function reliably and consistently without crashing or malfunctioning under normal operating conditions. A stable computer or software is one that can effectively manage the resources it uses, handle user input, and respond to external inputs or events without causing unexpected errors or data loss. A stable system is crucial for ensuring optimal performance, user satisfaction, and data security.</span>
+
 ## See Also
 
 * [Wikipedia: Stability_Model](https://wikipedia.org/wiki/Stability_Model)
 
 * [Dictionary: stability](https://www.dictionary.com/browse/stability): Stability. the state or quality of being stable. Firmness in position. Continuance without change; permanence.
-
-* [OpenAI: stable](https:://openai.com): <span data-chatgpt-prompt="define stable (computers and software)">In the context of computers and software, stability refers to the ability of a system to function reliably and consistently without crashing or malfunctioning under normal operating conditions. A stable computer or software is one that can effectively manage the resources it uses, handle user input, and respond to external inputs or events without causing unexpected errors or data loss. A stable system is crucial for ensuring optimal performance, user satisfaction, and data security.</span>

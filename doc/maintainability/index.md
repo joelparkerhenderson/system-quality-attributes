@@ -12,10 +12,10 @@ Some of the key factors that influence maintainability include the use of modula
 
 </span>
 
+**Define maintainable:** <span data-chatgpt-prompt="define maintainable (computers and software)">Maintainable refers to the ability of a computer or software system to be easily maintained, repaired, or modified over time. A maintainable system is designed to minimize downtime, reduce the risk of errors or bugs, and allow for upgrades or changes to be implemented with minimal disruption. It typically involves using best practices for programming, testing, and documentation, as well as ensuring that the system is scalable and adaptable to future needs. Ultimately, a maintainable system will save time and resources, improve reliability and efficiency, and help to ensure that the system continues to meet the needs of its users over the long term.</span>
+
 ## See Also
 
 * [Wikipedia: Maintainability](https://wikipedia.org/wiki/Maintainability)
 
 * [Dictionary]()
-
-* [OpenAI: maintainable](https:://openai.com): <span data-chatgpt-prompt="define maintainable (computers and software)">Maintainable refers to the ability of a computer or software system to be easily maintained, repaired, or modified over time. A maintainable system is designed to minimize downtime, reduce the risk of errors or bugs, and allow for upgrades or changes to be implemented with minimal disruption. It typically involves using best practices for programming, testing, and documentation, as well as ensuring that the system is scalable and adaptable to future needs. Ultimately, a maintainable system will save time and resources, improve reliability and efficiency, and help to ensure that the system continues to meet the needs of its users over the long term.</span>

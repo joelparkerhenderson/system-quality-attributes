@@ -14,10 +14,10 @@ Overall, tryability is an important aspect of system quality as it enables bette
 
 </span>
 
+**Define tryable:** <span data-chatgpt-prompt="define tryable (computers and software)">As an AI language model, I cannot find the word "tryable" in any technical or computing context. Please provide more context or a specific definition if you have one.</span>
+
 ## See Also
 
 * [Wikipedia: Tryability](https://wikipedia.org/wiki/Tryability): the system items are easy to for a user try.
 
 * [Dictionary: try](https://www.dictionary.com/browse/try): Try. to attempt to do or accomplish. to test the effect or result of. to make an attempt or effort; strive.
-
-* [OpenAI: tryable](https:://openai.com): <span data-chatgpt-prompt="define tryable (computers and software)">As an AI language model, I cannot find the word "tryable" in any technical or computing context. Please provide more context or a specific definition if you have one.</span>

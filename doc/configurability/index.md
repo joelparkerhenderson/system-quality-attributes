@@ -14,10 +14,10 @@ In summary, configurability is a system quality attribute that enables a system 
 
 </span>
 
+**Define configurable:** <span data-chatgpt-prompt="define configurable (computers and software)">Configurable refers to a feature or capability of computer hardware or software that can be easily customized or adjusted according to the user's preferences or requirements. This means that users can modify certain settings or options within the system to meet specific needs, such as changing the language, font size, screen resolution, or input/output devices. Configurable systems are designed to be flexible, adaptable, and user-friendly, allowing users to tailor the system to their specific needs and preferences. Additionally, configurable systems often have a range of pre-built options and settings that can be easily adjusted to match different workflows or use cases.</span>
+
 ## See Also
 
 * [Wikipedia: Configurability](https://wikipedia.org/wiki/Configurability): The capability of a system for its behavior to be changed by configuration or reconfiguration, e.g. by loading different code. Static configurability distinguishes between configuration time and later run time. Dynamic configurability denotes the capability of a system to be changed while it's running.
 
 * [Dictionary: configurable](https://www.dictionary.com/browse/configurable): to design or adapt to form a specific configuration or for some specific purpose. to put together (a computer or computer system) by supplying, arranging, or connecting components. to set up (a software program or device) for a particular computer, computer system, or task.
-
-* [OpenAI: configurable](https:://openai.com): <span data-chatgpt-prompt="define configurable (computers and software)">Configurable refers to a feature or capability of computer hardware or software that can be easily customized or adjusted according to the user's preferences or requirements. This means that users can modify certain settings or options within the system to meet specific needs, such as changing the language, font size, screen resolution, or input/output devices. Configurable systems are designed to be flexible, adaptable, and user-friendly, allowing users to tailor the system to their specific needs and preferences. Additionally, configurable systems often have a range of pre-built options and settings that can be easily adjusted to match different workflows or use cases.</span>

@@ -12,11 +12,11 @@ Refactoring is an essential activity in software development that helps to impro
 
 </span>
 
+**Define refactorable:** <span data-chatgpt-prompt="define refactorable (computers and software)">Refactorable refers to the ability of a computer program or software to be easily modified or optimized without changing its behavior or functionality. Refactoring involves restructuring, simplifying, or improving the code without altering the end result. A refactorable codebase allows developers to make changes efficiently and maintain it well over time.</span>
+
 ## See Also
 
 * [Wikipedia: Refactorability](https://wikipedia.org/wiki/Refactorability)
 
 * [Dictionary: refactor](https://www.dictionary.com/browse/refactor)
-
-* [OpenAI: refactorable](https:://openai.com): <span data-chatgpt-prompt="define refactorable (computers and software)">Refactorable refers to the ability of a computer program or software to be easily modified or optimized without changing its behavior or functionality. Refactoring involves restructuring, simplifying, or improving the code without altering the end result. A refactorable codebase allows developers to make changes efficiently and maintain it well over time.</span>
 

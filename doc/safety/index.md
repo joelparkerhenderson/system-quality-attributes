@@ -14,10 +14,10 @@ Overall, safety is an essential system quality attribute that must be considered
 
 </span>
 
+**Define safe:** <span data-chatgpt-prompt="define safe (computers and software)">In the context of computers and software, "safe" generally means that the technology does not do any harm to the user's system, data or privacy. A safe software or application is one that functions properly and reliably, without crashing, corrupting data or opening security vulnerabilities. Safe software is also free from malware or viruses, and does not engage in any malicious activities such as phishing, spying, or stealing user data. Safe computers refer to systems that are secure from external and internal threats, such as cyber-attacks, viruses, and unauthorized access.</span>
+
 ## See Also
 
 * [Wikipedia: Safety](https://wikipedia.org/wiki/Safety)
 
 * [Dictionary: safety](https://www.dictionary.com/browse/safety): the state of being safe; freedom from the occurrence or risk of injury, danger, or loss. the quality of averting or not causing injury, danger, or loss.
-
-* [OpenAI: safe](https:://openai.com): <span data-chatgpt-prompt="define safe (computers and software)">In the context of computers and software, "safe" generally means that the technology does not do any harm to the user's system, data or privacy. A safe software or application is one that functions properly and reliably, without crashing, corrupting data or opening security vulnerabilities. Safe software is also free from malware or viruses, and does not engage in any malicious activities such as phishing, spying, or stealing user data. Safe computers refer to systems that are secure from external and internal threats, such as cyber-attacks, viruses, and unauthorized access.</span>

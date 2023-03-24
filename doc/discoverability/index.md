@@ -12,12 +12,12 @@ To enhance discoverability, designers and developers can employ a range of strat
 
 </span>
 
+**Define discoverable:** <span data-chatgpt-prompt="define discoverable (computers and software)">Discoverable refers to the ability of computers and software to be found and recognized by other devices or software on a network. For instance, when a device is discoverable, it means other devices on the same network can detect its presence, exchange data, and communicate with it. This feature is essential for wireless connections like Bluetooth and Wi-Fi, where devices need to identify and connect with each other. In software, discoverability refers to the ease with which users can locate and access certain functions or features within an application. A well-designed application will have easy-to-find commands or menus that make it straightforward for users to navigate and perform tasks.
+
 ## See Also
 
 * [Wikipedia: Discoverability](https://wikipedia.org/wiki/Discoverability): TODO
 
 * [Dictionary: discover](https://www.dictionary.com/browse/discover): to see, get knowledge of, learn of, find, or find out; gain sight or knowledge of (something previously unseen or unknown). to notice or realize.
-
-* [OpenAI: discoverable](https:://openai.com): <span data-chatgpt-prompt="define discoverable (computers and software)">Discoverable refers to the ability of computers and software to be found and recognized by other devices or software on a network. For instance, when a device is discoverable, it means other devices on the same network can detect its presence, exchange data, and communicate with it. This feature is essential for wireless connections like Bluetooth and Wi-Fi, where devices need to identify and connect with each other. In software, discoverability refers to the ease with which users can locate and access certain functions or features within an application. A well-designed application will have easy-to-find commands or menus that make it straightforward for users to navigate and perform tasks.
 </span>
 

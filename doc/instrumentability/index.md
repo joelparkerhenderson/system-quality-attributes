@@ -14,10 +14,10 @@ In summary, instrumentability is a system quality attribute that ensures that a 
 
 </span>
 
+**Define instrumentable:** <span data-chatgpt-prompt="define instrumentable (computers and software)">An instrumentable system exposes a set of internal metrics and statistics that can be collected, analyzed and visualized by various tools. This allows developers and operators to identify issues or bottlenecks, make informed decisions, and optimize the system's behavior. Instrumentation is a crucial aspect of modern monitoring and observability solutions.</span>
+
 ## See Also
 
 * [Wikipedia: Instrumentation (computer programming)](https://wikipedia.org/wiki/Instrumentation_(computer_programming): In the context of computer programming, instrumentation refers to the measure of a product's performance, in order to diagnose errors and to write trace information. Instrumentation can be of two types: source instrumentation and binary instrumentation. Output can include profiling that measures dynamic program behaviors during a training run with a representative input, or inserting timers into functions, or logging major events such as crashes, etc.
 
 * [Dictionary: instrumentation](https://www.dictionary.com/browse/instrumentation): the science of developing, manufacturing, and utilizing instruments, especially those used in science and industry.
-
-* [OpenAI: instrumentable](https:://openai.com): <span data-chatgpt-prompt="define instrumentable (computers and software)">An instrumentable system exposes a set of internal metrics and statistics that can be collected, analyzed and visualized by various tools. This allows developers and operators to identify issues or bottlenecks, make informed decisions, and optimize the system's behavior. Instrumentation is a crucial aspect of modern monitoring and observability solutions.</span>

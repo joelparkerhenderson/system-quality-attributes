@@ -12,12 +12,12 @@ Finally, fidelity can be regarded as a cross-functional constraint, as it affect
 
 </span>
 
+**Define fidelity:** <span data-chatgpt-prompt="define fidelity (computers and software)">Fidelity refers to the degree of accuracy, reliability, and faithfulness in reproducing or representing data, graphics, or sound in digital form. It is used to describe the quality of the output from software or hardware devices such as monitors, speakers, printers, and graphics cards. High fidelity means that the output accurately represents the original input or source material, with minimal loss of detail or distortion. In the context of digital audio, fidelity is also referred to as the quality of the sound and the absence of any noise or distortion. High-fidelity sound is often associated with high-quality audio equipment and the use of lossless or uncompressed digital audio formats.</span>
+
 ## See Also
 
 * [Wikipedia: Fidelity](https://wikipedia.org/wiki/Fidelity): TODO
 
 * [Dictionary: fiddelity](https://www.dictionary.com/browse/fidelity): strict observance of promises, duties, etc.; adherence to fact or detail. accuracy; exactness.
-
-* [OpenAI: fidelity](https:://openai.com): <span data-chatgpt-prompt="define fidelity (computers and software)">Fidelity refers to the degree of accuracy, reliability, and faithfulness in reproducing or representing data, graphics, or sound in digital form. It is used to describe the quality of the output from software or hardware devices such as monitors, speakers, printers, and graphics cards. High fidelity means that the output accurately represents the original input or source material, with minimal loss of detail or distortion. In the context of digital audio, fidelity is also referred to as the quality of the sound and the absence of any noise or distortion. High-fidelity sound is often associated with high-quality audio equipment and the use of lossless or uncompressed digital audio formats.</span>
 
 

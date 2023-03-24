@@ -8,10 +8,10 @@ Reusability is a system quality attribute as it refers to the extent to which a 
 
 </span>
 
+**Define reusable:** <span data-chatgpt-prompt="define reusable (computers and software)">Reusable in the context of computers and software refers to code, scripts, modules, or applications that can be used again in different contexts or projects without modification, saving time and effort. These reusable components are generally designed to be generic and adaptable to different scenarios, making them a cost-effective and efficient way to build software solutions. In general, reusable code is characterized by its modularity, maintainability, flexibility, and portability.</span>
+
 ## See Also
 
 * [Wikipedia: Reusability](https://wikipedia.org/wiki/Reusability)
 
 * [Dictionary: reusable](https://www.dictionary.com/browse/reusable): able to be used more than once.
-
-* [OpenAI: reusable](https:://openai.com): <span data-chatgpt-prompt="define reusable (computers and software)">Reusable in the context of computers and software refers to code, scripts, modules, or applications that can be used again in different contexts or projects without modification, saving time and effort. These reusable components are generally designed to be generic and adaptable to different scenarios, making them a cost-effective and efficient way to build software solutions. In general, reusable code is characterized by its modularity, maintainability, flexibility, and portability.</span>

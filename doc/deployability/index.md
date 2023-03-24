@@ -14,10 +14,10 @@ In summary, deployability is a critical system quality attribute that ensures th
 
 </span>
 
+**Define deployable:** <span data-chatgpt-prompt="define deployable (computers and software)">Deployable refers to computers and software that can be easily and quickly deployed or implemented in a specific environment or system. This means that the device or application can be configured and installed without requiring extensive setup or configuration, allowing for rapid deployment and scaling of a solution. These technologies are typically designed to be highly portable and modular, making them ideal for use in a variety of settings and contexts.</span>
+
 ## See Also
 
 * [Wikipedia: Deployability](https://wikipedia.org/wiki/Deployability)
 
 * [Dictionary: deploy](https://www.dictionary.com/browse/deploy): to arrange in a position of readiness, or to move strategically or appropriately. to spread out strategically or in an extended front or line.
-
-* [OpenAI: deployable](https:://openai.com): <span data-chatgpt-prompt="define deployable (computers and software)">Deployable refers to computers and software that can be easily and quickly deployed or implemented in a specific environment or system. This means that the device or application can be configured and installed without requiring extensive setup or configuration, allowing for rapid deployment and scaling of a solution. These technologies are typically designed to be highly portable and modular, making them ideal for use in a variety of settings and contexts.</span>

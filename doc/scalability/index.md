@@ -25,10 +25,10 @@ Scalability can be measured over multiple dimensions, such as:
 * Heterogeneous scalability is the ability to adopt components from different vendors.
 
 
+**Define scalable:** <span data-chatgpt-prompt="define scalable (computers and software)">Scalable refers to the ability of computer hardware, software or applications to adapt to increased demand or usage, without sacrificing performance or functionality. It means that a system can handle an increase in workload or users in a cost-effective manner without compromising quality or speed. The scalability of a system is usually achieved through the use of efficient hardware and software architectures, as well as the ability to add more resources or capacity as needed.</span>
+
 ## See Also
 
 * [Wikipedia: Scalability](https://wikipedia.org/wiki/Scalability): Scalability is the property of a system to handle a growing amount of work by adding resources to the system. In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications.
 
 * [Dictionary: scalability](https://www.dictionary.com/browse/scalability): Scalability. the ability of something, esp a computer system, to adapt to increased demands.
-
-* [OpenAI: scalable](https:://openai.com): <span data-chatgpt-prompt="define scalable (computers and software)">Scalable refers to the ability of computer hardware, software or applications to adapt to increased demand or usage, without sacrificing performance or functionality. It means that a system can handle an increase in workload or users in a cost-effective manner without compromising quality or speed. The scalability of a system is usually achieved through the use of efficient hardware and software architectures, as well as the ability to add more resources or capacity as needed.</span>

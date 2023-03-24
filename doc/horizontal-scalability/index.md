@@ -1,6 +1,6 @@
 # Horizontal scalability
 
-**Horizontal scalability: the quality/ability/extent of being scalable across more load providers, such as by adding more servers and clusters. Contrast vertical scalability.**
+**Horizontal scalability: the quality/ability/extent of being scalable across more load providers, such as by adding more servers and clusters; contrast vertical scalability.**
 
 <span data-chatgpt-prompt="explain horizontal scalability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
@@ -14,10 +14,10 @@ In summary, horizontal scalability is a vital quality attribute that ensures a s
 
 </span>
 
+**Define simple:** <span data-chatgpt-prompt="define horizontal scaling (computers and software)">Horizontal scaling is the process of adding more computing resources such as servers, storage devices, or network bandwidth to a system to increase its overall processing capacity. It is a scalability strategy that allows an application or system to handle more workloads and traffic by distributing the workload across multiple servers or nodes, rather than relying on a single larger server. Horizontal scaling is an important feature of modern cloud-based infrastructure, as it allows businesses to easily scale their resources up and down to meet changing demands without disrupting the end-users' experience.</span>
+
 ## See Also
 
 * [Wikipedia: Scalability](https://wikipedia.org/wiki/Scalability):  Scalability is the property of a system to handle a growing amount of work by adding resources to the system. In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications. Scaling horizontally (out/in) means adding more nodes to (or removing nodes from) a system, such as adding a new computer to a distributed software application.
 
 * [Dictionary: TODO](https://www.dictionary.com/browse/TODO)
-
-* [OpenAI: simple](https:://openai.com): <span data-chatgpt-prompt="define horizontal scaling (computers and software)">Horizontal scaling is the process of adding more computing resources such as servers, storage devices, or network bandwidth to a system to increase its overall processing capacity. It is a scalability strategy that allows an application or system to handle more workloads and traffic by distributing the workload across multiple servers or nodes, rather than relying on a single larger server. Horizontal scaling is an important feature of modern cloud-based infrastructure, as it allows businesses to easily scale their resources up and down to meet changing demands without disrupting the end-users' experience.</span>

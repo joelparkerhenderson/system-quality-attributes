@@ -12,10 +12,10 @@ Ensuring accuracy in a system requires careful design, testing, and validation. 
 
 </span>
 
+**Define accuracy:** <span data-chatgpt-prompt="define accuracy (computers and software)">Accurate refers to the ability of computers and software systems to produce results that are free from errors or discrepancies and are very close to the true or expected value. In other words, accuracy is the degree of conformity of the output of a system to the correct or expected value. It is a critical measure of the reliability and effectiveness of computer-based systems, as accurate information is essential for decision-making, analysis, and other important tasks. The accuracy of a system depends on various factors, including the precision of the algorithms used, the quality of the data input, and the limitations of the hardware being used.</span>
+
 ## See Also
 
 * [Wikipedia: Accuracy](https://wikipedia.org/wiki/Accuracy): In a set of measurements, accuracy is closeness of the measurements to a specific value, while precision is the closeness of the measurements to each other; ISO calls this trueness.
 
 * [Dictionary: accurate](https://www.dictionary.com/browse/accurate): Free from error or defect; consistent with a standard, rule, or model; precise; exact. careful or meticulous.
-
-* [OpenAI: accuracy](https:://openai.com): <span data-chatgpt-prompt="define accuracy (computers and software)">Accurate refers to the ability of computers and software systems to produce results that are free from errors or discrepancies and are very close to the true or expected value. In other words, accuracy is the degree of conformity of the output of a system to the correct or expected value. It is a critical measure of the reliability and effectiveness of computer-based systems, as accurate information is essential for decision-making, analysis, and other important tasks. The accuracy of a system depends on various factors, including the precision of the algorithms used, the quality of the data input, and the limitations of the hardware being used.</span>

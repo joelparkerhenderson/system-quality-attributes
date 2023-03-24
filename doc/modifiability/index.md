@@ -14,10 +14,10 @@ In summary, modifiability is a system quality attribute, a non-functional requir
 
 </span>
 
+**Define modifiable:** <span data-chatgpt-prompt="define modifiable (computers and software)">Modifiable in the context of computers and software refers to the ability to make changes or modifications to the code or settings of an application or system. This can be done by a user, developer or administrator to customize or optimize the performance, improve functionality, or add new features to the software. Modifiability is a desirable quality of software, as it allows for flexibility and adaptability to changing user needs and business requirements.</span>
+
 ## See Also
 
 * [Wikipedia: modifiability](https://wikipedia.org/wiki/modifiability)
 
 * [Dictionary: modify](https://www.dictionary.com/browse/modify): Modify. to change somewhat the form or qualities of; alter partially; amend.
-
-* [OpenAI: modifiable](https:://openai.com): <span data-chatgpt-prompt="define modifiable (computers and software)">Modifiable in the context of computers and software refers to the ability to make changes or modifications to the code or settings of an application or system. This can be done by a user, developer or administrator to customize or optimize the performance, improve functionality, or add new features to the software. Modifiability is a desirable quality of software, as it allows for flexibility and adaptability to changing user needs and business requirements.</span>

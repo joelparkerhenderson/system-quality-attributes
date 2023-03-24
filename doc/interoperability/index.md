@@ -14,10 +14,10 @@ Interoperability is a cross-functional constraint because it affects multiple as
 
 </span>
 
+**Define interoperable:** <span data-chatgpt-prompt="define interoperable (computers and software)">Interoperable refers to the ability of computers and software systems to communicate and work seamlessly with each other, regardless of the operating system or programming language used. Interoperability enables different systems to share data and access each other's resources, enabling efficient data transfer and collaboration between different applications or platforms. This is crucial for ensuring that different technologies can work together seamlessly and can be used interchangeably to achieve a common goal or objective.</span>
+
 ## See Also
 
 * [Wikipedia: Interoperability](https://wikipedia.org/wiki/Interoperability)
 
 * [Dictionary: interoperable](https://www.dictionary.com/browse/interoperable): capable of being used or operated reciprocally.
-
-* [OpenAI: interoperable](https:://openai.com): <span data-chatgpt-prompt="define interoperable (computers and software)">Interoperable refers to the ability of computers and software systems to communicate and work seamlessly with each other, regardless of the operating system or programming language used. Interoperability enables different systems to share data and access each other's resources, enabling efficient data transfer and collaboration between different applications or platforms. This is crucial for ensuring that different technologies can work together seamlessly and can be used interchangeably to achieve a common goal or objective.</span>

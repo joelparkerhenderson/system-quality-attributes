@@ -14,11 +14,11 @@ In summary, failure-transparency is an essential system quality attribute that h
 
 </span>
 
+**Define failure-transparent:** <span data-chatgpt-prompt="define failure-transparent (computers and software)">Failure-transparent is a term used in computer science and software engineering to describe a system or software that is resilient and able to handle failures without disrupting or completely stopping the system's operation. A failure-transparent system can detect and handle errors, failures, and unexpected events without compromising the overall functioning of the system. Such a system is designed to provide high availability and fault tolerance, ensuring the continuity of the system's operation even in the face of hardware, software, or network failures. In simple terms, a failure-transparent system is one that fails gracefully, allowing the system to continue functioning despite any issues or faults that may arise.</span>
+
 ## See Also
 
 * [Wikipedia: Failure-transparency](https://wikipedia.org/wiki/Failure_transparency): TODO
 
 * [Dictionary: TODO](TODO)
-
-* [OpenAI: failure-transparent](https:://openai.com): <span data-chatgpt-prompt="define failure-transparent (computers and software)">Failure-transparent is a term used in computer science and software engineering to describe a system or software that is resilient and able to handle failures without disrupting or completely stopping the system's operation. A failure-transparent system can detect and handle errors, failures, and unexpected events without compromising the overall functioning of the system. Such a system is designed to provide high availability and fault tolerance, ensuring the continuity of the system's operation even in the face of hardware, software, or network failures. In simple terms, a failure-transparent system is one that fails gracefully, allowing the system to continue functioning despite any issues or faults that may arise.</span>
 

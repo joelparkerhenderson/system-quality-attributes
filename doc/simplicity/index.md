@@ -14,10 +14,10 @@ As a non-functional requirement, simplicity is a design parameter that must be c
 
 </span>
 
+**Define simple:** <span data-chatgpt-prompt="define simple (computers and software)">Simple in the context of computers and software refers to something that is easy to use, understand, and learn. It is typically designed to be user-friendly and intuitive, with a minimal learning curve. A simple software program or application is often characterized by a clean and uncluttered user interface, streamlined functionality, and straightforward navigation. Similarly, simple hardware components are usually uncomplicated in design and assembly, with minimal components and easy assembly instructions. Overall, simplicity in computing and software refers to a product that is accessible to users of all levels of technical expertise.</span>
+
 ## See Also
 
 * [Wikipedia: Simplicity](https://wikipedia.org/wiki/Simplicity)
 
 * [Dictionary: simple](https://www.dictionary.com/browse/simple): Simple. easy to understand, deal with, use, etc. not elaborate; plain. not ornate; unadorned.
-
-* [OpenAI: simple](https:://openai.com): <span data-chatgpt-prompt="define simple (computers and software)">Simple in the context of computers and software refers to something that is easy to use, understand, and learn. It is typically designed to be user-friendly and intuitive, with a minimal learning curve. A simple software program or application is often characterized by a clean and uncluttered user interface, streamlined functionality, and straightforward navigation. Similarly, simple hardware components are usually uncomplicated in design and assembly, with minimal components and easy assembly instructions. Overall, simplicity in computing and software refers to a product that is accessible to users of all levels of technical expertise.</span>

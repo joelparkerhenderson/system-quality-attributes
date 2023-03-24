@@ -14,10 +14,10 @@ Distributability can also be viewed as a cross-functional constraint because it 
 
 </span>
 
+**Define distributable:** <span data-chatgpt-prompt="define distributable (computers and software)">Distributable refers to software or computer programs that can be legally distributed or shared with others. These programs are typically designed to be installed on multiple devices and used by multiple users. Distributable software often includes licensing terms that specify the conditions under which it can be distributed, such as the number of users or devices allowed to use the program, and any restrictions on its use or distribution.</span>
+
 ## See Also
 
 * [Wikipedia: Distributability](https://wikipedia.org/wiki/Distributability)
 
 * [Dictionary: distribute](https://www.dictionary.com/browse/distribute): to divide and give out in shares; deal out; allot. to disperse through a space or over an area; spread; scatter.
-
-* [OpenAI: distributable](https:://openai.com): <span data-chatgpt-prompt="define distributable (computers and software)">Distributable refers to software or computer programs that can be legally distributed or shared with others. These programs are typically designed to be installed on multiple devices and used by multiple users. Distributable software often includes licensing terms that specify the conditions under which it can be distributed, such as the number of users or devices allowed to use the program, and any restrictions on its use or distribution.</span>

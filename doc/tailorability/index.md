@@ -12,10 +12,10 @@ Tailorability is essential for systems that serve different users or user groups
 
 </span>
 
+**Define tailorable:** <span data-chatgpt-prompt="define tailorable (computers and software)">Tailorable in the context of computers and software means the ability to customize or modify the functionality, user interface, or features of a software application according to specific needs or preferences. It enables users or developers to adapt the software to suit their unique requirements, be it personal or business, without the need for extensive programming skills. Tailorable software can be easily configured or modified through user-friendly options, plug-ins, or scripting languages to provide a more streamlined, intuitive, and efficient user experience.</span>
+
 ## See Also
 
 * [Wikipedia: tailorability](https://wikipedia.org/wiki/tailorability)
 
 * [Dictionary: tailor](https://www.dictionary.com/browse/tailor): Tailor. to fashion or adapt to a particular taste, purpose, need, etc.
-
-* [OpenAI: tailorable](https:://openai.com): <span data-chatgpt-prompt="define tailorable (computers and software)">Tailorable in the context of computers and software means the ability to customize or modify the functionality, user interface, or features of a software application according to specific needs or preferences. It enables users or developers to adapt the software to suit their unique requirements, be it personal or business, without the need for extensive programming skills. Tailorable software can be easily configured or modified through user-friendly options, plug-ins, or scripting languages to provide a more streamlined, intuitive, and efficient user experience.</span>

@@ -1,6 +1,6 @@
 # Homogeneity
 
-**Homogeneity: the quality/ability/extent of being homogenous. Constrast heterogeneity.**
+**Homogeneity: the quality/ability/extent of being homogenous; contrast heterogeneity.**
 
 <span data-chatgpt-prompt="explain homogeneity (system quality attribute, cross-functional constraint, non-functional requirement)">
 
@@ -14,10 +14,10 @@ A homogeneous system can provide the following characteristics: consistency, uni
 
 </span>
 
+**Define homogenous:** <span data-chatgpt-prompt="define homogenous (computers and software)">Homogeneous in the context of computers and software refers to a system or environment where all components or devices use the same type or version of software and have similar technical specifications. In other words, each component in a homogenous system is identical or very similar to the others, allowing for easy communication and compatibility between them. This ensures a streamlined and efficient performance of the system as a whole.</span>
+
 ## See Also
 
 * [Wikipedia: Homogeneity and heterogeneity](https://wikipedia.org/wiki/Homogeneity_and_heterogeneity): uses the same technologies, such as one language and framework.
 
 * [Dictionary: homogenous](https://www.dictionary.com/browse/homogeneous): same in kind; like; congruous. composed of parts or elements that are all of the same kind. not heterogeneous.
-
-* [OpenAI: homogenous](https:://openai.com): <span data-chatgpt-prompt="define homogenous (computers and software)">Homogeneous in the context of computers and software refers to a system or environment where all components or devices use the same type or version of software and have similar technical specifications. In other words, each component in a homogenous system is identical or very similar to the others, allowing for easy communication and compatibility between them. This ensures a streamlined and efficient performance of the system as a whole.</span>

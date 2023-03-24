@@ -12,10 +12,10 @@ The monitorability of a system is critical for maintaining its reliability, avai
 
 </span>
 
+**Define monitorable:** <span data-chatgpt-prompt="define monitorable (computers and software)">Monitorable refers to the ability of a computer system or software to be easily observed, tracked, and analyzed for changes or issues. This can include monitoring system performance, network traffic, user activity, and other relevant metrics to ensure the system is operating efficiently and effectively. Essentially, a monitorable system is one that allows for easy monitoring and analysis of its various components and activities.</span>
+
 ## See Also
 
 * [Wikipedia](TODO): the degree to which it is possible to monitor the system.
 
 * [Dictionary]()
-
-* [OpenAI: monitorable](https:://openai.com): <span data-chatgpt-prompt="define monitorable (computers and software)">Monitorable refers to the ability of a computer system or software to be easily observed, tracked, and analyzed for changes or issues. This can include monitoring system performance, network traffic, user activity, and other relevant metrics to ensure the system is operating efficiently and effectively. Essentially, a monitorable system is one that allows for easy monitoring and analysis of its various components and activities.</span>

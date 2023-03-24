@@ -14,10 +14,10 @@ Finally, mobility is also a cross-functional constraint that affects all aspects
 
 </span>
 
+**Define mobile:** <span data-chatgpt-prompt="define mobile (computers and software)">Mobile refers to computers, devices, or software that can be easily transported and used while on the move or away from a stationary desk or location. Mobile computers can include laptops, tablets, smartphones, and other portable devices that enable users to work or access information no matter their location. Mobile software refers to applications or programs that can be used on these portable devices, providing users with the same functionality and features as traditional desktop software, but designed specifically for use on a mobile device.</span>
+
 ## See Also
 
 * [Wikipedia: mobility](https://wikipedia.org/wiki/mobility)
 
 * [Dictionary]()
-
-* [OpenAI: mobile](https:://openai.com): <span data-chatgpt-prompt="define mobile (computers and software)">Mobile refers to computers, devices, or software that can be easily transported and used while on the move or away from a stationary desk or location. Mobile computers can include laptops, tablets, smartphones, and other portable devices that enable users to work or access information no matter their location. Mobile software refers to applications or programs that can be used on these portable devices, providing users with the same functionality and features as traditional desktop software, but designed specifically for use on a mobile device.</span>

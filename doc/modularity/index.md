@@ -12,10 +12,10 @@ Finally, modularity can also be considered a cross-functional constraint, as it 
 
 </span>
 
+**Define modular:** <span data-chatgpt-prompt="define modular (computers and software)">Modular refers to a design or structure that is composed of separate parts or modules that can be easily interconnected or separated. In the context of computers and software, a modular system refers to a system where the overall functionality is achieved by combining smaller, independent components called modules. These modules can be combined or replaced with other compatible modules to easily modify or upgrade the system without affecting other parts of the system. This approach to design allows for greater flexibility, scalability, and customization of the system.</span>
+
 ## See Also
 
 * [Wikipedia: Modularity_(programming](https://wikipedia.org/wiki/Modularity_(programming))
 
 * [Dictionary: modular](https://www.dictionary.com/browse/modular) Computers. composed of software or hardware modules, such as units or sections, that can be altered or replaced without affecting the remainder of the system.
-
-* [OpenAI: modular](https:://openai.com): <span data-chatgpt-prompt="define modular (computers and software)">Modular refers to a design or structure that is composed of separate parts or modules that can be easily interconnected or separated. In the context of computers and software, a modular system refers to a system where the overall functionality is achieved by combining smaller, independent components called modules. These modules can be combined or replaced with other compatible modules to easily modify or upgrade the system without affecting other parts of the system. This approach to design allows for greater flexibility, scalability, and customization of the system.</span>

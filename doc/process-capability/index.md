@@ -12,10 +12,10 @@ Additionally, process capability can be considered a cross-functional constraint
 
 </span>
 
+**Define process:** <span data-chatgpt-prompt="define process capable (computers and software)">Process capable refers to the ability of a computer or software to handle and execute a specific task or set of tasks efficiently and accurately. A process capable system can perform its function without errors or delays, even under high workload or demanding conditions. The capability of a system is determined by factors such as its processing power, memory, and software design. A process capable system is essential for carrying out complex operations such as data analytics, modeling and simulation, and advanced graphics processing.</span>
+
 ## See Also
 
 * [Wikipedia: Capability_(systems_engineering](https://wikipedia.org/wiki/Capability_(systems_engineering))
 
 * [Dictionary]()
-
-* [OpenAI: process](https:://openai.com): <span data-chatgpt-prompt="define process capable (computers and software)">Process capable refers to the ability of a computer or software to handle and execute a specific task or set of tasks efficiently and accurately. A process capable system can perform its function without errors or delays, even under high workload or demanding conditions. The capability of a system is determined by factors such as its processing power, memory, and software design. A process capable system is essential for carrying out complex operations such as data analytics, modeling and simulation, and advanced graphics processing.</span>

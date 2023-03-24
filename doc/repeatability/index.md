@@ -14,10 +14,10 @@ Repeatability can be a non-functional requirement, as an important consideration
 
 </span>
 
+**Define repeatable:** <span data-chatgpt-prompt="define repeatable (computers and software)">Repeatable in the context of computers and software refers to the ability of a process or operation to be executed multiple times with consistent results. In other words, a repeatable process or operation should produce the same output or behavior every time it is executed under the same conditions. This is important in software development and testing to ensure consistent and reliable results. It also allows for automation of processes, as they can be programmed to run repeatedly without requiring manual intervention.</span>
+
 ## See Also
 
 * [Wikipedia: Repeatability](https://wikipedia.org/wiki/Repeatability)
 
 * [Dictionary: repeat](https://www.dictionary.com/browse/repeat): Repeat. to do or say something again.
-
-* [OpenAI: repeatable](https:://openai.com): <span data-chatgpt-prompt="define repeatable (computers and software)">Repeatable in the context of computers and software refers to the ability of a process or operation to be executed multiple times with consistent results. In other words, a repeatable process or operation should produce the same output or behavior every time it is executed under the same conditions. This is important in software development and testing to ensure consistent and reliable results. It also allows for automation of processes, as they can be programmed to run repeatedly without requiring manual intervention.</span>

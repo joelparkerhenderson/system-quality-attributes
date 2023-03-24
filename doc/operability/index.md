@@ -14,10 +14,10 @@ In summary, operability is an essential quality attribute that ensures that the 
 
 </span>
 
+**Define operable:** <span data-chatgpt-prompt="define operable (computers and software)">Operable in the context of computers and software means the ability of the system or program to function properly and as intended. It refers to the capability of the hardware or software to perform its intended tasks without experiencing any errors or issues. An operable system or program is one that works efficiently and offers the expected functionality to the user.</span>
+
 ## See Also
 
 * [Wikipedia: Operability](https://wikipedia.org/wiki/Operability)
 
 * [Dictionary]()
-
-* [OpenAI: operable](https:://openai.com): <span data-chatgpt-prompt="define operable (computers and software)">Operable in the context of computers and software means the ability of the system or program to function properly and as intended. It refers to the capability of the hardware or software to perform its intended tasks without experiencing any errors or issues. An operable system or program is one that works efficiently and offers the expected functionality to the user.</span>

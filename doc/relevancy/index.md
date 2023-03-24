@@ -16,10 +16,10 @@ In summary, relevancy is a critical concept in software development that ensures
 
 </span>
 
+**Define relevant:** <span data-chatgpt-prompt="define relevant (computers and software)">Relevant, in the context of computers and software, refers to something that is significant or applicable to a particular situation or purpose. It can refer to data, information, features, or functions that are useful or necessary for achieving a specific task or goal. Relevant information or features are considered valuable because they directly contribute to the effectiveness or efficiency of the task or goal at hand. In order to determine if something is relevant, it is important to consider the context, goals, and requirements of the situation or task.</span>
+
 ## See Also
 
 * [Wikipedia: Relevance](https://wikipedia.org/wiki/Relevance)
 
 * [Dictionary: relevant](https://www.dictionary.com/browse/relevant): bearing upon or connected with the matter in hand; pertinent.
-
-* [OpenAI: relevant](https:://openai.com): <span data-chatgpt-prompt="define relevant (computers and software)">Relevant, in the context of computers and software, refers to something that is significant or applicable to a particular situation or purpose. It can refer to data, information, features, or functions that are useful or necessary for achieving a specific task or goal. Relevant information or features are considered valuable because they directly contribute to the effectiveness or efficiency of the task or goal at hand. In order to determine if something is relevant, it is important to consider the context, goals, and requirements of the situation or task.</span>

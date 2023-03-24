@@ -12,10 +12,10 @@ Survivability is often considered a cross-functional constraint as it involves t
 
 </span>
 
+**Define survivable:** <span data-chatgpt-prompt="define survivable (computers and software)">Survivable means having the ability to remain operational even under adverse conditions, such as hardware failures, cyber attacks, or natural disasters. In the context of computers and software, survivability refers to their ability to maintain critical functions or services despite being compromised or under attack. Survivability requires redundancy, fault-tolerance, and proactive security measures to mitigate risks and ensure continuity of operations.</span>
+
 ## See Also
 
 * [Wikipedia: Survivability](https://wikipedia.org/wiki/Survivability)
 
 * [Dictionary: survive](https://www.dictionary.com/browse/survive): Survive. to continue to live or exist after the death, cessation, or occurrence of. to endure or live through (an affliction, adversity, misery, etc.).
-
-* [OpenAI: survivable](https:://openai.com): <span data-chatgpt-prompt="define survivable (computers and software)">Survivable means having the ability to remain operational even under adverse conditions, such as hardware failures, cyber attacks, or natural disasters. In the context of computers and software, survivability refers to their ability to maintain critical functions or services despite being compromised or under attack. Survivability requires redundancy, fault-tolerance, and proactive security measures to mitigate risks and ensure continuity of operations.</span>

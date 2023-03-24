@@ -14,10 +14,10 @@ Overall, testability is an essential attribute of software quality that helps en
 
 </span>
 
+**Define testable:** <span data-chatgpt-prompt="define testable (computers and software)">In the context of computers and software, testable refers to a characteristic of a program that allows it to be easily and effectively evaluated, measured, and verified through testing methods. A program or software is considered testable if it can be systematically tested and its functionality, accuracy, and performance can be measured and validated through any testing method, including automated testing. Testability is important in software development as it helps to identify defects and issues, improve software quality and reliability, and ensure that the software meets the requirements and specifications of the users.</span>
+
 ## See Also
 
 * [Wikipedia: Testability](https://wikipedia.org/wiki/Testability)
 
 * [Dictionary: test](https://www.dictionary.com/browse/test): Test. the means by which the presence, quality, or genuineness of anything is determined; a means of trial. the trial of the quality of something. to subject to a test of any kind; try. to undergo a test or trial; try out.
-
-* [OpenAI: testable](https:://openai.com): <span data-chatgpt-prompt="define testable (computers and software)">In the context of computers and software, testable refers to a characteristic of a program that allows it to be easily and effectively evaluated, measured, and verified through testing methods. A program or software is considered testable if it can be systematically tested and its functionality, accuracy, and performance can be measured and validated through any testing method, including automated testing. Testability is important in software development as it helps to identify defects and issues, improve software quality and reliability, and ensure that the software meets the requirements and specifications of the users.</span>

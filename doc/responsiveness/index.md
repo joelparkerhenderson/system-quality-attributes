@@ -14,10 +14,10 @@ In summary, responsiveness is a critical system quality attribute that defines t
 
 </span>
 
+**Define responsive:** <span data-chatgpt-prompt="define responsive (computers and software)">Responsive refers to the ability of a computer or software system to adapt to different screen sizes and operating environments, providing an optimal viewing and user experience across multiple devices such as computers, tablets, and smartphones. A responsive system automatically adjusts its layout and functionality to ensure that the content is easily accessible and visually appealing on screens of all sizes.</span>
+
 ## See Also
 
 * [Wikipedia: Responsiveness](https://wikipedia.org/wiki/Responsiveness)
 
 * [Dictionary: responsive](https://www.dictionary.com/browse/responsive): responding especially readily and sympathetically to appeals, efforts, influences, etc.
-
-* [OpenAI: responsive](https:://openai.com): <span data-chatgpt-prompt="define responsive (computers and software)">Responsive refers to the ability of a computer or software system to adapt to different screen sizes and operating environments, providing an optimal viewing and user experience across multiple devices such as computers, tablets, and smartphones. A responsive system automatically adjusts its layout and functionality to ensure that the content is easily accessible and visually appealing on screens of all sizes.</span>

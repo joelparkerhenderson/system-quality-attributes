@@ -14,10 +14,10 @@ Overall, self-sustainability is a crucial aspect of system design, as it helps t
 
 </span>
 
+**Define self-sustainable:** <span data-chatgpt-prompt="define self-sustainable (computers and software)">Self-sustainable computers and software are those that can function and operate independently without relying on external resources for power or maintenance. They are designed to be capable of supporting and maintaining their own operational needs, including power management, data storage, and security. Self-sustainable systems are often used in environments with limited access to resources, such as remote areas or emergency situations, where traditional infrastructure is not available. They are also used in critical systems where downtime is not an option, such as in space missions or military operations.</span>
+
 ## See Also
 
 * [Wikipedia: Self-sustainability](https://wikipedia.org/wiki/Self-sustainability)
 
 * [Dictionary: sustainable](https://www.dictionary.com/browse/sustainable): Sustainable. capable of being supported or upheld, as by having its weight borne from below. pertaining to a system that maintains its own viability by using techniques that allow for continual reuse.
-
-* [OpenAI: self-sustainable](https:://openai.com): <span data-chatgpt-prompt="define self-sustainable (computers and software)">Self-sustainable computers and software are those that can function and operate independently without relying on external resources for power or maintenance. They are designed to be capable of supporting and maintaining their own operational needs, including power management, data storage, and security. Self-sustainable systems are often used in environments with limited access to resources, such as remote areas or emergency situations, where traditional infrastructure is not available. They are also used in critical systems where downtime is not an option, such as in space missions or military operations.</span>

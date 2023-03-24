@@ -12,10 +12,10 @@ Overall, securability is a critical system quality attribute that ensures the pr
 
 </span>
 
+**Define securable:** <span data-chatgpt-prompt="define securable (computers and software)">In the context of computers and software, securable refers to the ability of a system or application to be secured from unauthorized access, tampering or data breaches. This includes implementing security measures such as firewalls, encryption, authentication and authorization mechanisms to protect both the system and the data it contains. A securable system or application is one that is designed and maintained with security in mind, and is resistant to attacks and vulnerabilities.</span>
+
 ## See Also
 
 * [Wikipedia: securability](https://wikipedia.org/wiki/securability)
 
 * [Dictionary: secure](https://www.dictionary.com/browse/secure): Secure. free from or not exposed to danger or harm; safe.
-
-* [OpenAI: securable](https:://openai.com): <span data-chatgpt-prompt="define securable (computers and software)">In the context of computers and software, securable refers to the ability of a system or application to be secured from unauthorized access, tampering or data breaches. This includes implementing security measures such as firewalls, encryption, authentication and authorization mechanisms to protect both the system and the data it contains. A securable system or application is one that is designed and maintained with security in mind, and is resistant to attacks and vulnerabilities.</span>

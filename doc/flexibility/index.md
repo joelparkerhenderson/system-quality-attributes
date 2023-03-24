@@ -12,10 +12,10 @@ In addition, flexibility is also a cross-functional constraint as it impacts mul
 
 </span>
 
+**Define flexible:** <span data-chatgpt-prompt="define flexible (computers and software)">In the context of computers and software, "flexible" refers to the ability of a system or program to adapt and adjust to different requirements or changes easily, without significant modifications or disruptions. Flexible systems or software are designed to be easily customizable, configurable or personalized to specific needs, while maintaining their core functionality and performance. This can apply to various aspects such as user interface, data management, processing rules, and integrations with other systems or devices. Flexibility is a desirable characteristic in many applications, especially those that require frequent updates, customization, or scalability.</span>
+
 ## See Also
 
 * [Wikipedia: Flexibility (engineering)](https://wikipedia.org/wiki/Flexibility_(engineering))
 
 * [Dictionary: flexible](https://www.dictionary.com/browse/flexible): susceptible of modification or adaptation; adaptable. willing or disposed to yield; pliable.
-
-* [OpenAI: flexible](https:://openai.com): <span data-chatgpt-prompt="define flexible (computers and software)">In the context of computers and software, "flexible" refers to the ability of a system or program to adapt and adjust to different requirements or changes easily, without significant modifications or disruptions. Flexible systems or software are designed to be easily customizable, configurable or personalized to specific needs, while maintaining their core functionality and performance. This can apply to various aspects such as user interface, data management, processing rules, and integrations with other systems or devices. Flexibility is a desirable characteristic in many applications, especially those that require frequent updates, customization, or scalability.</span>

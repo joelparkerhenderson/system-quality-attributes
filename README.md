@@ -8,11 +8,14 @@ System quality attributes are a broad way to describe all of these:
 
 * [Non-Functional Requirements (NFRs)](doc/non-functional-requirements)
 
+* [Cross-Cutting Concerns (CCCs)](doc/cross-cutting-concerns)
+
 System quality attributes explained:
 
 * [Accessibility](doc/accessibility)
 * [Accountability](doc/accountability)
 * [Accuracy](doc/accuracy)
+* [ACIDity](doc/acidity)
 * [Adaptability](doc/adaptability)
 * [Adaptivity](doc/adaptivity)
 * [Administrability](doc/administrability)

@@ -13,10 +13,10 @@ Vertical scalability is also a cross-functional constraint, as it affects multip
 
 </span>
 
+**Define vertical scaling:** <span data-chatgpt-prompt="define vertical scaling (computers and software)">Vertical scaling refers to the process of increasing the capacity of a single server by adding more resources, such as RAM, CPU, or storage. This differs from horizontal scaling, which involves adding more servers to handle increased demand. Vertical scaling is often used to improve the performance of applications that require high levels of processing power or memory, and is commonly used in database systems or middleware applications. It is also known as scaling up or upgrading.</span>
+
 ## See Also
 
 * [Wikipedia: Scalability](https://wikipedia.org/wiki/Scalability): Scalability is the property of a system to handle a growing amount of work by adding resources to the system. In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications. Scaling vertically (up/down) means adding resources to (or removing resources from) a single node, typically involving the addition of CPUs, memory or storage to a single computer.
 
 * [Dictionary: scalability](https://www.dictionary.com/browse/scalability): the ability of something, esp a computer system, to adapt to increased demands
-
-* [OpenAI: vertical scaling](https:://openai.com): <span data-chatgpt-prompt="define vertical scaling (computers and software)">Vertical scaling refers to the process of increasing the capacity of a single server by adding more resources, such as RAM, CPU, or storage. This differs from horizontal scaling, which involves adding more servers to handle increased demand. Vertical scaling is often used to improve the performance of applications that require high levels of processing power or memory, and is commonly used in database systems or middleware applications. It is also known as scaling up or upgrading.</span>

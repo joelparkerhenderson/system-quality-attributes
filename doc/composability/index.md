@@ -12,10 +12,10 @@ Overall, composability is a crucial system quality attribute that enables organi
 
 </span>
 
+**Define composable:** <span data-chatgpt-prompt="define composable (computers and software)">Composable in the context of computers and software refers to the ability of different software components to be deconstructed into smaller, standalone components that can be combined and orchestrated in new ways to create custom applications and services. This approach enables users to rapidly build and deploy applications by combining pre-existing components to meet their specific business needs. Composable architecture is characterized by its ability to create applications that are highly flexible, scalable and can easily accommodate new changes or updates.</span>
+
 ## See Also
 
 * [Wikipedia: Composability](https://wikipedia.org/wiki/Composability): A system design principle that deals with the inter-relationships of components. A highly composable system provides components that can be selected and assembled in various combinations to satisfy specific user requirements.
 
 * [Dictionary: composable](https://www.dictionary.com/browse/composable): to make or form by combining things, parts, or elements. to make up or form the basis of.
-
-* [OpenAI: composable](https:://openai.com): <span data-chatgpt-prompt="define composable (computers and software)">Composable in the context of computers and software refers to the ability of different software components to be deconstructed into smaller, standalone components that can be combined and orchestrated in new ways to create custom applications and services. This approach enables users to rapidly build and deploy applications by combining pre-existing components to meet their specific business needs. Composable architecture is characterized by its ability to create applications that are highly flexible, scalable and can easily accommodate new changes or updates.</span>

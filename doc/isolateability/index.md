@@ -12,10 +12,10 @@ In addition, isolateability can also be considered as a cross-functional constra
 
 </span>
 
+**Define isolatable:** <span data-chatgpt-prompt="define isolatable (computers and software)">Isolatable refers to the ability to separate or isolate a particular component, system, or application from the rest of the computer or software environment in a way that it can be tested, modified, or debugged independently. This separation allows developers to identify and fix issues without affecting other parts of the system, making it easier to maintain and update the software. Isolatable components are often designed to function seamlessly with other parts of the system, but can also be effectively isolated when necessary.</span>
+
 ## See Also
 
 * [Wikipedia: Isolation_(database_systems](https://wikipedia.org/wiki/Isolation_(database_systems)): the degree to which items are kept separate, such as for ACID transactions, testing.
 
 * [Dictionary: isolate](https://www.dictionary.com/browse/isolate): (verb) to set or place apart; detach or separate so as to be alone.
-
-* [OpenAI: isolatable](https:://openai.com): <span data-chatgpt-prompt="define isolatable (computers and software)">Isolatable refers to the ability to separate or isolate a particular component, system, or application from the rest of the computer or software environment in a way that it can be tested, modified, or debugged independently. This separation allows developers to identify and fix issues without affecting other parts of the system, making it easier to maintain and update the software. Isolatable components are often designed to function seamlessly with other parts of the system, but can also be effectively isolated when necessary.</span>

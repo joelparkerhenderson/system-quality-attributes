@@ -14,11 +14,11 @@ Overall, predictability is an important system quality attribute that should be 
 
 </span>
 
+**Define ?:** <span data-chatgpt-prompt="define ? (computers and software)">In the context of computers and software, "define" typically refers to the act of explaining, clarifying or describing the meaning and purpose of a term, feature, function or other aspect of a digital system or program. It may involve providing a precise definition or definition of key technical concepts or terms, outlining the steps involved in a particular command or process, or elucidating the intended use or benefits of a software tool or feature for users. This can often involve referencing documentation or manuals, consulting online resources or engaging in communication with other professionals in the field.</span>
+
 ## See Also
 
 * [Wikipedia: Predictability](https://wikipedia.org/wiki/Predictability)
 
 * [Dictionary: predictable](https://www.dictionary.com/browse/predictable): able to be foretold or declared in advance. expected, especially on the basis of previous or known behavior.
-
-* [OpenAI: ?](https:://openai.com): <span data-chatgpt-prompt="define ? (computers and software)">In the context of computers and software, "define" typically refers to the act of explaining, clarifying or describing the meaning and purpose of a term, feature, function or other aspect of a digital system or program. It may involve providing a precise definition or definition of key technical concepts or terms, outlining the steps involved in a particular command or process, or elucidating the intended use or benefits of a software tool or feature for users. This can often involve referencing documentation or manuals, consulting online resources or engaging in communication with other professionals in the field.</span>
 

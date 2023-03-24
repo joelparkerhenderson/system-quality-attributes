@@ -12,10 +12,10 @@ Reproducibility is important because it enhances the reliability and credibility
 
 </span>
 
+**Define reproducable:** <span data-chatgpt-prompt="define reproducable (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.</span>
+
 ## See Also
 
 * [Wikipedia: Reproducibility](https://wikipedia.org/wiki/Reproducibility)
 
 * [Dictionary: reproduce](https://www.dictionary.com/browse/reproduce): Reproduce. to make a copy, representation, duplicate, or close imitation of; to produce again or anew by natural process.
-
-* [OpenAI: reproducable](https:://openai.com): <span data-chatgpt-prompt="define reproducable (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.</span>

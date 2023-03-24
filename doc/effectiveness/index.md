@@ -14,11 +14,11 @@ Overall, effectiveness is a key system quality attribute that can significantly 
 
 </span>
 
+**Define effective:** <span data-chatgpt-prompt="define effective (computers and software)">Effective means that a computer or software system performs the tasks it was designed for efficiently and successfully achieves the intended outcome. It is a reflection of how well a tool or technology can achieve its goals while minimizing errors, bugs, and inefficiencies. An effective computer or software system provides users with a positive user experience, is user-friendly and easy to navigate, and is generally reliable in its performance.</span>
+
 ## See Also
 
 * [Wikipedia: Effectiveness](https://wikipedia.org/wiki/Effectiveness)
 
 * [Dictionary: effective](https://www.dictionary.com/browse/effective): adequate to accomplish a purpose; producing the intended or expected result. actually in operation or in force; functioning.
-
-* [OpenAI: effective](https:://openai.com): <span data-chatgpt-prompt="define effective (computers and software)">Effective means that a computer or software system performs the tasks it was designed for efficiently and successfully achieves the intended outcome. It is a reflection of how well a tool or technology can achieve its goals while minimizing errors, bugs, and inefficiencies. An effective computer or software system provides users with a positive user experience, is user-friendly and easy to navigate, and is generally reliable in its performance.</span>
 

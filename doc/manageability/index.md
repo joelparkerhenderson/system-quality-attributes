@@ -12,10 +12,10 @@ In summary, manageability is an important attribute that is critical for ensurin
 
 </span>
 
+**Define manageable:** <span data-chatgpt-prompt="define manageable (computers and software)">The term manageable typically refers to the ability of computers or software to be easily controlled, monitored, or modified by a user or administrator. This includes the ability to perform tasks such as software updates, configuration changes, and remote administration without requiring extensive technical knowledge or expertise. In general, manageable products are designed to simplify the management and maintenance of complex systems, making them easier to use and maintain over time.</span>
+
 ## See Also
 
 * [Wikipedia: manageability](https://wikipedia.org/wiki/manageability)
 
 * [Dictionary]()
-
-* [OpenAI: manageable](https:://openai.com): <span data-chatgpt-prompt="define manageable (computers and software)">The term manageable typically refers to the ability of computers or software to be easily controlled, monitored, or modified by a user or administrator. This includes the ability to perform tasks such as software updates, configuration changes, and remote administration without requiring extensive technical knowledge or expertise. In general, manageable products are designed to simplify the management and maintenance of complex systems, making them easier to use and maintain over time.</span>

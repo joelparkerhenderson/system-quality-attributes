@@ -14,10 +14,10 @@ Overall, transparency is an important quality attribute that can help to promote
 
 </span>
 
+**Define transparent:** <span data-chatgpt-prompt="define transparent (computers and software)">In the context of computers and software, transparent means functioning in such a way that the user is not aware of its operation or inner workings. It suggests that the system operates smoothly and efficiently without causing any disruptions or requiring any special attention from the user. A transparent system is typically intuitive and user-friendly, making it easy for the user to interact with and access the information they need without any unnecessary complexity or confusion.</span>
+
 ## See Also
 
 * [Wikipedia: Transparency (behavior)](https://wikipedia.org/wiki/Transparency_(behavior))
 
 * [Dictionary: transparent](https://www.dictionary.com/browse/transparent): easily seen through, recognized, or detected. manifest; obvious. open; frank; candid.
-
-* [OpenAI: transparent](https:://openai.com): <span data-chatgpt-prompt="define transparent (computers and software)">In the context of computers and software, transparent means functioning in such a way that the user is not aware of its operation or inner workings. It suggests that the system operates smoothly and efficiently without causing any disruptions or requiring any special attention from the user. A transparent system is typically intuitive and user-friendly, making it easy for the user to interact with and access the information they need without any unnecessary complexity or confusion.</span>

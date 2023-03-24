@@ -14,10 +14,10 @@ As a non-functional requirement, accountability sets expectations for the perfor
 
 </span>
 
+**Define accountable:** <span data-chatgpt-prompt="define accountable (computers and software)"> Accountable, in the context of computers and software, refers to the state or capability of a system or application to record and report on the actions of its users or components. It means that every action taken within the system or application can be traced back to the person or entity responsible for it. This can include logging user activity, tracking data changes, and maintaining an audit trail of all system events. This feature is typically implemented to ensure transparency, meet regulatory requirements, and enable effective troubleshooting and incident response.</span>
+
 ## See Also
 
 * [Wikipedia: Accountability](https://wikipedia.org/wiki/Accountability): In terms of ethics and governance, accountability is equated with answerability, blameworthiness, liability, and the expectation of account-giving. As in an aspect of governance, it has been central to discussions related to problems in the public sector, nonprofit and private and individual contexts.
 
 * [Dictionary: accountable](https://www.dictionary.com/browse/accountable): subject to the obligation to report, explain, or justify something; responsible; answerable. capable of being explained; explicable; explainable.
-
-* [OpenAI: accountable](https:://openai.com): <span data-chatgpt-prompt="define accountable (computers and software)"> Accountable, in the context of computers and software, refers to the state or capability of a system or application to record and report on the actions of its users or components. It means that every action taken within the system or application can be traced back to the person or entity responsible for it. This can include logging user activity, tracking data changes, and maintaining an audit trail of all system events. This feature is typically implemented to ensure transparency, meet regulatory requirements, and enable effective troubleshooting and incident response.</span>

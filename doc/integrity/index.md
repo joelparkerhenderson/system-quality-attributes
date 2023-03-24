@@ -14,10 +14,10 @@ As a cross-functional constraint, integrity is a requirement that cuts across mu
 
 </span>
 
+**Define integrity:** <span data-chatgpt-prompt="define integrity (computers and software)">Integrity in computers and software refers to the accuracy, consistency, and reliability of data and system operations. It involves protecting data and systems from unauthorized modification, deletion, or corruption. Maintaining the integrity of computers and software ensures that they function as intended and produce dependable results. It is crucial in areas such as data security, financial transactions, and legal documentation, where inaccurate or unreliable information can have serious consequences.</span>
+
 ## See Also
 
 * [Wikipedia: System integrity](https://wikipedia.org/wiki/System_integrity): System integrity has the following meanings:  the system's operational and technical parameters are within the prescribed limits; the system performs in an unimpaired manner; there is complete assurance that the system is correct and reliabile.
 
 * [Dictionary: integrity](https://www.dictionary.com/browse/integrity): adherence to moral and ethical principles; soundness of moral character; honesty. the state of being whole, entire, or undiminished: to preserve the integrity of the empire. a sound, unimpaired, or perfect condition.
-
-* [OpenAI: integrity](https:://openai.com): <span data-chatgpt-prompt="define integrity (computers and software)">Integrity in computers and software refers to the accuracy, consistency, and reliability of data and system operations. It involves protecting data and systems from unauthorized modification, deletion, or corruption. Maintaining the integrity of computers and software ensures that they function as intended and produce dependable results. It is crucial in areas such as data security, financial transactions, and legal documentation, where inaccurate or unreliable information can have serious consequences.</span>

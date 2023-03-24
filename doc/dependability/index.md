@@ -14,10 +14,10 @@ Overall, Dependability is a critical system quality attribute that ensures the s
 
 </span>
 
+**Define dependable:** <span data-chatgpt-prompt="define dependable (computers and software)">Dependable refers to the reliability and consistency of a software program or computer system to consistently produce accurate results with a low probability of failure, error or unexpected behavior, even under adverse conditions, such as heavy loads or unexpected inputs. A dependable software or system is one that can be trusted to work as expected and meet the intended goals with a high level of confidence. Dependable systems and software are critical in industries such as healthcare, aviation, and finance, where unexpected errors or glitches can lead to catastrophic consequences or loss of life.</span>
+
 ## See Also
 
 * [Wikipedia: Dependability](https://wikipedia.org/wiki/Dependability): TODO
 
 * [Dictionary: depend](https://www.dictionary.com/browse/depend): to rely; place trust (usually followed by on or upon). to rely for support, maintenance, help, etc.
-
-* [OpenAI: dependable](https:://openai.com): <span data-chatgpt-prompt="define dependable (computers and software)">Dependable refers to the reliability and consistency of a software program or computer system to consistently produce accurate results with a low probability of failure, error or unexpected behavior, even under adverse conditions, such as heavy loads or unexpected inputs. A dependable software or system is one that can be trusted to work as expected and meet the intended goals with a high level of confidence. Dependable systems and software are critical in industries such as healthcare, aviation, and finance, where unexpected errors or glitches can lead to catastrophic consequences or loss of life.</span>

@@ -15,10 +15,10 @@ In summary, installability is a critical quality attribute that has a significan
 
 </span>
 
+**Define installable:** <span data-chatgpt-prompt="define installable (computers and software)">Installable refers to software or applications that can be installed on a computer or other electronic device. This typically involves downloading or copying software files onto the device, and then running an installation program or wizard to set up the software and configure it for use. Installable software can include programs for productivity, games, utilities, or many other types of computer applications. Some installable software may require specific operating systems or hardware specifications in order to function properly.</span>
+
 ## See Also
 
 * [Wikipedia: installability](https://wikipedia.org/wiki/installability)
 
 * [Dictionary]()
-
-* [OpenAI: installable](https:://openai.com): <span data-chatgpt-prompt="define installable (computers and software)">Installable refers to software or applications that can be installed on a computer or other electronic device. This typically involves downloading or copying software files onto the device, and then running an installation program or wizard to set up the software and configure it for use. Installable software can include programs for productivity, games, utilities, or many other types of computer applications. Some installable software may require specific operating systems or hardware specifications in order to function properly.</span>

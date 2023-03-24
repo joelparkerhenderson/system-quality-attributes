@@ -14,10 +14,10 @@ To achieve atomicity, a system should have mechanisms that ensure that transacti
 
 </span>
 
+**Define atomic:** <span data-chatgpt-prompt="define atomic (computers and software)">An atomic transaction is a data transaction in which a series of data operations are treated as a single, indivisible operation. In other words, either all of the operations are executed and the transaction is committed, or none of the operations are executed and the transaction is rolled back. This guarantees that data are always in a consistent state, even if an error occurs during the transaction. Atomicity is one of the four key properties of an ACID data transaction; the four are atomicity, consistency, isolation, durability.</span>
+
 ## See Also
 
 * [Wikipedia: Atomicity (database systems)](https://wikipedia.org/wiki/Atomicity_(database_systems)): a transaction must be "all or nothing"; see [ACID](https://wikipedia.org/wiki/ACID).
 
 * [Dictionary: TODO](TODO)
-
-* [OpenAI: atomic](https:://openai.com): <span data-chatgpt-prompt="define atomic (computers and software)">An atomic transaction is a data transaction in which a series of data operations are treated as a single, indivisible operation. In other words, either all of the operations are executed and the transaction is committed, or none of the operations are executed and the transaction is rolled back. This guarantees that data are always in a consistent state, even if an error occurs during the transaction. Atomicity is one of the four key properties of an ACID data transaction; the four are atomicity, consistency, isolation, durability.</span>

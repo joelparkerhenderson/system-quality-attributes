@@ -12,10 +12,10 @@ The understandability of a system is crucial to usability and user satisfaction.
 
 </span>
 
+**Define understandable:** <span data-chatgpt-prompt="define understandable (computers and software)">In the context of computers and software, "understandable" refers to the ability of users to easily comprehend and use the features and functions of a program or system. This includes interfaces that are intuitive and user-friendly, documentation that is clear and concise, error messages that provide meaningful explanations or suggestions for troubleshooting, and overall design that is logical and easy to navigate. The goal of creating understandable software is to minimize user frustration and improve productivity by reducing the learning curve and enabling users to make efficient use of the system.</span>
+
 ## See Also
 
 * [Wikipedia: Understandability](https://wikipedia.org/wiki/Understandability): the system items are self-explaining, or documented, or diagrammed, etc.
 
 * [Dictionary: understand](https://www.dictionary.com/browse/understand): Understand. to perceive the meaning of; grasp the idea of; comprehend. to be thoroughly familiar with; apprehend clearly the character, nature, or subtleties of. to assign a meaning to; interpret. to grasp the significance, implications, or importance of.
-
-* [OpenAI: understandable](https:://openai.com): <span data-chatgpt-prompt="define understandable (computers and software)">In the context of computers and software, "understandable" refers to the ability of users to easily comprehend and use the features and functions of a program or system. This includes interfaces that are intuitive and user-friendly, documentation that is clear and concise, error messages that provide meaningful explanations or suggestions for troubleshooting, and overall design that is logical and easy to navigate. The goal of creating understandable software is to minimize user frustration and improve productivity by reducing the learning curve and enabling users to make efficient use of the system.</span>

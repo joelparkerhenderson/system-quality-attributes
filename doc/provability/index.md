@@ -14,11 +14,11 @@ Overall, provability is an important quality attribute that ensures the reliabil
 
 </span>
 
+**Define provable:** <span data-chatgpt-prompt="define provable (computers and software)">Provable in the context of computers and software refers to being able to demonstrate or verify that a program or system will perform as intended under specified conditions, using mathematical principles and formal methods of analysis. This involves using rigorous mathematical techniques to establish the correctness and reliability of software systems, ensuring that they meet specific functional requirements and behave predictably under all circumstances. Provable software is critical for safety-critical systems, such as aerospace, automotive, medical, and military applications, as well as for ensuring data privacy and security in various domains.</span>
+
 ## See Also
 
 * [Wikipedia: provability](https://wikipedia.org/wiki/provability)
 
 * [Dictionary: prove](https://www.dictionary.com/browse/prove): Prove. to establish the truth or genuineness of, as by evidence or argument. to subject to a test, experiment, comparison, analysis, or the like, to determine quality, amount, acceptability, characteristics, etc.
-
-* [OpenAI: provable](https:://openai.com): <span data-chatgpt-prompt="define provable (computers and software)">Provable in the context of computers and software refers to being able to demonstrate or verify that a program or system will perform as intended under specified conditions, using mathematical principles and formal methods of analysis. This involves using rigorous mathematical techniques to establish the correctness and reliability of software systems, ensuring that they meet specific functional requirements and behave predictably under all circumstances. Provable software is critical for safety-critical systems, such as aerospace, automotive, medical, and military applications, as well as for ensuring data privacy and security in various domains.</span>
 

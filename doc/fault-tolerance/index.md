@@ -12,10 +12,10 @@ In essence, fault-tolerance is about ensuring that a system can continue to prov
 
 </span>
 
+**Define fault-tolerant:** <span data-chatgpt-prompt="define fault-tolerant (computers and software)">Fault-tolerant refers to the ability of computer systems or software to continue functioning, even in the event of a failure or error. In other words, a fault-tolerant system is designed to be resilient and reliable, able to detect and recover from faults or errors automatically, without disrupting overall system performance or compromising data integrity. This can be achieved through various techniques, such as redundancy, backup systems, error detection and correction, and failover mechanisms. The goal of fault-tolerant computing is to maximize system uptime and minimize the risk of system failure, which is critical for mission-critical applications and systems that require high availability and reliability.</span>
+
 ## See Also
 
 * [Wikipedia: Fault-tolerance](https://wikipedia.org/wiki/Fault-tolerance)
 
 * [Dictionary: TODO](TODO)
-
-* [OpenAI: fault-tolerant](https:://openai.com): <span data-chatgpt-prompt="define fault-tolerant (computers and software)">Fault-tolerant refers to the ability of computer systems or software to continue functioning, even in the event of a failure or error. In other words, a fault-tolerant system is designed to be resilient and reliable, able to detect and recover from faults or errors automatically, without disrupting overall system performance or compromising data integrity. This can be achieved through various techniques, such as redundancy, backup systems, error detection and correction, and failover mechanisms. The goal of fault-tolerant computing is to maximize system uptime and minimize the risk of system failure, which is critical for mission-critical applications and systems that require high availability and reliability.</span>

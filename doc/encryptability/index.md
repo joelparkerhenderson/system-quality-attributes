@@ -16,10 +16,10 @@ In summary, encryptability is a critical system quality attribute, non-functiona
 
 </span>
 
+**Define encryptable:** <span data-chatgpt-prompt="define encryptable (computers and software)">Encryptable refers to the ability to transform plain, readable information into a coded format that cannot be understood by any unauthorized party. This feature is crucial in computers and software to ensure secure communication, data protection, and privacy. Encryptable data can only be accessed with a decryption key or password, making it challenging for hackers or cybercriminals to read or manipulate the information.</span>
+
 ## See Also
 
 * [Wikipedia: Encryption](https://wikipedia.org/wiki/Encryption): In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information. Encryption does not itself prevent interference but denies the intelligible content to a would-be interceptor.
 
 * [Dictionary: encrypt](https://www.dictionary.com/browse/encrypt): to encipher or encode.
-
-* [OpenAI: encryptable](https:://openai.com): <span data-chatgpt-prompt="define encryptable (computers and software)">Encryptable refers to the ability to transform plain, readable information into a coded format that cannot be understood by any unauthorized party. This feature is crucial in computers and software to ensure secure communication, data protection, and privacy. Encryptable data can only be accessed with a decryption key or password, making it challenging for hackers or cybercriminals to read or manipulate the information.</span>

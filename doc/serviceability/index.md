@@ -21,10 +21,10 @@ In summary, serviceability is a critical system quality attribute that affects t
 
 </span>
 
+**Define servicable:** <span data-chatgpt-prompt="define servicable (computers and software)">The term "serviceable" in regards to computers and software means that the system or program is able to perform essential functions effectively and reliably. It should be functioning well enough to serve its intended purpose and meet the user's needs without constant glitches or errors. A serviceable computer or software should also be able to receive regular maintenance and updates to ensure its continued functionality. Additionally, it should be compatible with other systems and software with which it needs to interact.</span>
+
 ## See Also
 
 * [Wikipedia: Serviceability_(computer](https://wikipedia.org/wiki/Serviceability_(computer))
 
 * [Dictionary: service](https://www.dictionary.com/browse/service): Service. to make fit for use; repair; restore to condition for service. to supply with aid, information, or other incidental services.
-
-* [OpenAI: servicable](https:://openai.com): <span data-chatgpt-prompt="define servicable (computers and software)">The term "serviceable" in regards to computers and software means that the system or program is able to perform essential functions effectively and reliably. It should be functioning well enough to serve its intended purpose and meet the user's needs without constant glitches or errors. A serviceable computer or software should also be able to receive regular maintenance and updates to ensure its continued functionality. Additionally, it should be compatible with other systems and software with which it needs to interact.</span>

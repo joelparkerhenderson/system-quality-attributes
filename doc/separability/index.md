@@ -12,10 +12,10 @@ In addition, separability represents a cross-functional constraint, as it requir
 
 </span>
 
+**Define separable:** <span data-chatgpt-prompt="define separable (computers and software)">In the context of computers and software, separable refers to the ability to physically or logically disconnect one component or module from another without affecting the functionality of the remaining parts. This means that different parts of a system can be changed or upgraded without disrupting the operation of other components. Separability is an important design principle that allows for flexibility, scalability, and maintainability of computer systems and software applications.</span>
+
 ## See Also
 
 * [Wikipedia](TODO): each item has a single well defined responsibility.
 
 * [Dictionary: separable](https://www.dictionary.com/browse/separable): Separable. capable of being separated, parted, or dissociated.
-
-* [OpenAI: separable](https:://openai.com): <span data-chatgpt-prompt="define separable (computers and software)">In the context of computers and software, separable refers to the ability to physically or logically disconnect one component or module from another without affecting the functionality of the remaining parts. This means that different parts of a system can be changed or upgraded without disrupting the operation of other components. Separability is an important design principle that allows for flexibility, scalability, and maintainability of computer systems and software applications.</span>

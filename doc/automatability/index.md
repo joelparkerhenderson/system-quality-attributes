@@ -12,10 +12,10 @@ Automatability is a cross-functional constraint that affects developers, tester
 
 </span>
 
+**Define automatable:** <span data-chatgpt-prompt="define automatable (computers and software)">Automatable refers to the capability of a system or process to be executed automatically by a computer or software without human intervention. An automatable process should have well-defined inputs, outputs, rules, and steps that can be accurately captured and executed by software tools or scripts. By automating repetitive or time-consuming tasks, organizations can achieve greater efficiency, consistency, and scalability in their operations. Common examples of automatable processes include data entry, file processing, testing, deployment, and monitoring.</span>
+
 ## See Also
 
 * [Wikipedia: Automation](https://wikipedia.org/wiki/Automation): A wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines.
 
 * [Dictionary: automatable](https://www.dictionary.com/browse/automatable): to apply the principles of automation to (a mechanical process, industry, office, etc.). to operate or control by automation. to displace or make obsolete by automation. to install automatic procedures, as for manufacturing or servicing; follow or utilize the principles of automation.
-
-* [OpenAI: automatable](https:://openai.com): <span data-chatgpt-prompt="define automatable (computers and software)">Automatable refers to the capability of a system or process to be executed automatically by a computer or software without human intervention. An automatable process should have well-defined inputs, outputs, rules, and steps that can be accurately captured and executed by software tools or scripts. By automating repetitive or time-consuming tasks, organizations can achieve greater efficiency, consistency, and scalability in their operations. Common examples of automatable processes include data entry, file processing, testing, deployment, and monitoring.</span>

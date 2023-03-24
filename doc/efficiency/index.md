@@ -16,10 +16,10 @@ Ultimately, an efficient system can help to reduce costs, improve productivity, 
 
 </span>
 
+**Define efficient:** <span data-chatgpt-prompt="define efficient (computers and software)">Efficient in the context of computers and software refers to the ability of a system to achieve its intended purpose or complete tasks quickly and accurately without wasting unnecessary resources, such as processing power, memory, or energy. An efficient system is one that can target its resources effectively and complete tasks with maximum speed and minimum waste. An efficient software program is one that is streamlined, performs its functions accurately, and does not consume excessive memory or CPU resources.</span>
+
 ## See Also
 
 * [Wikipedia: efficiency](https://wikipedia.org/wiki/efficiency)
 
 * [Dictionary: efficient](https://www.dictionary.com/browse/efficient): performing or functioning in the best possible manner with the least waste of time and effort; having and using requisite knowledge, skill, and industry; competent; capable.
-
-* [OpenAI: efficient](https:://openai.com): <span data-chatgpt-prompt="define efficient (computers and software)">Efficient in the context of computers and software refers to the ability of a system to achieve its intended purpose or complete tasks quickly and accurately without wasting unnecessary resources, such as processing power, memory, or energy. An efficient system is one that can target its resources effectively and complete tasks with maximum speed and minimum waste. An efficient software program is one that is streamlined, performs its functions accurately, and does not consume excessive memory or CPU resources.</span>

@@ -14,11 +14,11 @@ As a cross-functional constraint, orthogonality can impact many different aspect
 
 </span>
 
+**Define orthogonal:** <span data-chatgpt-prompt="define orthogonal (computers and software)">In computing and software, orthogonal refers to the idea that different features or aspects of a system are independent and do not affect each other. This means that a change in one feature will not affect the behavior or function of another feature. In other words, orthogonal features should not have any dependencies or correlations with each other. This approach is often used in the design of programming languages, where orthogonal features make the language more modular, easy to use, and maintainable.</span>
+
 ## See Also
 
 * [Wikipedia: Orthogonality#Computer_science](https://wikipedia.org/wiki/Orthogonality#Computer_science)
 
 * [Dictionary]()
-
-* [OpenAI: orthogonal](https:://openai.com): <span data-chatgpt-prompt="define orthogonal (computers and software)">In computing and software, orthogonal refers to the idea that different features or aspects of a system are independent and do not affect each other. This means that a change in one feature will not affect the behavior or function of another feature. In other words, orthogonal features should not have any dependencies or correlations with each other. This approach is often used in the design of programming languages, where orthogonal features make the language more modular, easy to use, and maintainable.</span>
 

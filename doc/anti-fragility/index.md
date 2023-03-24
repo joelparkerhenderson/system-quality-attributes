@@ -14,13 +14,13 @@ Overall, antifragility is a critical quality attribute that organizations should
 
 </span>
 
+**Define anti-fragile:** <span data-chatgpt-prompt="define anti-fragile (computers and software)">Anti-fragile is a term coined by Nassim Nicholas Taleb in his book "Antifragile: Things That Gain from Disorder." It describes a system or entity that becomes stronger and more resilient when exposed to stressors or adversity, as opposed to simply withstanding them or breaking under the pressure.
+
 ## See Also
 
 * [Wikipedia: Anti-fragility](https://wikipedia.org/wiki/Anti-fragility)
 
 * [Dictionary: anti-fragile](https://www.dictionary.com/browse/anti-fragile)
-
-* [OpenAI: anti-fragile](https:://openai.com): <span data-chatgpt-prompt="define anti-fragile (computers and software)">Anti-fragile is a term coined by Nassim Nicholas Taleb in his book "Antifragile: Things That Gain from Disorder." It describes a system or entity that becomes stronger and more resilient when exposed to stressors or adversity, as opposed to simply withstanding them or breaking under the pressure.
 
 In the context of computer systems and software, being anti-fragile means designing and building systems that are able to adapt and recover quickly from unexpected failures, errors, or attacks. It also involves creating redundancy, backup and recovery mechanisms, and automated self-healing processes that can mitigate the impact of disruptions.
 

@@ -16,11 +16,11 @@ In contrast, a highly degradable system can continue to operate even during adve
 
 </span>
 
+**Define degradable:** <span data-chatgpt-prompt="define degradable (computers and software)">Degradable refers to computer hardware or software that progressively loses functionality or performance over time. It may occur due to aging, obsolescence, wear and tear, or becoming outdated as newer and faster technology becomes available. Degradable components may cause computer systems to operate slower, glitch, or eventually fail altogether. Upgrading or replacing degradable parts is necessary to maintain system performance and prevent further degradation.</span>
+
 ## See Also
 
 * [Wikipedia: TODO](TODO).
 
 * [Dictionary: degrade](https://www.dictionary.com/browse/degrade): to reduce in amount, strength, intensity, etc. to lower in character or quality.
-
-* [OpenAI: degradable](https:://openai.com): <span data-chatgpt-prompt="define degradable (computers and software)">Degradable refers to computer hardware or software that progressively loses functionality or performance over time. It may occur due to aging, obsolescence, wear and tear, or becoming outdated as newer and faster technology becomes available. Degradable components may cause computer systems to operate slower, glitch, or eventually fail altogether. Upgrading or replacing degradable parts is necessary to maintain system performance and prevent further degradation.</span>
 

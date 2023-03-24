@@ -876,7 +876,7 @@ In addition, flexibility is also a cross-functional constraint as it impacts mul
 
 # Heterogeneity
 
-**Heterogeneity: the quality/ability/extent of being heterogeneous. Contrast homogeneity.**
+**Heterogeneity: the quality/ability/extent of being heterogeneous; contrast homogeneity.**
 
 
 Heterogeneity is a system quality attribute, a non-functional requirement, and a cross-functional constraint that refers to the ability of a system to interact with different types of components, systems, or platforms.
@@ -897,7 +897,7 @@ Heterogeneity is a cross-functional constraint, and defines the need for differe
 
 # Homogeneity
 
-**Homogeneity: the quality/ability/extent of being homogenous. Constrast heterogeneity.**
+**Homogeneity: the quality/ability/extent of being homogenous; contrast heterogeneity.**
 
 
 Homogeneity is a system quality attribute that refers to the consistency and uniformity of the system components and behavior.
@@ -916,7 +916,7 @@ A homogeneous system can provide the following characteristics: consistency, uni
 
 # Horizontal scalability
 
-**Horizontal scalability: the quality/ability/extent of being scalable across more load providers, such as by adding more servers and clusters. Contrast vertical scalability.**
+**Horizontal scalability: the quality/ability/extent of being scalable across more load providers, such as by adding more servers and clusters; contrast vertical scalability.**
 
 
 Horizontal scalability refers to the ability of a system to scale out by adding more instances or nodes to distribute the workload, rather than scaling up by increasing hardware capacity on a single node. It is a system quality attribute that ensures that the system can handle a growing number of users, requests or data size without any significant reduction in performance.

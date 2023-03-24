@@ -14,12 +14,12 @@ In summary, compatibility is an essential system quality attribute, non-function
 
 </span>
 
+**Define compatible:** <span data-chatgpt-prompt="define compatible (computers and software)">Compatible refers to the ability of computers and software to work together without any technical issues or conflicts. It means that they are designed to interact seamlessly and can exchange information without any errors or problems. This is important for system performance and efficiency, as well as for the user experience. Incompatible systems may cause crashes, errors, or data loss, making it difficult or impossible to accomplish the intended tasks.</span>
+
 ## See Also
 
 * [Wikipedia: Compatibility](https://wikipedia.org/wiki/Compatibility): the degree that the system can work with other systems.
 
 * [Dictionary: compatible](https://www.dictionary.com/browse/compatible): capable of existing or living together in harmony. able to exist together with something else. consistent; congruent. (compture software) capable of being run on another computer without change. (computer hardware) capable of being connected to another device without the use of special equipment or software.
-
-* [OpenAI: compatible](https:://openai.com): <span data-chatgpt-prompt="define compatible (computers and software)">Compatible refers to the ability of computers and software to work together without any technical issues or conflicts. It means that they are designed to interact seamlessly and can exchange information without any errors or problems. This is important for system performance and efficiency, as well as for the user experience. Incompatible systems may cause crashes, errors, or data loss, making it difficult or impossible to accomplish the intended tasks.</span>
 
 

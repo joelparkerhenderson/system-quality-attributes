@@ -12,10 +12,10 @@ Adaptability is also a cross-functional constraint that can affect various parts
 
 </span>
 
+**Define adaptable:** <span data-chatgpt-prompt="define adaptable (computers and software)">Adaptable means capable of adjusting or modifying to fit different situations or conditions as needed, especially in response to changing circumstances without significant difficulty. In the context of computers and software, adaptable refers to the ability of software or hardware to easily and efficiently adjust to new or changing requirements, configuration, or interfaces without requiring extensive reconfiguration or coding changes. Adaptable systems can easily integrate new features, upgrades, or changes to the environment without compromising performance, user experience, or stability.</span>
+
 ## See Also
 
 * [Wikipedia: Adaptation (computer science)](https://wikipedia.org/wiki/Adaptation_(computer_science)): When a user can substantially customise the system through tailoring activities by themselves (cf. adaptivity).
 
 * [Dictionary: adaptable](https://www.dictionary.com/browse/adaptable): capable of being adapted. able to adjust oneself readily to different conditions.
-
-* [OpenAI: adaptable](https:://openai.com): <span data-chatgpt-prompt="define adaptable (computers and software)">Adaptable means capable of adjusting or modifying to fit different situations or conditions as needed, especially in response to changing circumstances without significant difficulty. In the context of computers and software, adaptable refers to the ability of software or hardware to easily and efficiently adjust to new or changing requirements, configuration, or interfaces without requiring extensive reconfiguration or coding changes. Adaptable systems can easily integrate new features, upgrades, or changes to the environment without compromising performance, user experience, or stability.</span>

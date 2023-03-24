@@ -16,12 +16,12 @@ In conclusion, credibility is a crucial attribute for any software system. It ne
 
 </span>
 
+**Define credible:** <span data-chatgpt-prompt="define credible (computers and software)">Credible, in the context of computers and software, refers to the trustworthiness and reliability of a system, application or information source. Credibility is achieved when a system or software accurately performs the intended function, operates correctly, and without errors or vulnerabilities. Additionally, a credible system or software should be backed up by a reputable company or organization that takes responsibility for its development and maintenance, and has a track record of delivering quality products. In general, users have confidence in credible computer software and systems and depend on them to perform their intended tasks.</span>
+
 ## See Also
 
 * [Wikipedia: Credibility](https://wikipedia.org/wiki/Credibility): Credibility comprises the objective and subjective components of the believability of a source or message. In general, how a system is recognized as a source of reliable information about the world.
 
 * [Dictionary: credible](https://www.dictionary.com/browse/credible): capable of being believed; believable. worthy of belief or confidence; trustworthy.
-
-* [OpenAI: credible](https:://openai.com): <span data-chatgpt-prompt="define credible (computers and software)">Credible, in the context of computers and software, refers to the trustworthiness and reliability of a system, application or information source. Credibility is achieved when a system or software accurately performs the intended function, operates correctly, and without errors or vulnerabilities. Additionally, a credible system or software should be backed up by a reputable company or organization that takes responsibility for its development and maintenance, and has a track record of delivering quality products. In general, users have confidence in credible computer software and systems and depend on them to perform their intended tasks.</span>
 
 

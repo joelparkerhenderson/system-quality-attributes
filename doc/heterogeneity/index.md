@@ -1,6 +1,6 @@
 # Heterogeneity
 
-**Heterogeneity: the quality/ability/extent of being heterogeneous. Contrast homogeneity.**
+**Heterogeneity: the quality/ability/extent of being heterogeneous; contrast homogeneity.**
 
 <span data-chatgpt-prompt="explain heterogeneity (system quality attribute, cross-functional constraint, non-functional requirement)">
 
@@ -14,12 +14,12 @@ Heterogeneity is a cross-functional constraint, and defines the need for differe
 
 </span>
 
+**Define heterogeneous:** <span data-chatgpt-prompt="define heterogeneous (computers and software)">Heterogeneous refers to a mixture or combination of different types, models, or brands of computers and software. It implies that the computing environment is not uniform, and different systems with diverse platforms, operating systems, architectures, or configurations are interconnected and used together for a common purpose, such as data processing, communication, or collaboration. Heterogeneous computing requires specialized tools and techniques to manage the complexity and ensure compatibility and interoperability among the different components.</span>
+
 ## See Also
 
 * [Wikipedia: Homogeneity and heterogeneity](https://wikipedia.org/wiki/Homogeneity_and_heterogeneity): uses diverse technologies, such as multiple languages and frameworks.
 
 * [Dictionary: heterogeneous](https://www.dictionary.com/browse/heterogenous): different in kind; unlike; incongruous. composed of parts or elements that are all of different kind. not homogeneous.
-
-* [OpenAI: heterogeneous](https:://openai.com): <span data-chatgpt-prompt="define heterogeneous (computers and software)">Heterogeneous refers to a mixture or combination of different types, models, or brands of computers and software. It implies that the computing environment is not uniform, and different systems with diverse platforms, operating systems, architectures, or configurations are interconnected and used together for a common purpose, such as data processing, communication, or collaboration. Heterogeneous computing requires specialized tools and techniques to manage the complexity and ensure compatibility and interoperability among the different components.</span>
 
 

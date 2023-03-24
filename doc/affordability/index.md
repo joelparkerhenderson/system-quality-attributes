@@ -14,10 +14,10 @@ In summary, Affordability is an important system quality attribute, non-function
 
 </span>
 
+**Define affordable:** <span data-chatgpt-prompt="define affordable (computers and software)">Affordable refers to something that is priced reasonably and within financial reach of a particular customer. In regards to computers and software, affordable could mean products that are priced lower than the average market price or those that offer a good value for money to customers on a budget. Again, what is considered "affordable" depends on each individual's financial situation, needs, and preferences.</span>
+
 ## See Also
 
 * [Wikipedia: Affordability](https://wikipedia.org/wiki/Affordability): The degree that system performance, cost, and schedule constraints are balanced over the system life.
 
 * [Dictionary: affordable](https://www.dictionary.com/browse/affordable): can be afforded; believed to be within one's financial means. Afford: to be able to meet the expense of; have or be able to spare the price of; to be able to do, manage, or bear without serious consequence or adverse effect.
-
-* [OpenAI: affordable](https:://openai.com): <span data-chatgpt-prompt="define affordable (computers and software)">Affordable refers to something that is priced reasonably and within financial reach of a particular customer. In regards to computers and software, affordable could mean products that are priced lower than the average market price or those that offer a good value for money to customers on a budget. Again, what is considered "affordable" depends on each individual's financial situation, needs, and preferences.</span>

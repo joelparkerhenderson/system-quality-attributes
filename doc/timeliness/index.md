@@ -12,10 +12,10 @@ To ensure timeliness, systems are often designed with response time objectives a
 
 </span>
 
+**Define timely:** <span data-chatgpt-prompt="define timely (computers and software)">In computers and software, timely refers to the ability of a system or program to execute tasks within a defined period or interval. It means that an action is performed when it is needed or required, and not too early or too late. Timeliness is crucial in real-time systems, where actions must be executed at precise moments, and delays can cause errors or even failures. It is also essential in general software development, where meeting deadlines and optimizing performance are critical factors.</span>
+
 ## See Also
 
 * [Wikipedia: Timeliness](https://wikipedia.org/wiki/Timeliness)
 
 * [Dictionary: timely](https://www.dictionary.com/browse/timely): occurring at a suitable time; opportune; well-timed. occurring within an expected time frame; prompt.
-
-* [OpenAI: timely](https:://openai.com): <span data-chatgpt-prompt="define timely (computers and software)">In computers and software, timely refers to the ability of a system or program to execute tasks within a defined period or interval. It means that an action is performed when it is needed or required, and not too early or too late. Timeliness is crucial in real-time systems, where actions must be executed at precise moments, and delays can cause errors or even failures. It is also essential in general software development, where meeting deadlines and optimizing performance are critical factors.</span>

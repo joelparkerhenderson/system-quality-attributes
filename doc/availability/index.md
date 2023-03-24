@@ -14,10 +14,10 @@ To maintain high availability, systems need to be designed with redundancy, faul
 
 </span>
 
+**Define available:** <span data-chatgpt-prompt="define available (computers and software)">Available refers to computers and software that are currently accessible and ready for use. These resources can be either physical or virtual and are typically ready to be utilized at any time without requiring extensive setup or configuration. Availability may be affected by factors such as network connectivity, hardware reliability, and software compatibility. In general, available computers and software are considered to be reliable resources that can be used to perform a variety of tasks, ranging from basic productivity work to complex analytical tasks.</span>
+
 ## See Also
 
 * [Wikipedia: Availability](https://wikipedia.org/wiki/Availability): The proportion of time a system is in a functioning condition.
 
 * [Dictionary: available](https://www.dictionary.com/browse/available): suitable or ready for use; of use or service; at hand. readily obtainable.
-
-* [OpenAI: available](https:://openai.com): <span data-chatgpt-prompt="define available (computers and software)">Available refers to computers and software that are currently accessible and ready for use. These resources can be either physical or virtual and are typically ready to be utilized at any time without requiring extensive setup or configuration. Availability may be affected by factors such as network connectivity, hardware reliability, and software compatibility. In general, available computers and software are considered to be reliable resources that can be used to perform a variety of tasks, ranging from basic productivity work to complex analytical tasks.</span>

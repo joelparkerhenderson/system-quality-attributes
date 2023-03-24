@@ -12,11 +12,11 @@ The inspectability attribute is essential for ensuring that the system remains m
 
 </span>
 
+**Define inspectible:** <span data-chatgpt-prompt="define inspectible (computers and software)">Inspectible refers to the ability to examine or scrutinize the codes, settings, or properties of the computer hardware or software in question. It means that the system is open and transparent for analysis, debugging, or troubleshooting. The ability to inspect a hardware or software program helps ensure that it's functioning in accordance with specifications or standards and that it does not contain any security loopholes or vulnerabilities that may compromise its performance or user data.</span>
+
 ## See Also
 
 * [Wikipedia: inspectability](https://wikipedia.org/wiki/inspectability): TODO
 
 * [Dictionary: inspect](https://www.dictionary.com/browse/inspect): TODO
-
-* [OpenAI: inspectible](https:://openai.com): <span data-chatgpt-prompt="define inspectible (computers and software)">Inspectible refers to the ability to examine or scrutinize the codes, settings, or properties of the computer hardware or software in question. It means that the system is open and transparent for analysis, debugging, or troubleshooting. The ability to inspect a hardware or software program helps ensure that it's functioning in accordance with specifications or standards and that it does not contain any security loopholes or vulnerabilities that may compromise its performance or user data.</span>
 

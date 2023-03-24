@@ -14,10 +14,10 @@ In summary, adaptivity is a critical system quality attribute that enables a sys
 
 </span>
 
+**Define adaptive:** <span data-chatgpt-prompt="define adaptive (computers and software)">Adaptive in the context of computers and software refers to the ability of the system to adjust and respond to changing circumstances or user behavior. Adaptive software is designed to gather information about the user's preferences, behavior, and environment, and then use that information to modify its own behavior to better meet the user's needs. Adaptive systems can also learn from their own experiences, making them more intelligent and efficient over time. Examples of adaptive software include personalized search engines, recommendation engines, and chatbots.</span>
+
 ## See Also
 
 * [Wikipedia: Adaptation (computer science)](https://wikipedia.org/wiki/Adaptation_(computer_science)): This is when the system adapts automatically to its users according to changing conditions, i.e. an adaptive system.
 
 * [Dictionary: adaptive](https://www.dictionary.com/browse/adaptive): serving or able to adapt; showing or contributing to adaptation. Adapt. to make suitable to requirements or conditions; adjust or modify fittingly; to adjust oneself to different conditions, environment, etc.
-
-* [OpenAI: adaptive](https:://openai.com): <span data-chatgpt-prompt="define adaptive (computers and software)">Adaptive in the context of computers and software refers to the ability of the system to adjust and respond to changing circumstances or user behavior. Adaptive software is designed to gather information about the user's preferences, behavior, and environment, and then use that information to modify its own behavior to better meet the user's needs. Adaptive systems can also learn from their own experiences, making them more intelligent and efficient over time. Examples of adaptive software include personalized search engines, recommendation engines, and chatbots.</span>

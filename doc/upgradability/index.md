@@ -14,10 +14,10 @@ Overall, upgradability is a critical system quality attribute that requires care
 
 </span>
 
+**Define upgradable:** <span data-chatgpt-prompt="define upgradable (computers and software)">Upgradable refers to the ability of a computer or software to be upgraded or improved with newer or better components or versions. This may involve replacing or adding hardware components such as RAM, hard drives, or graphics cards, or upgrading to a newer version of software. An upgradable system or software is designed with the flexibility to be expanded or improved over time, allowing for increased performance, functionality, or compatibility with new technologies.</span>
+
 ## See Also
 
 * [Wikipedia: upgradability](https://wikipedia.org/wiki/upgradability)
 
 * [Dictionary: upgrade](https://www.dictionary.com/browse/upgrade): Upgrade. an increase or improvement. a new version, improved model, etc. an increase or improvement in one's service, accommodations, privileges, or the like.
-
-* [OpenAI: upgradable](https:://openai.com): <span data-chatgpt-prompt="define upgradable (computers and software)">Upgradable refers to the ability of a computer or software to be upgraded or improved with newer or better components or versions. This may involve replacing or adding hardware components such as RAM, hard drives, or graphics cards, or upgrading to a newer version of software. An upgradable system or software is designed with the flexibility to be expanded or improved over time, allowing for increased performance, functionality, or compatibility with new technologies.</span>

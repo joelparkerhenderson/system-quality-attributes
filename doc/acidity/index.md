@@ -28,5 +28,5 @@ Atomicity, consistency, isolation, and durability are also considered non-functi
   
 * [Dictionary: ACID](https://www.dictionary.com/browse/ACID)
 
-* [OpenAI: ACID](https:://openai.com): <span data-chatgpt-prompt="define ACID (computers and software)">ACID refers to a set of properties that guarantee that database transactions are processed reliably. ACID stands for Atomicity, Consistency, Isolation, and Durability. Together, these properties ensure that the data in a database remains accurate, reliable, and consistent, even when multiple users are accessing and modifying it simultaneously.</span>
+**Define ACID:** <span data-chatgpt-prompt="define ACID (computers and software)">ACID refers to a set of properties that guarantee that database transactions are processed reliably. ACID stands for Atomicity, Consistency, Isolation, and Durability. Together, these properties ensure that the data in a database remains accurate, reliable, and consistent, even when multiple users are accessing and modifying it simultaneously.</span>
 
