@@ -1,14 +1,20 @@
 # Schedulability
 
-Schedulability: the quality/ability/extent of being scheduleable.
+**Schedulability: the quality/ability/extent of being scheduleable.**
 
-<span data-chatgpt-prompt="explain schedulability (system quality attribute, cross-functional constraint, non-functional requirement)">Schedulability is a system quality attribute, a non-functional requirement, and a cross-functional constraint. It refers to the ability of a system to complete tasks within their specified time constraints. A system that is schedulable can effectively manage its resources, prioritize tasks, and execute them in a timely and efficient manner. 
+<span data-chatgpt-prompt="explain schedulability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Schedulability is a system quality attribute, a non-functional requirement, and a cross-functional constraint. It refers to the ability of a system to complete tasks within their specified time constraints. A system that is schedulable can effectively manage its resources, prioritize tasks, and execute them in a timely and efficient manner. 
 
 Schedulability is a critical system quality attribute because it impacts user satisfaction and overall system performance. If a system cannot meet its scheduling requirements, it may fail to deliver required functionality, cause delays or missed deadlines, or even crash. Therefore, it is essential for systems to be designed and tested for their schedulability.
 
 Schedulability is a non-functional requirement because it does not pertain to the functionality of the system itself, but rather to its performance characteristics. It is a constraint that must be satisfied in order to ensure the overall usability and effectiveness of the system.
 
-Finally, schedulability is a cross-functional constraint because it affects multiple aspects of the system. It requires collaboration between different stakeholders and teams, including developers, testers, project managers, and users. Schedulability must be considered throughout the entire system development lifecycle, from requirements gathering to deployment and maintenance.</span>
+Finally, schedulability is a cross-functional constraint because it affects multiple aspects of the system. It requires collaboration between different stakeholders and teams, including developers, testers, project managers, and users. Schedulability must be considered throughout the entire system development lifecycle, from requirements gathering to deployment and maintenance.
+
+</span>
+
+## See Also
 
 * [Wikipedia](TODO)
 

@@ -1,8 +1,10 @@
 # Serviceability
 
-Serviceability: the quality/ability/extent of being servicable.
+**Serviceability: the quality/ability/extent of being servicable.**
 
-<span data-chatgpt-prompt="explain serviceability (system quality attribute, cross-functional constraint, non-functional requirement)">Serviceability is a system quality attribute that refers to the ease and speed with which a system can be repaired, maintained, and updated. It is a critical non-functional requirement that affects a system's availability, reliability, and performance.
+<span data-chatgpt-prompt="explain serviceability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Serviceability is a system quality attribute that refers to the ease and speed with which a system can be repaired, maintained, and updated. It is a critical non-functional requirement that affects a system's availability, reliability, and performance.
 
 Serviceability is often viewed as a cross-functional constraint because it affects multiple stakeholders, including end-users, system administrators, maintenance personnel, and developers. Serviceability requirements must be considered and addressed throughout the system development life cycle, from design and implementation to testing, deployment, and maintenance.
 
@@ -15,7 +17,11 @@ Some examples of serviceability requirements include:
 - Compatibility with existing infrastructure and tools
 - Robustness to handle changes in the operating environment
 
-In summary, serviceability is a critical system quality attribute that affects the usability, maintainability, and scalability of a system. Addressing serviceability requirements is essential for delivering a reliable and effective system that meets the needs of all stakeholders.</span>
+In summary, serviceability is a critical system quality attribute that affects the usability, maintainability, and scalability of a system. Addressing serviceability requirements is essential for delivering a reliable and effective system that meets the needs of all stakeholders.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Serviceability_(computer](https://wikipedia.org/wiki/Serviceability_(computer))
 

@@ -1,12 +1,18 @@
 # Discoverability
 
-Discoverability: the quality/ability/extent of being discoverable.
+**Discoverability: the quality/ability/extent of being discoverable.**
 
-<span data-chatgpt-prompt="explain discoverability (system quality attribute, cross-functional constraint, non-functional requirement)">Discoverability is a system quality attribute that refers to the ease with which users can find and access functionality within a system, particularly for new users who may be unfamiliar with the interface or functionality. It is a non-functional requirement that is critical to the usability of a system and can significantly impact user satisfaction and overall system performance.
+<span data-chatgpt-prompt="explain discoverability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Discoverability is a system quality attribute that refers to the ease with which users can find and access functionality within a system, particularly for new users who may be unfamiliar with the interface or functionality. It is a non-functional requirement that is critical to the usability of a system and can significantly impact user satisfaction and overall system performance.
 
 Discoverability is also a cross-functional constraint that affects all aspects of system design, including the user interface, navigation, and information architecture. It requires careful consideration of user needs and expectations, as well as an understanding of how users interact with the system.
 
-To enhance discoverability, designers and developers can employ a range of strategies, such as clear and intuitive labeling, consistent navigation and layout, and context-sensitive help and feedback. By prioritizing discoverability as a system quality attribute and non-functional requirement, organizations can improve the overall usability and effectiveness of their systems, while also enhancing user satisfaction and engagement.</span>
+To enhance discoverability, designers and developers can employ a range of strategies, such as clear and intuitive labeling, consistent navigation and layout, and context-sensitive help and feedback. By prioritizing discoverability as a system quality attribute and non-functional requirement, organizations can improve the overall usability and effectiveness of their systems, while also enhancing user satisfaction and engagement.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Discoverability](https://wikipedia.org/wiki/Discoverability): TODO
 

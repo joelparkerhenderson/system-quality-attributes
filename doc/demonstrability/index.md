@@ -1,14 +1,20 @@
 # Demonstrability
 
-Demonstrability: the quality/ability/extent of being demonstrable.
+**Demonstrability: the quality/ability/extent of being demonstrable.**
 
-<span data-chatgpt-prompt="explain demonstrability (system quality attribute, cross-functional constraint, non-functional requirement)">Demonstrability is a system quality attribute that represents the ability of a system to demonstrate its functionality and capabilities to its users. It is a non-functional requirement that specifies how well the system can provide evidence or proof of its correct functioning, as well as its ability to trace and reproduce errors and failures.
+<span data-chatgpt-prompt="explain demonstrability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Demonstrability is a system quality attribute that represents the ability of a system to demonstrate its functionality and capabilities to its users. It is a non-functional requirement that specifies how well the system can provide evidence or proof of its correct functioning, as well as its ability to trace and reproduce errors and failures.
 
 Demonstrability is also considered as a cross-functional constraint as it influences different aspects of the system development process. It requires collaboration between developers, testers, and subject matter experts to create a system that is easy to demonstrate and validate to different stakeholders.
 
 A system with high demonstrability enables users to interact and verify the system’s behaviors, inputs, and outputs. It involves providing necessary evidence, documentation, and tools to enable users to understand the system’s purpose, operation, and performance.
 
-Overall, demonstrating the system’s functionality and capabilities is essential for ensuring user confidence and trust in the system, and therefore demonstrating this ability is crucial to the success of a system.</span>
+Overall, demonstrating the system’s functionality and capabilities is essential for ensuring user confidence and trust in the system, and therefore demonstrating this ability is crucial to the success of a system.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Demonstrability](https://wikipedia.org/wiki/Demonstrability): TODO.
 

@@ -1,12 +1,18 @@
 # Stability
 
-Stability: the quality/ability/extent of being stable.
+**Stability: the quality/ability/extent of being stable.**
 
-<span data-chatgpt-prompt="explain stability (system quality attribute, cross-functional constraint, non-functional requirement)">Stability is a system quality attribute that refers to the ability of a system to maintain a steady and consistent performance level, even under high loads, stresses or unexpected events. In other words, stability ensures that a system has the capacity to resist failures, crashes, and other disruptions that may occur due to a variety of factors, such as insufficient resources, network glitches, or security breaches.
+<span data-chatgpt-prompt="explain stability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Stability is a system quality attribute that refers to the ability of a system to maintain a steady and consistent performance level, even under high loads, stresses or unexpected events. In other words, stability ensures that a system has the capacity to resist failures, crashes, and other disruptions that may occur due to a variety of factors, such as insufficient resources, network glitches, or security breaches.
 
 As a non-functional requirement, stability is a critical aspect of a system's overall performance, as it contributes to user satisfaction, operational efficiency, and the overall success of the system. Meeting stability requirements involves ensuring that the system operates reliably and consistently, and that it can recover quickly from failures or disruptions.
 
-As a cross-functional constraint, stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. Overall, stability requires a balance of technical and non-technical factors to ensure that the system performs reliably and efficiently, and meets the needs of its users.</span>
+As a cross-functional constraint, stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. Overall, stability requires a balance of technical and non-technical factors to ensure that the system performs reliably and efficiently, and meets the needs of its users.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Stability_Model](https://wikipedia.org/wiki/Stability_Model)
 

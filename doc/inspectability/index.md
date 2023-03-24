@@ -1,12 +1,18 @@
 # Inspectability
 
-Inspectability: the quality/ability/extent of being inspectible.
+**Inspectability: the quality/ability/extent of being inspectible.**
 
-<span data-chatgpt-prompt="explain inspectability (system quality attribute, cross-functional constraint, non-functional requirement)">Inspectability is a system quality attribute that refers to the ability of a system to be analyzed and evaluated for its faults, defects, and errors on multiple levels by different stakeholders including developers, testers, and end-users. It involves the ability to review and modify the software code and architecture design, as well as the ability to trace and debug errors and performance issues in the system.
+<span data-chatgpt-prompt="explain inspectability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Inspectability is a system quality attribute that refers to the ability of a system to be analyzed and evaluated for its faults, defects, and errors on multiple levels by different stakeholders including developers, testers, and end-users. It involves the ability to review and modify the software code and architecture design, as well as the ability to trace and debug errors and performance issues in the system.
 
 Inspectability is considered a non-functional requirement, as it doesn't relate to the system functionality itself, but to how the system is built and designed to be examined and analyzed. It is also a cross-functional constraint since it affects multiple aspects of the system development process and the stakeholders involved.
 
-The inspectability attribute is essential for ensuring that the system remains maintainable, scalable, and adaptable over time. By enabling inspectors to identify and fix issues early on, inspectability can help to reduce the total cost of ownership of the system and improve its overall quality and reliability.</span>
+The inspectability attribute is essential for ensuring that the system remains maintainable, scalable, and adaptable over time. By enabling inspectors to identify and fix issues early on, inspectability can help to reduce the total cost of ownership of the system and improve its overall quality and reliability.
+
+</span>
+
+## See Also
 
 * [Wikipedia: inspectability](https://wikipedia.org/wiki/inspectability): TODO
 

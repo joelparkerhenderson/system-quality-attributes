@@ -1,12 +1,18 @@
 # Traceability
 
-Traceability: the quality/ability/extent of being traceable.
+**Traceability: the quality/ability/extent of being traceable.**
 
-<span data-chatgpt-prompt="explain traceability (system quality attribute, cross-functional constraint, non-functional requirement)">Traceability refers to the ability of a system to trace and track the changes made during its development lifecycle. It is an important system quality attribute as it ensures that the system is developed and maintained according to the specified requirements and design. Traceability also helps in identifying the impact of changes made to the system and reduces the risk of errors or inconsistencies.
+<span data-chatgpt-prompt="explain traceability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Traceability refers to the ability of a system to trace and track the changes made during its development lifecycle. It is an important system quality attribute as it ensures that the system is developed and maintained according to the specified requirements and design. Traceability also helps in identifying the impact of changes made to the system and reduces the risk of errors or inconsistencies.
 
 Traceability is also considered as a non-functional requirement as it does not directly affect the functionality of the system but is necessary for ensuring the quality of the system. It is used to measure the effectiveness of the system and ensure that it meets the desired level of reliability, maintainability, and efficiency.
 
-Additionally, traceability can also be considered as a cross-functional constraint as it involves the collaboration between different teams and stakeholders involved in the development, deployment, and maintenance of the system. It is important to ensure that all departments are aligned in terms of the system goals, requirements, and design to ensure efficient and effective development and maintenance of the system.</span>
+Additionally, traceability can also be considered as a cross-functional constraint as it involves the collaboration between different teams and stakeholders involved in the development, deployment, and maintenance of the system. It is important to ensure that all departments are aligned in terms of the system goals, requirements, and design to ensure efficient and effective development and maintenance of the system.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Traceability](https://wikipedia.org/wiki/Traceability)
 

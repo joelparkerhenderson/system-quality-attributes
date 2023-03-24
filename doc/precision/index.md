@@ -1,12 +1,18 @@
 # Precision
 
-Precision: the quality/ability/extent of being precise. Compare accuracy.
+**Precision: the quality/ability/extent of being precise. Compare accuracy.**
 
-<span data-chatgpt-prompt="explain precision (system quality attribute, cross-functional constraint, non-functional requirement)">Precision is a system quality attribute that refers to the level of accuracy and exactness in data, calculations, and outcomes of a system. It is a non-functional requirement that specifies the level of accuracy needed to meet the user's requirements and expectations. Precision is also a cross-functional constraint, as it affects the performance of the system across various business functions, such as finance, engineering, and healthcare.
+<span data-chatgpt-prompt="explain precision (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Precision is a system quality attribute that refers to the level of accuracy and exactness in data, calculations, and outcomes of a system. It is a non-functional requirement that specifies the level of accuracy needed to meet the user's requirements and expectations. Precision is also a cross-functional constraint, as it affects the performance of the system across various business functions, such as finance, engineering, and healthcare.
 
 In a financial system, precision is critical to ensure accurate calculations of amounts, interest rates, and fees. In an engineering system, precision is necessary to ensure accurate measurements, designs, and simulations. In a healthcare system, precision is critical to ensure accurate diagnoses, treatments, and medication dosages.
 
-Precision can be measured using various metrics, such as error rate, variance, and standard deviation. To achieve high precision, a system should have reliable data sources, accurate algorithms and calculations, and robust testing processes.</span>
+Precision can be measured using various metrics, such as error rate, variance, and standard deviation. To achieve high precision, a system should have reliable data sources, accurate algorithms and calculations, and robust testing processes.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Precision (computer science)](https://wikipedia.org/wiki/Precision_(computer_science))
 

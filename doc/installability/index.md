@@ -1,15 +1,21 @@
 # Installability
 
 
-Installability: the quality/ability/extent of being installable.
+**Installability: the quality/ability/extent of being installable.**
 
-<span data-chatgpt-prompt="explain installability (system quality attribute, cross-functional constraint, non-functional requirement)">Installability is a system quality attribute that refers to the ease and simplicity with which a software application can be installed, configured, and deployed on a specific platform or device. It is a non-functional requirement that ensures that an application can be installed and configured quickly and easily, without requiring extensive technical knowledge or expertise.
+<span data-chatgpt-prompt="explain installability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Installability is a system quality attribute that refers to the ease and simplicity with which a software application can be installed, configured, and deployed on a specific platform or device. It is a non-functional requirement that ensures that an application can be installed and configured quickly and easily, without requiring extensive technical knowledge or expertise.
 
 Installability is a cross-functional constraint that involves multiple stakeholders, including developers, IT operations teams, and end-users. It encompasses factors such as software packaging, system dependencies, installation scripts, user interfaces, and documentation.
 
 In order to achieve high installability, software developers need to prioritize aspects like software modularity, compatibility, and simplicity, which help to streamline the installation and configuration process. Additionally, they need to provide clear and concise installation instructions and user documentation, which help users to get up and running with the software quickly and effectively.
 
-In summary, installability is a critical quality attribute that has a significant impact on the user experience and overall usability of a software application. It is an essential consideration for developers, IT operations teams, and end-users alike, and should be taken into account throughout the entire software development lifecycle.</span>
+In summary, installability is a critical quality attribute that has a significant impact on the user experience and overall usability of a software application. It is an essential consideration for developers, IT operations teams, and end-users alike, and should be taken into account throughout the entire software development lifecycle.
+
+</span>
+
+## See Also
 
 * [Wikipedia: installability](https://wikipedia.org/wiki/installability)
 

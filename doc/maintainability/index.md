@@ -1,12 +1,18 @@
 # Maintainability
 
-Maintainability: the quality/ability/extent of being maintainable.
+**Maintainability: the quality/ability/extent of being maintainable.**
 
-<span data-chatgpt-prompt="explain maintainability (system quality attribute, cross-functional constraint, non-functional requirement)">Maintainability is a system quality attribute that refers to the ease with which a software application can be modified, updated, and extended by developers, without requiring excessive effort, time, and costs. It is a non-functional requirement that defines the ability of a system to be easily maintained, repaired, or upgraded without compromising its performance, functionality, or reliability.
+<span data-chatgpt-prompt="explain maintainability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Maintainability is a system quality attribute that refers to the ease with which a software application can be modified, updated, and extended by developers, without requiring excessive effort, time, and costs. It is a non-functional requirement that defines the ability of a system to be easily maintained, repaired, or upgraded without compromising its performance, functionality, or reliability.
 
 Maintainability is a cross-functional constraint that affects all aspects of the software development process, including design, development, testing, and deployment. It impacts the cost and time required for software maintenance, as well as the productivity, expertise, and skills of the development team.
 
-Some of the key factors that influence maintainability include the use of modular and well-structured code, adherence to coding standards and best practices, documentation, version control, testing, and debugging. A highly maintainable system provides benefits such as reduced costs, improved reliability and availability, increased user satisfaction, and enhanced agility and flexibility.</span>
+Some of the key factors that influence maintainability include the use of modular and well-structured code, adherence to coding standards and best practices, documentation, version control, testing, and debugging. A highly maintainable system provides benefits such as reduced costs, improved reliability and availability, increased user satisfaction, and enhanced agility and flexibility.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Maintainability](https://wikipedia.org/wiki/Maintainability)
 

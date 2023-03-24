@@ -1,14 +1,20 @@
 # Repeatability
 
-Repeatability: the quality/ability/extent of being repeatable.
+**Repeatability: the quality/ability/extent of being repeatable.**
 
-<span data-chatgpt-prompt="explain repeatability (system quality attribute, cross-functional constraint, non-functional requirement)">Repeatability is a system quality attribute, which refers to the ability of a system or process to produce consistent results every time it is executed or carried out. Essentially, repeatability ensures that the system delivers accurate and predictable results, with a relatively low margin of error, regardless of the inputs or conditions present.
+<span data-chatgpt-prompt="explain repeatability (system quality attribute, cross-functional constraint, non-functional requirement)">
+
+Repeatability is a system quality attribute, which refers to the ability of a system or process to produce consistent results every time it is executed or carried out. Essentially, repeatability ensures that the system delivers accurate and predictable results, with a relatively low margin of error, regardless of the inputs or conditions present.
 
 As a system quality attribute, repeatability is an important consideration for any system or process that requires a high level of precision, accuracy, and consistency, such as in manufacturing, scientific research, or financial forecasting. In these domains, even slight variations in results can have significant consequences, making repeatability a critical requirement.
 
-From a non-functional requirement perspective, repeatability is an important consideration for system performance, reliability, and usability. Ensuring that a system is highly repeatable can help to reduce the risk of errors, increase efficiency, and improve user satisfaction.
+Repeatability can be a cross-functional constraint, as it can have implications for multiple areas of a system or process, including design, development, testing, and maintenance. To ensure high repeatability, specific design and development practices may need to be implemented, and rigorous testing and quality control measures may need to be put in place.
 
-Finally, repeatability can also be seen as a cross-functional constraint, as it can have implications for multiple areas of a system or process, including design, development, testing, and maintenance. To ensure high repeatability, specific design and development practices may need to be implemented, and rigorous testing and quality control measures may need to be put in place.</span>
+Repeatability can be a non-functional requirement, as an important consideration for system performance, reliability, and usability. Ensuring that a system is highly repeatable can help to reduce the risk of errors, increase efficiency, and improve user satisfaction.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Repeatability](https://wikipedia.org/wiki/Repeatability)
 

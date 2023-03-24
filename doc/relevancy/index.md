@@ -1,8 +1,10 @@
 # Relevancy
 
-Relevancy: the quality/ability/extent of being relevant.
+**Relevancy: the quality/ability/extent of being relevant.**
 
-<span data-chatgpt-prompt="explain relevancy (system quality attribute, cross-functional constraint, non-functional requirement)">Relevancy, in the context of software development, refers to the degree to which a system meets the user's needs, expectations, and goals. Relevancy is essential in developing high-quality software that fulfills the intended purpose and satisfies the stakeholders. Depending on the perspective, relevancy can be seen as a system quality attribute, a non-functional requirement, or a cross-functional constraint.
+<span data-chatgpt-prompt="explain relevancy (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Relevancy, in the context of software development, refers to the degree to which a system meets the user's needs, expectations, and goals. Relevancy is essential in developing high-quality software that fulfills the intended purpose and satisfies the stakeholders. Depending on the perspective, relevancy can be seen as a system quality attribute, a non-functional requirement, or a cross-functional constraint.
 
 As a system quality attribute, relevancy measures the degree to which a system is fit for its intended use. It considers whether the system's features and functionalities are relevant to its users, whether its outputs provide value to the business, and whether it supports the organization's goals and strategies. A system that lacks relevancy may be difficult to use, lack user adoption, or fail to meet the desired business outcomes.
 
@@ -10,7 +12,11 @@ As a non-functional requirement, relevancy defines the quality attributes that q
 
 As a cross-functional constraint, relevancy influences how different parts of the system interoperate and affects the overall software architecture. It considers the necessary trade-offs when different stakeholders have different goals or infrastructural constraints such as resource limitations. The design and development team may need to ensure that the system is adaptable to different user scenarios, locations, and usage demands.
 
-In summary, relevancy is a critical concept in software development that ensures that the system meets the user's needs, expectations, and goals. It is a system quality attribute, a non-functional requirement, and a cross-functional constraint that affects the software development process from design to implementation and maintenance.</span>
+In summary, relevancy is a critical concept in software development that ensures that the system meets the user's needs, expectations, and goals. It is a system quality attribute, a non-functional requirement, and a cross-functional constraint that affects the software development process from design to implementation and maintenance.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Relevance](https://wikipedia.org/wiki/Relevance)
 

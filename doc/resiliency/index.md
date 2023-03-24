@@ -1,14 +1,20 @@
 # Resiliency
 
-Resilience: the quality/ability/extent of being resilient.
+**Resilience: the quality/ability/extent of being resilient.**
 
-<span data-chatgpt-prompt="explain resilience (system quality attribute, cross-functional constraint, non-functional requirement)">Resilience is a system quality attribute that refers to the ability of a system to recover quickly and effectively from disruptions or failures. 
+<span data-chatgpt-prompt="explain resilience (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Resilience is a system quality attribute that refers to the ability of a system to recover quickly and effectively from disruptions or failures. 
 
 It is also considered as a non-functional requirement, as it is not related to the functional behavior of the system but rather its ability to accommodate change and maintain its performance under different conditions.
 
 Resilience is often viewed as a cross-functional constraint because it impacts multiple aspects of a system, including performance, reliability, and security. It requires coordination across different functions and stakeholders to ensure that the system is able to withstand and recover from unexpected events.
 
-In summary, resilience is a critical attribute that ensures the sustainability of a system over time and across different situations. It is essential for any system performing critical functions or dealing with sensitive information.</span>
+In summary, resilience is a critical attribute that ensures the sustainability of a system over time and across different situations. It is essential for any system performing critical functions or dealing with sensitive information.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Resilience_(engineering_and_construction](https://wikipedia.org/wiki/Resilience_(engineering_and_construction))
 

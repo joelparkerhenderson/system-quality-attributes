@@ -1,14 +1,20 @@
 # Self-sustainability
 
-Self-sustainability: the quality/ability/extent of being self-sustainable. Compare anti-fragility.
+**Self-sustainability: the quality/ability/extent of being self-sustainable. Compare anti-fragility.**
 
-<span data-chatgpt-prompt="explain self-sustainability (system quality attribute, cross-functional constraint, non-functional requirement)">Self-sustainability refers to the ability of a system to maintain its intended functionality without external intervention or support. 
+<span data-chatgpt-prompt="explain self-sustainability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Self-sustainability refers to the ability of a system to maintain its intended functionality without external intervention or support. 
 
 Self-sustainability is a system quality attribute that focuses on the system's ability to sustain itself over time, even as its environment and circumstances change. Self-sustainability is a non-functional requirement, which means that it does not relate to the system's specific functionality but rather to how the system operates.
 
 As a cross-functional constraint, self-sustainability impacts multiple parts of a system and requires coordination and cooperation among various stakeholders. For example, a self-sustaining system may require the use of renewable energy sources or recycling of materials to reduce waste and minimize external support. It may involve the use of automation and smart technology to optimize energy efficiency and reduce maintenance needs.
 
-Overall, self-sustainability is a crucial aspect of system design, as it helps to create more efficient and environmentally-friendly systems that can operate indefinitely without requiring significant external support. By prioritizing self-sustainability as a system quality attribute, organizations can reduce their dependence on external resources and create more resilient and reliable systems.</span>
+Overall, self-sustainability is a crucial aspect of system design, as it helps to create more efficient and environmentally-friendly systems that can operate indefinitely without requiring significant external support. By prioritizing self-sustainability as a system quality attribute, organizations can reduce their dependence on external resources and create more resilient and reliable systems.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Self-sustainability](https://wikipedia.org/wiki/Self-sustainability)
 

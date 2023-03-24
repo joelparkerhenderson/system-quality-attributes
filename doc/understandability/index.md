@@ -1,12 +1,18 @@
 # Understandability
 
-Understandability: the quality/ability/extent of being understandable.
+**Understandability: the quality/ability/extent of being understandable.**
 
-<span data-chatgpt-prompt="explain understandability (system quality attribute, cross-functional constraint, non-functional requirement)">Understandability is a system quality attribute and a non-functional requirement that defines the ease with which a user can comprehend and use a system. It is the measure of how easy it is for users to understand the system's functions and features. 
+<span data-chatgpt-prompt="explain understandability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Understandability is a system quality attribute and a non-functional requirement that defines the ease with which a user can comprehend and use a system. It is the measure of how easy it is for users to understand the system's functions and features. 
 
 Understandability is also a cross-functional constraint because it involves different stakeholders, including developers, testers, and users. It requires a collaborative effort across different departments to ensure the system is designed and developed with the user's ease of understanding in mind.
 
-The understandability of a system is crucial to usability and user satisfaction. An understandable system reduces user frustration and errors, and makes it easier for users to achieve their goals and complete tasks efficiently. Therefore, understandability should be a primary consideration during the design, development, and testing of the system.</span>
+The understandability of a system is crucial to usability and user satisfaction. An understandable system reduces user frustration and errors, and makes it easier for users to achieve their goals and complete tasks efficiently. Therefore, understandability should be a primary consideration during the design, development, and testing of the system.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Understandability](https://wikipedia.org/wiki/Understandability): the system items are self-explaining, or documented, or diagrammed, etc.
 

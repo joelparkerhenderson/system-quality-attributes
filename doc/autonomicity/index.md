@@ -1,14 +1,20 @@
 # Autonomicity
 
-Autonomicity: the quality/ability/extent of being autonomous.
+**Autonomicity: the quality/ability/extent of being autonomous.**
 
-<span data-chatgpt-prompt="explain autonomicity (system quality attribute, cross-functional constraint, non-functional requirement)">Autonomicity is a system quality attribute that refers to a system's ability to self-manage, self-heal, and self-configure without the need for human intervention. 
+<span data-chatgpt-prompt="explain autonomicity (system quality attribute, cross-functional constraint, non-functional requirement\)">
+
+Autonomicity is a system quality attribute that refers to a system's ability to self-manage, self-heal, and self-configure without the need for human intervention. 
 
 Autonomicity is a non-functional requirement that emphasizes the importance of a system's ability to operate seamlessly and adapt to its environment to achieve its goals. 
 
 Autonomicity is a cross-functional constraint because it affects multiple aspects of a system, including its performance, reliability, and security. It requires collaboration among different stakeholders, such as developers, system administrators, and end-users, to ensure that the system is fully autonomous in its operation.
 
-In summary, Autonomicity is a key attribute that improves the effectiveness and efficiency of a system by reducing manual interventions and allowing the system to adapt to changing scenarios. It minimizes the chances of failures and increases the system's reliability and usability.</span>
+In summary, Autonomicity is a key attribute that improves the effectiveness and efficiency of a system by reducing manual interventions and allowing the system to adapt to changing scenarios. It minimizes the chances of failures and increases the system's reliability and usability.
+
+</span>
+
+## See Also
 
 * [Wikipedia: Autonomy](https://wikipedia.org/wiki/Autonomy): The degree that a system can make its own decisions.
 
