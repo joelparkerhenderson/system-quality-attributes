@@ -2,7 +2,7 @@
 
 **Extensibility: the quality/ability/extent of being extensible.**
 
-<span data-chatgpt-prompt="explain extensibility (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain extensibility (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Extensibility is a system quality attribute that represents the system's capacity to extend its functionality or accommodate new features and requirements efficiently. It is a non-functional requirement that describes the ease with which the system can incorporate new functionality without disrupting the existing system's structure or requiring significant changes.
 

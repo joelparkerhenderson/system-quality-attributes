@@ -2,7 +2,7 @@
 
 **Availability: the quality/ability/extent of being available.**
 
-<span data-chatgpt-prompt="explain availability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain availability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Availability is a system quality attribute that refers to the ability of a system or application to be accessible and operational for use by authorized users. It indicates the percentage of time that a system or application remains available and responsive to user requests.
 

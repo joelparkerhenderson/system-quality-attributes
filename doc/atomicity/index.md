@@ -2,7 +2,7 @@
 
 **Atomicity: the quality/ability/extent of being atomic transactionally.**
 
-<span data-chatgpt-prompt="explain atomicity (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain atomicity (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Atomicity is a system quality attribute that refers to the property of a system where a sequence of operations is treated as a single, indivisible transaction. In other words, the atomicity of a system is the guarantee that a series of related operations will either succeed or fail as a single unit, without any partial completion.
 

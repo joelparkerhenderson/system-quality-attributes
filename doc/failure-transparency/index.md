@@ -2,7 +2,7 @@
 
 **Failure-transparency: the quality/ability/extent of being failure-transparent.**
 
-<span data-chatgpt-prompt="explain failure-transparency (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain failure-transparency (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Failure-transparency is a system quality attribute that ensures that a system's failures are communicated to its users, administrators, and other stakeholders in a clear and timely manner. This attribute is essential for building trust in the system and fostering a culture of responsibility and accountability.
 

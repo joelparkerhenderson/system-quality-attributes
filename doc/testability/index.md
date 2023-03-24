@@ -2,7 +2,7 @@
 
 **Testability: the quality/ability/extent of being testable.**
 
-<span data-chatgpt-prompt="explain testability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain testability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Testability is a key system quality attribute that refers to the ease with which a software program or system can be tested to ensure that it functions correctly and meets the requirements of the end user. It is a non-functional requirement that is critical to the development of high-quality software, as it enables developers to verify and validate the functionality, performance, and reliability of the software before it is released to end users.
 

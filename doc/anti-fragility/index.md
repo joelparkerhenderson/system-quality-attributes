@@ -2,7 +2,7 @@
 
 **Anti-fragility: the quality/ability/extent of being anti-fragile. Compare self-sustainability.**
 
-<span data-chatgpt-prompt="explain anti-fragility (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain anti-fragility (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Antifragility is a system quality attribute that refers to the ability of a system to thrive and improve under stress, shock, or change, instead of just surviving it. It is a property of systems that have the ability to constantly adapt and grow stronger in the face of volatility, uncertainty, complexity, and ambiguity (VUCA) of their environment.
 

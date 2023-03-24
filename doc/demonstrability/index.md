@@ -2,7 +2,7 @@
 
 **Demonstrability: the quality/ability/extent of being demonstrable.**
 
-<span data-chatgpt-prompt="explain demonstrability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain demonstrability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Demonstrability is a system quality attribute that represents the ability of a system to demonstrate its functionality and capabilities to its users. It is a non-functional requirement that specifies how well the system can provide evidence or proof of its correct functioning, as well as its ability to trace and reproduce errors and failures.
 
@@ -21,4 +21,4 @@ Overall, demonstrating the system’s functionality and capabilities is essentia
 * [Dictionary: demonstrate](https://www.dictionary.com/browse/demonstrate): to make evident or establish by arguments or reasoning; prove: to demonstrate a philosophical principle. to describe, explain, or illustrate by examples, specimens, experiments, or the like. to manifest or exhibit; show. to display openly or publicly.
 
 * [OpenAI: demonstrable](https:://openai.com): <span data-chatgpt-prompt="define demonstrable (computers and software)">Demonstrable means capable of being shown or proven with evidence. In the context of computers and software, it refers to a feature or function that can be clearly demonstrated or proven to work as intended. This can involve providing clear documentation, testing, or examples to demonstrate that a particular program, software module, or component meets the requirements or specifications it was designed to satisfy. Demonstrability is an important factor in software development, as it enables developers to verify that their software is functioning correctly and meeting user needs.</span>
-  
+

@@ -2,9 +2,9 @@
 
 **Observability: the quality/ability/extent of being observable.**
 
-<span data-chatgpt-prompt="explain observability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain observability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Observability is a system quality attribute that refers to the ability of the system to be easily monitored and measured, allowing for timely detection and resolution of issues. It is a non-functional requirement that ensures the system's readiness for debugging, maintenance, and troubleshooting. 
+Observability is a system quality attribute that refers to the ability of the system to be easily monitored and measured, allowing for timely detection and resolution of issues. It is a non-functional requirement that ensures the system's readiness for debugging, maintenance, and troubleshooting.
 
 Observability also serves as a cross-functional constraint, as it impacts teams responsible for different aspects of the system, such as development, operations, and customer support. It requires collaboration among these teams to ensure that the necessary logs, metrics, and other monitoring tools are in place and accessible to all stakeholders.
 

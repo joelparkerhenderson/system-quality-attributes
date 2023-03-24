@@ -2,7 +2,7 @@
 
 **Producibility: the quality/ability/extent of being producable.**
 
-<span data-chatgpt-prompt="explain Producibility (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain Producibility (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Producibility is a system quality attribute which refers to the ease and efficiency with which a software system can be developed, tested, deployed and maintained. It is primarily concerned with ensuring that the software system can be feasibly and effectively produced.
 

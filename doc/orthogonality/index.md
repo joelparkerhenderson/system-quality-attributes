@@ -2,7 +2,7 @@
 
 **Orthogonality: the quality/ability/extent of being orthogonal.**
 
-<span data-chatgpt-prompt="explain orthogonality (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain orthogonality (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Orthogonality is a system quality attribute that refers to the degree to which different components or subsystems of a system can be developed, tested, or modified independently without affecting each other. It is a key aspect of system design that aims to minimize the interdependence of system components, allowing for more flexible and efficient development and maintenance.
 

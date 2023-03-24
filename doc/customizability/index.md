@@ -2,7 +2,7 @@
 
 **Customizability: the quality/ability/extent of being customizable.**
 
-<span data-chatgpt-prompt="explain customizability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain customizability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Customizability is a system quality attribute that refers to the ability of a system to be easily modified or adapted to different user needs and preferences.
 
@@ -16,7 +16,7 @@ To achieve customizability, software systems must be designed with flexibility a
 
 ## See Also
 
-* [Wikipedia: Customizability](https://wikipedia.org/wiki/Customizability). The quality of being customizable, such as when a user can change system aspects in order to work the way the user wants. Customised software (also known as bespoke software or tailor-made software) is software that is specially developed for some specific organization or other user. 
+* [Wikipedia: Customizability](https://wikipedia.org/wiki/Customizability). The quality of being customizable, such as when a user can change system aspects in order to work the way the user wants. Customised software (also known as bespoke software or tailor-made software) is software that is specially developed for some specific organization or other user.
 
 * [Dictionary: customize](https://www.dictionary.com/browse/customize): to modify or build according to individual or personal specifications or preference.
 

@@ -2,11 +2,11 @@
 
 **Learnability: the quality/ability/extent of being learnable.**
 
-<span data-chatgpt-prompt="explain learnability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain learnability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Learnability is a system quality attribute that measures the ease with which users can learn to use a system. It is a non-functional requirement that is related to the usability of a system. A system that is designed to be easy to learn should provide users with a clear and concise interface that is intuitive and easy to navigate. 
+Learnability is a system quality attribute that measures the ease with which users can learn to use a system. It is a non-functional requirement that is related to the usability of a system. A system that is designed to be easy to learn should provide users with a clear and concise interface that is intuitive and easy to navigate.
 
-Learnability is also a cross-functional constraint because it affects the way users interact with a system across different domains. For example, if a user is familiar with one software application, they will expect similar interaction patterns and design principles in another software application. If a system is difficult to learn, it can negatively impact user adoption and satisfaction, as well as productivity and efficiency. 
+Learnability is also a cross-functional constraint because it affects the way users interact with a system across different domains. For example, if a user is familiar with one software application, they will expect similar interaction patterns and design principles in another software application. If a system is difficult to learn, it can negatively impact user adoption and satisfaction, as well as productivity and efficiency.
 
 In summary, learnability is an important system quality attribute that ensures that users can quickly and easily use a system without extensive training or support. It is a non-functional requirement that should be considered during the design and development of a system, and it is a cross-functional constraint that extends to all areas of the system.
 

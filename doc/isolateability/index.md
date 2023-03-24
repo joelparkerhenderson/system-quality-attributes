@@ -2,7 +2,7 @@
 
 **Isolateability: the quality/ability/extent of being isolatable.**
 
-<span data-chatgpt-prompt="explain isolateability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain isolateability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Isolateability is a system quality attribute, which refers to the degree to which a system's components can be tested or modified in isolation, without impacting the rest of the system. In other words, it is the ability of a system component to function independently of other components.
 

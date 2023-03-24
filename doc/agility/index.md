@@ -2,11 +2,11 @@
 
 **Agility: the quality/ability/extent of being agile.**
 
-<span data-chatgpt-prompt="explain agility (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain agility (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Agility is a system quality attribute that refers to the ability of a system to adapt to changing requirements and environments quickly and efficiently. 
+Agility is a system quality attribute that refers to the ability of a system to adapt to changing requirements and environments quickly and efficiently.
 
-Agility is a non-functional requirement because it does not describe the specific functionalities of a system, but rather how well it can operate under certain circumstances. 
+Agility is a non-functional requirement because it does not describe the specific functionalities of a system, but rather how well it can operate under certain circumstances.
 
 Finally, agility can also be considered a cross-functional constraint because it affects multiple aspects of a system, including its design, architecture, and implementation. An agile system can easily change and evolve over time to meet new demands, make modifications or enhancements, and respond to unforeseen events.
 

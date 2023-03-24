@@ -2,7 +2,7 @@
 
 **Supportability: the quality/ability/extent of being supportable.**
 
-<span data-chatgpt-prompt="explain supportability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain supportability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Supportability is a systems quality attribute, which is a type of non-functional requirement and cross-functional constraint. It refers to the ability of a system to be supported and fully maintained throughout its lifecycle, including installation, maintenance, troubleshooting, and upgrades. Supportability includes features such as providing adequate documentation, easy maintenance procedures, and training support staff to administer and troubleshoot the system. A system that is highly supportable requires less effort and time from support staff, reducing the overall cost of maintaining the system. High supportability is especially important for mission-critical systems where downtime can have severe consequences.
 

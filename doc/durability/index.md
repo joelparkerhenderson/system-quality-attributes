@@ -2,7 +2,7 @@
 
 **Durability: the quality/ability/extent of being durable.**
 
-<span data-chatgpt-prompt="explain durability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain durability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Durability is a system quality attribute that refers to the ability of a system to withstand the rigors of use over an extended period of time. It is a non-functional requirement that must be satisfied along with other quality attributes such as performance, reliability, and maintainability. Durability is also a cross-functional constraint that applies to different parts of the system such as hardware, software, and infrastructure.
 

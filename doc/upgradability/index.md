@@ -2,7 +2,7 @@
 
 **Upgradability: the quality/ability/extent of being upgradable.**
 
-<span data-chatgpt-prompt="explain upgradability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain upgradability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Upgradability is a system quality attribute, which is a measure of how well a software system can be modified or enhanced to meet changing needs. It is a non-functional requirement that describes the ease with which a system can be upgraded or updated in terms of hardware, software, or functionality.
 

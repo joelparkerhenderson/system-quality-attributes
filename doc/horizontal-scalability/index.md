@@ -2,8 +2,7 @@
 
 **Horizontal scalability: the quality/ability/extent of being scalable across more load providers, such as by adding more servers and clusters. Contrast vertical scalability.**
 
-<span data-chatgpt-prompt="explain horizontal scalability
- (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain horizontal scalability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Horizontal scalability refers to the ability of a system to scale out by adding more instances or nodes to distribute the workload, rather than scaling up by increasing hardware capacity on a single node. It is a system quality attribute that ensures that the system can handle a growing number of users, requests or data size without any significant reduction in performance.
 

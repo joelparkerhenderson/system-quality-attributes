@@ -2,7 +2,7 @@
 
 **Scalability: the quality/ability/extent of being scalable.**
 
-<span data-chatgpt-prompt="explain scalability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain scalability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Scalability is a system quality attribute that refers to the ability of a system to handle growing amounts of workload or handle more users, resources, or data without sacrificing performance or crashing. Scalability is a non-functional requirement in software engineering that determines how well a system responds to increasing amounts of data, traffic, or requests.
 
@@ -13,7 +13,7 @@ In summary, scalability is a crucial attribute that determines the long-term via
 Scalability can be measured over multiple dimensions, such as:
 
 * Administrative scalability: The ability for an increasing number of organizations or users to access a system.
-  
+
 * Functional scalability: The ability to enhance the system by adding new functionality without disrupting existing  activities.
 
 * Geographic scalability: The ability to maintain effectiveness during expansion from a local area to a larger region.
@@ -27,8 +27,8 @@ Scalability can be measured over multiple dimensions, such as:
 
 ## See Also
 
-* [Wikipedia: Scalability](https://wikipedia.org/wiki/Scalability): Scalability is the property of a system to handle a growing amount of work by adding resources to the system. In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications. 
-  
+* [Wikipedia: Scalability](https://wikipedia.org/wiki/Scalability): Scalability is the property of a system to handle a growing amount of work by adding resources to the system. In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications.
+
 * [Dictionary: scalability](https://www.dictionary.com/browse/scalability): Scalability. the ability of something, esp a computer system, to adapt to increased demands.
 
 * [OpenAI: scalable](https:://openai.com): <span data-chatgpt-prompt="define scalable (computers and software)">Scalable refers to the ability of computer hardware, software or applications to adapt to increased demand or usage, without sacrificing performance or functionality. It means that a system can handle an increase in workload or users in a cost-effective manner without compromising quality or speed. The scalability of a system is usually achieved through the use of efficient hardware and software architectures, as well as the ability to add more resources or capacity as needed.</span>

@@ -1,8 +1,8 @@
-## Composability
+# Composability
 
 **Composability: the quality/ability/extent of being composable.**
 
-<span data-chatgpt-prompt="explain composability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain composability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Composability is a system quality attribute, a non-functional requirement, and a cross-functional constraint that determines the degree to which different components or services within an architecture can be combined or composed to create new functionalities or systems without requiring significant changes to the individual components. In other words, composability is the ability of a system or a component to be combined or integrated with other systems or components in a flexible and seamless manner, allowing for easy customization, scalability, and interoperability.
 

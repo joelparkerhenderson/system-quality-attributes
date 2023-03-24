@@ -2,7 +2,7 @@
 
 **Affordability: the quality/ability/extent of being afforable.**
 
-<span data-chatgpt-prompt="explain affordability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain affordability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Affordability is a system quality attribute, which refers to the ability of a system or product to be economically feasible for its intended use or market. In other words, affordability is the measure of how easily accessible and reasonable the cost of a product or service is to its potential customers.
 

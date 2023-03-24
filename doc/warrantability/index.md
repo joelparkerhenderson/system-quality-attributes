@@ -2,7 +2,7 @@
 
 **Warrantability: the quality/ability/extent of being warrantable.**
 
-<span data-chatgpt-prompt="explain warrantability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain warrantability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Warrantability is a system quality attribute that describes the ability of a software system to be maintained and supported by the software vendor or by the customer's own technical team. It is a non-functional requirement that specifies that the software must be designed in such a way that it can be easily updated, maintained, and repaired as needed throughout its lifetime.
 
@@ -17,7 +17,7 @@ In sum, warrantability is a critically important quality attribute that ensures 
 ## See Also
 
 * [Wikipedia: Warranty](https://wikipedia.org/wiki/Warranty): for guarantees or promises, express or implied, such as for legal contracts, service level agreements (SLAs), and quality of service (QoS).
- 
+
 * [Dictionary: warrant](https://www.dictionary.com/browse/warrant): Warrant. authorization, sanction, or justification.
 something that serves to give reliable or formal assurance of something; guarantee, pledge, or security.
 something considered as having the force of a guarantee or as being positive assurance of a thing. a writing or document certifying or authorizing something, as a receipt, license, or commission.

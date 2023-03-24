@@ -2,7 +2,7 @@
 
 **Relevancy: the quality/ability/extent of being relevant.**
 
-<span data-chatgpt-prompt="explain relevancy (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain relevancy (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Relevancy, in the context of software development, refers to the degree to which a system meets the user's needs, expectations, and goals. Relevancy is essential in developing high-quality software that fulfills the intended purpose and satisfies the stakeholders. Depending on the perspective, relevancy can be seen as a system quality attribute, a non-functional requirement, or a cross-functional constraint.
 

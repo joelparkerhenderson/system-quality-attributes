@@ -2,7 +2,7 @@
 
 **Securability: the quality/ability/extent of being securable.**
 
-<span data-chatgpt-prompt="explain securability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain securability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Securability is a system quality attribute that refers to the ability of a system to protect against unauthorized access, modification, disclosure, or destruction of information or system resources. It is a critical non-functional requirement that ensures the security of a system and is achieved through the implementation of various security controls, such as authentication, authorization, encryption, and audit trails.
 

@@ -2,7 +2,7 @@
 
 **Monitorability: the quality/ability/extent of being monitorable.**
 
-<span data-chatgpt-prompt="explain monitorability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain monitorability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Monitorability is a system quality attribute that ensures that the system can be monitored and measured to ensure that it is functioning as expected. It is a non-functional requirement that specifies the system's ability to provide feedback, diagnostics, and performance metrics that can be used to identify issues, troubleshoot problems, and optimize its performance.
 

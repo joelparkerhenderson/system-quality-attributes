@@ -2,7 +2,7 @@
 
 **Deployability: the quality/ability/extent of being deployable.**
 
-<span data-chatgpt-prompt="explain deployability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain deployability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Deployability refers to the ease and speed with which a software system can be deployed or installed. It is a system quality attribute that measures the system's ability to be deployed in different environments and configurations, without requiring extensive development efforts or causing disruptions to other systems.
 

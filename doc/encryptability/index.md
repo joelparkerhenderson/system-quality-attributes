@@ -2,7 +2,7 @@
 
 **Encryptability: the quality/ability/extent of being encryptable.**
 
-<span data-chatgpt-prompt="explain encryptability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain encryptability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Encryptability refers to the capability of a system to secure sensitive data by utilizing encryption methods. In technical terms, encryption is the procedure of transforming plain text data into an unreadable form that can only be decoded with the help of a unique cryptographic key.
 
@@ -18,7 +18,7 @@ In summary, encryptability is a critical system quality attribute, non-functiona
 
 ## See Also
 
-* [Wikipedia: Encryption](https://wikipedia.org/wiki/Encryption): In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information. Encryption does not itself prevent interference but denies the intelligible content to a would-be interceptor. 
+* [Wikipedia: Encryption](https://wikipedia.org/wiki/Encryption): In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information. Encryption does not itself prevent interference but denies the intelligible content to a would-be interceptor.
 
 * [Dictionary: encrypt](https://www.dictionary.com/browse/encrypt): to encipher or encode.
 

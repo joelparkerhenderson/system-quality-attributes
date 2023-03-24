@@ -2,9 +2,9 @@
 
 **Interchangeability: the quality/ability/extent of being interchangeable.**
 
-<span data-chatgpt-prompt="explain interchangeability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain interchangeability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Interchangeability is a system quality attribute that refers to the ability of a component or system to be easily changed or replaced without affecting the functioning of the whole system. It allows for flexibility and ease of maintenance, as components can be swapped out if they become unusable or are no longer fit for purpose. 
+Interchangeability is a system quality attribute that refers to the ability of a component or system to be easily changed or replaced without affecting the functioning of the whole system. It allows for flexibility and ease of maintenance, as components can be swapped out if they become unusable or are no longer fit for purpose.
 
 Interchangeability is also considered a non-functional requirement, as it is not directly related to the system's primary function but rather its performance and maintainability. It is often included in system requirements documents as a necessary feature for a high-quality system.
 

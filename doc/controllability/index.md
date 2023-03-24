@@ -2,7 +2,7 @@
 
 **Controllability: the quality/ability/extent of being controllable.**
 
-<span data-chatgpt-prompt="explain controllability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain controllability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Controllability is a system quality attribute that refers to the ability of a system or its components to be easily managed, monitored, and controlled. It is a non-functional requirement that defines the degree to which a system can be controlled by its users, administrators, and other stakeholders. Controllability is also a cross-functional constraint, as it impacts various aspects of a system, including usability, reliability, and security.
 
@@ -14,7 +14,7 @@ Controllability is critical for ensuring the reliability, availability, and secu
 
 ## See Also
 
-* [Wikipedia: Control system](https://wikipedia.org/wiki/Control_system): A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines. The control systems are designed via control engineering process. 
+* [Wikipedia: Control system](https://wikipedia.org/wiki/Control_system): A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines. The control systems are designed via control engineering process.
 
 * [Dictionary: control](https://www.dictionary.com/browse/control): to exercise direction over; dominate: command.
 To hold in check; curb. the situation of being under the regulation, domination, or command of another..

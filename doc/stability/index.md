@@ -2,7 +2,7 @@
 
 **Stability: the quality/ability/extent of being stable.**
 
-<span data-chatgpt-prompt="explain stability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain stability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Stability is a system quality attribute that refers to the ability of a system to maintain a steady and consistent performance level, even under high loads, stresses or unexpected events. In other words, stability ensures that a system has the capacity to resist failures, crashes, and other disruptions that may occur due to a variety of factors, such as insufficient resources, network glitches, or security breaches.
 

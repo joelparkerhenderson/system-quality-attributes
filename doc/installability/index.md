@@ -3,7 +3,7 @@
 
 **Installability: the quality/ability/extent of being installable.**
 
-<span data-chatgpt-prompt="explain installability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain installability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Installability is a system quality attribute that refers to the ease and simplicity with which a software application can be installed, configured, and deployed on a specific platform or device. It is a non-functional requirement that ensures that an application can be installed and configured quickly and easily, without requiring extensive technical knowledge or expertise.
 

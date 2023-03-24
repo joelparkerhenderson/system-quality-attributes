@@ -2,13 +2,13 @@
 
 **Sustainability: the quality/ability/extent of being sustainable.**
 
-<span data-chatgpt-prompt="explain sustainability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain sustainability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Sustainability is a system quality attribute that refers to a system's ability to maintain its performance and functionality over time, while also minimizing its impact on the environment and society. 
+Sustainability is a system quality attribute that refers to a system's ability to maintain its performance and functionality over time, while also minimizing its impact on the environment and society.
 
-Sustainability is a cross-functional constraint, as it involves various aspects of a system, including its technology, design, materials, and business practices, as well as its impact on the environment and society. 
+Sustainability is a cross-functional constraint, as it involves various aspects of a system, including its technology, design, materials, and business practices, as well as its impact on the environment and society.
 
-Sustainability is a non-functional requirement, as it is a characteristic that is not directly related to the system's primary function or features, but rather its overall quality and impact. 
+Sustainability is a non-functional requirement, as it is a characteristic that is not directly related to the system's primary function or features, but rather its overall quality and impact.
 
 Sustainability is an essential consideration for any system or technology that seeks to minimize its impact on the environment, conserve resources, and promote social responsibility.
 

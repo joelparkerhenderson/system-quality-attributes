@@ -2,7 +2,7 @@
 
 **Flexibility: the quality/ability/extent of being flexible.**
 
-<span data-chatgpt-prompt="explain flexibility (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain flexibility (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Flexibility is a system quality attribute that allows a system to adapt and respond to changing requirements, conditions or user needs over time. It ensures that the system can be easily modified, extended or replaced without disrupting the functioning of the system or causing any significant downtime.
 

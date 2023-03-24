@@ -2,11 +2,11 @@
 
 **Auditability: the quality/ability/extent of being auditable.**
 
-<span data-chatgpt-prompt="explain auditability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain auditability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Auditability is a system quality attribute that refers to the ability of a system to provide reliable and accurate data for auditing purposes. It is a non-functional requirement that is important in many industries, such as finance, healthcare, and government, where strict regulations often require auditing of system activities and transactions.
 
-To achieve auditability, a system must be designed with clear and transparent processes that can be easily tracked and recorded. It must store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time. This includes data such as user activity, system changes, access logs, and transaction records. 
+To achieve auditability, a system must be designed with clear and transparent processes that can be easily tracked and recorded. It must store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time. This includes data such as user activity, system changes, access logs, and transaction records.
 
 Auditability is also a cross-functional constraint, requiring collaboration between various departments such as development, operations, and security. The system must be designed with security in mind to ensure that data is not compromised or lost, and compliance regulations are met. It must also be easy to audit, with clear documentation and reporting that can be easily reviewed by auditors or other stakeholders.
 

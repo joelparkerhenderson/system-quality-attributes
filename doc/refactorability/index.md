@@ -2,7 +2,7 @@
 
 **Refactorability: the quality/ability/extent of being refactorable.**
 
-<span data-chatgpt-prompt="explain refactorability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain refactorability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
 Refactorability is a system quality attribute that refers to the ease with which a software system can be modified or improved without affecting its functionality. It is a non-functional requirement that is often a cross-functional constraint, affecting the development, maintenance, and evolution of the software system.
 
@@ -17,6 +17,6 @@ Refactoring is an essential activity in software development that helps to impro
 * [Wikipedia: Refactorability](https://wikipedia.org/wiki/Refactorability)
 
 * [Dictionary: refactor](https://www.dictionary.com/browse/refactor)
-  
+
 * [OpenAI: refactorable](https:://openai.com): <span data-chatgpt-prompt="define refactorable (computers and software)">Refactorable refers to the ability of a computer program or software to be easily modified or optimized without changing its behavior or functionality. Refactoring involves restructuring, simplifying, or improving the code without altering the end result. A refactorable codebase allows developers to make changes efficiently and maintain it well over time.</span>
 

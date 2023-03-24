@@ -2,9 +2,9 @@
 
 **Operability: the quality/ability/extent of being operable.**
 
-<span data-chatgpt-prompt="explain operability (system quality attribute, cross-functional constraint, non-functional requirement\)">
+<span data-chatgpt-prompt="explain operability (system quality attribute, cross-functional constraint, non-functional requirement)">
 
-Operability is a system quality attribute, which refers to the ease with which a system can be operated, controlled, and monitored. It is a non-functional requirement, which focuses on how well the system works rather than what it does. 
+Operability is a system quality attribute, which refers to the ease with which a system can be operated, controlled, and monitored. It is a non-functional requirement, which focuses on how well the system works rather than what it does.
 
 Operability relates to the cross-functional constraints that affect the system design and implementation. It is affected by various factors such as human factors, system reliability, system availability, system maintainability, and system safety.
 
