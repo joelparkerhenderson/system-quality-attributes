@@ -1,8 +1,8 @@
 # Degradability
 
-**Degradability: the quality/ability/extent of being degradable.**
+**The quality/ability/extent of being degradable.**
 
-<span data-chatgpt-prompt="explain degradability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain degradability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Degradability is a system quality attribute that refers to the ability of a system to operate at an acceptable level of performance even when certain components or resources are unavailable.
 

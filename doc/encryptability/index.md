@@ -1,8 +1,8 @@
 # Encryptability
 
-**Encryptability: the quality/ability/extent of being encryptable.**
+**The quality/ability/extent of being encryptable.**
 
-<span data-chatgpt-prompt="explain encryptability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain encryptability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Encryptability refers to the capability of a system to secure sensitive data by utilizing encryption methods. In technical terms, encryption is the procedure of transforming plain text data into an unreadable form that can only be decoded with the help of a unique cryptographic key.
 

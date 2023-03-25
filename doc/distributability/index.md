@@ -1,8 +1,8 @@
 # Distributability
 
-**Distributability: the quality/ability/extent of being distributable.**
+**The quality/ability/extent of being distributable.**
 
-<span data-chatgpt-prompt="explain distributability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain distributability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Distributability refers to the capability of a system or application to be distributed over multiple nodes or servers, enabling it to provide higher availability, scalability, and fault-tolerance.
 

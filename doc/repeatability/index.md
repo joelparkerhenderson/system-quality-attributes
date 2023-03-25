@@ -1,8 +1,8 @@
 # Repeatability
 
-**Repeatability: the quality/ability/extent of being repeatable.**
+**The quality/ability/extent of being repeatable.**
 
-<span data-chatgpt-prompt="explain repeatability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain repeatability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Repeatability is a system quality attribute, which refers to the ability of a system or process to produce consistent results every time it is executed or carried out. Essentially, repeatability ensures that the system delivers accurate and predictable results, with a relatively low margin of error, regardless of the inputs or conditions present.
 

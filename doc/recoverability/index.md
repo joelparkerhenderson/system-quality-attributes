@@ -1,8 +1,8 @@
 # Recoverability
 
-**Recoverability: the quality/ability/extent of being recoverable.**
+**The quality/ability/extent of being recoverable.**
 
-<span data-chatgpt-prompt="explain recoverability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain recoverability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Recoverability is a system quality attribute that refers to a system's ability to recover from failures and errors without losing the data or causing disruptions in other parts of the system. It is a non-functional requirement that ensures the system can recover from errors, failures, or crashes promptly, safely, and efficiently.
 

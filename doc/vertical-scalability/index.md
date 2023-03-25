@@ -1,9 +1,9 @@
 # Vertical scalability
 
-**Vertical scalability: the quality/ability/extent of being scalable within one provider, such as by adding processors, memory, or storage.**
+**The quality/ability/extent of being scalable within one provider, such as by adding processors, memory, or storage.**
 
 <span data-chatgpt-prompt="explain vertical scalability
- (system quality attribute, cross-functional constraint, non-functional requirement)">
+ (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Vertical scalability refers to the ability of a system to handle an increasing workload by adding more resources to a single node or machine, such as adding more CPUs or RAM to a server. It is a system quality attribute, as it defines the ability of the system to function properly under increased workload.
 

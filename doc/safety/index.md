@@ -1,8 +1,8 @@
 # Safety
 
-**Safety: the quality/ability/extent of being safe.**
+**The quality/ability/extent of being safe.**
 
-<span data-chatgpt-prompt="explain safety (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain safety (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Safety is a system quality attribute, which is an important non-functional requirement and a cross-functional constraint that focuses on ensuring that a system is free from harm or danger to users, operators, the environment, and other stakeholders.
 

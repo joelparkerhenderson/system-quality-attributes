@@ -1,8 +1,8 @@
 # Survivability
 
-**Survivability: the quality/ability/extent of being survivable.**
+**The quality/ability/extent of being survivable.**
 
-<span data-chatgpt-prompt="explain survivability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain survivability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Survivability is a system quality attribute that refers to the ability of a system to maintain its critical functionality in the face of various disturbances or threats. It is a non-functional requirement that defines the capacity of a system to operate continuously, effectively and efficiently in the presence of disruptive changes or disruptions.
 

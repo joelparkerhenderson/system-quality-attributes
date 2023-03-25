@@ -1,8 +1,8 @@
 # Interoperability
 
-**Interoperability: the quality/ability/extent of being interoperable.**
+**The quality/ability/extent of being interoperable.**
 
-<span data-chatgpt-prompt="explain interoperability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain interoperability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Interoperability refers to the ability of different systems or components to work together effectively, without imposing any restrictions or limitations on each other.
 

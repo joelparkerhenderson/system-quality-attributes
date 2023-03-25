@@ -1,8 +1,8 @@
 # Usability
 
-**Usability: the quality/ability/extent of being usable.**
+**The quality/ability/extent of being usable.**
 
-<span data-chatgpt-prompt="explain usability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain usability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Usability is a system quality attribute, which means that it is a characteristic or property of a system that determines its ability to meet user needs and expectations. Usability refers to how easy and intuitive it is for users to interact with a system and accomplish their tasks, without experiencing frustration or confusion.
 

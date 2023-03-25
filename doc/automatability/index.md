@@ -1,14 +1,14 @@
 # Automatability
 
-**Automatability: the quality/ability/extent of being automatable.**
+**The quality/ability/extent of being automatable.**
 
-<span data-chatgpt-prompt="explain automatability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain automatability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Automatability is a system quality attribute that refers to the ease with which a system can be automated or integrate with automation tools.
 
-Automatability is a non-functional requirement that involves creating software that can easily automate its processes, i.e., make it easy to integrate with scripts or other automated tools. Automatability is a critical attribute for modern software development and can save time and reduce the likelihood of errors or bugs.
+Automatability is a non-functional requirement that involves creating software that can easily automate its processes, i.e., make it easy to integrate with scripts or other automated tools. Automatability can save time, extend capabilties in new ways, and potentially reduce costs.
 
-Automatability is a cross-functional constraint that affects developers, testers, and system administrators who can automate their workflows with the help of automation tools. In summary, by considering automatability as an essential system quality attribute, software development teams can build more sustainable and efficient software systems that offer long-term benefits to both developers and end-users.
+Automatability is a cross-functional constraint that affects developers, testers, and system administrators who can automate their workflows with the help of automation tools. In addition, automatability is gaining in importance thanks to low-code/no-code tools, as well as natural language queries.
 
 </span>
 

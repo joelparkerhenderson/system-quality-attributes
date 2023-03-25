@@ -1,8 +1,8 @@
 # Scalability
 
-**Scalability: the quality/ability/extent of being scalable.**
+**The quality/ability/extent of being scalable.**
 
-<span data-chatgpt-prompt="explain scalability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain scalability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Scalability is a system quality attribute that refers to the ability of a system to handle growing amounts of workload or handle more users, resources, or data without sacrificing performance or crashing. Scalability is a non-functional requirement in software engineering that determines how well a system responds to increasing amounts of data, traffic, or requests.
 

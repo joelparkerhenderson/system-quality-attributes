@@ -1,8 +1,8 @@
 # Ubiquity
 
-**Ubiquity: the quality/ability/extent of being ubiquitous.**
+**The quality/ability/extent of being ubiquitous.**
 
-<span data-chatgpt-prompt="explain ubiquity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain ubiquity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Ubiquity is a system quality attribute that refers to the ability of a system to be available and accessible across different devices, platforms, and locations. It is important for modern systems that need to be accessible anytime and anywhere.
 

@@ -1,8 +1,8 @@
 # Evolvability
 
-**Evolvability: the quality/ability/extent of being evolvable.**
+**The quality/ability/extent of being evolvable.**
 
-<span data-chatgpt-prompt="explain evolvability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain evolvability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Evolvability is a system quality attribute that refers to the ability of a software system to adapt and evolve to meet changing business or technological needs. It is a non-functional requirement because it does not directly specify the system features or functionality, but rather its ability to adapt and change over time. It is also a cross-functional constraint because it affects multiple aspects of the system, such as its architecture, design, and development practices.
 

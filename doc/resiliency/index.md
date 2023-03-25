@@ -1,8 +1,8 @@
 # Resiliency
 
-**Resilience: the quality/ability/extent of being resilient.**
+**The quality/ability/extent of being resilient.**
 
-<span data-chatgpt-prompt="explain resilience (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain resilience (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Resilience is a system quality attribute that refers to the ability of a system to recover quickly and effectively from disruptions or failures.
 

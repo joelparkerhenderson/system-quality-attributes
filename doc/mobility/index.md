@@ -1,8 +1,8 @@
 # Mobility
 
-**Mobility: the quality/ability/extent of being mobile.**
+**The quality/ability/extent of being mobile.**
 
-<span data-chatgpt-prompt="explain mobility (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain mobility (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Mobility is a system quality attribute, non-functional requirement, and cross-functional constraint that refers to the ability of a system to operate or be used in different locations and by different users with different devices. It is a key feature of many modern software systems, including mobile apps, web applications, and cloud-based services.
 

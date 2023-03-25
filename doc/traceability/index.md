@@ -1,8 +1,8 @@
 # Traceability
 
-**Traceability: the quality/ability/extent of being traceable.**
+**The quality/ability/extent of being traceable.**
 
-<span data-chatgpt-prompt="explain traceability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain traceability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Traceability refers to the ability of a system to trace and track the changes made during its development lifecycle. It is an important system quality attribute as it ensures that the system is developed and maintained according to the specified requirements and design. Traceability also helps in identifying the impact of changes made to the system and reduces the risk of errors or inconsistencies.
 

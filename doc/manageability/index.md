@@ -1,8 +1,8 @@
 # Manageability
 
-**Manageability: the quality/ability/extent of being manageable.**
+**The quality/ability/extent of being manageable.**
 
-<span data-chatgpt-prompt="explain manageability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain manageability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Manageability is a system quality attribute that refers to the ease and efficiency of managing and administering a system. It is a non-functional requirement that defines the ability of a system to be monitored, configured, and maintained by system administrators or operators.
 

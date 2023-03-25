@@ -1,8 +1,8 @@
 # Portability
 
-**Portability: the quality/ability/extent of being portable.**
+**The quality/ability/extent of being portable.**
 
-<span data-chatgpt-prompt="explain portability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain portability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Portability is a system quality attribute, cross-functional constraint, and non-functional requirement, which refers to the ability of software or hardware to be easily transferred or adapted from one environment to another. It can also refer to the ease of moving code from one platform or operating system to another. In other words, it's the degree to which a system can be moved or made to work on different platforms or operating systems with minimal adjustments or modifications, without compromising its functionality or performance.
 

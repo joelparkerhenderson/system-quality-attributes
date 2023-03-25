@@ -1,8 +1,8 @@
 # Provability
 
-**Provability: the quality/ability/extent of being provable.**
+**The quality/ability/extent of being provable.**
 
-<span data-chatgpt-prompt="explain Provability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain Provability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Provability is a system quality attribute that refers to the ability of a system to provide evidence or proof that certain properties or behaviors hold or do not hold within the system. This attribute is closely related to other quality attributes such as correctness, reliability, and security.
 

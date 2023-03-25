@@ -1,8 +1,8 @@
 # Efficiency
 
-**Efficiency: the quality/ability/extent of being efficient.**
+**The quality/ability/extent of being efficient.**
 
-<span data-chatgpt-prompt="explain efficiency (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain efficiency (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Efficiency refers to the ability of a system to accomplish tasks with minimal waste of resources, such as time, memory, and energy.
 

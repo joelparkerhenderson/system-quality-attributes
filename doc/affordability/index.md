@@ -1,16 +1,16 @@
 # Affordability
 
-**Affordability: the quality/ability/extent of being afforable.**
+**The quality/ability/extent of being afforable.**
 
-<span data-chatgpt-prompt="explain affordability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain affordability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Affordability is a system quality attribute, which refers to the ability of a system or product to be economically feasible for its intended use or market. In other words, affordability is the measure of how easily accessible and reasonable the cost of a product or service is to its potential customers.
 
-From a software engineering perspective, affordability can be considered as a non-functional requirement, as it directly impacts the usability of the system. If a system is very expensive to build, maintain or operate, it may not be feasible for a large number of users or organizations, and hence become less desirable.
+Affordability can be considered as a non-functional requirement, as it directly impacts the usability of the system. If a system is very expensive to build, maintain or operate, it may not be feasible for a large number of users or organizations, and hence become less desirable.
 
-Affordability can also be viewed as a cross-functional constraint or requirement, as it affects multiple aspects of the development process, such as hardware and software design, testing, manufacturing, distribution, and marketing. It is essential that the development team considers affordability as a key factor during the entire development lifecycle to ensure that the final product or service is economically viable, useful, and accessible to end-users.
+Affordability can also be viewed as a cross-functional constraint, as it affects multiple aspects of the development process, such as design, testing, manufacturing, distribution, marketing, and sales. Affordability is also critically important for product teams that are doing market discovery, customer discovery, competitive research, and business analysis such as SWOT (Strengths, Weaknesses, Opportunities, Threats).
 
-In summary, Affordability is an important system quality attribute, non-functional requirement, and cross-functional constraint that should be carefully considered during the development process to ensure the system meets the needs and expectations of its intended users, while also remaining economically feasible.
+It is essential that the development team considers affordability as a key factor during the entire development lifecycle to ensure that the final product or service is economically viable, useful, and accessible to end-users.
 
 </span>
 

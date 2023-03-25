@@ -7,21 +7,22 @@ output="book.md"
 cp "$input" "$output"
 
 fold_file(){
-    printf \\n\\n >> "$output"
-    <"$1" \
-    sed '/^</d; s/<\/span>//;' | 
-    sed '/^## See Also$/d; /^* \[Wikipedia:/d; /^* \[Dictionary:/d;' |
-    sed 's/^\* .*define \(.*\) (computers and software)">/**Define \1**: /;' |
-    awk '!NF {if (++n <= 2) print; next}; {n=0;print}' >> "$output"
-    printf \\n\\n >> "$output"
+    {
+        printf \\n;
+        <"$1" \
+        sed -n '/^## See Also$/q;p' |
+        sed 's/^<span [^>]*>//g; s/<\/span>//g;' | 
+        awk '!NF {if (++n <= 2) print; next}; {n=0;print}';
+        printf \\n;
+    } >> "$output"
 }
 
 # Fold the introductory pages; use our manual order.
-for slug in system-quality-attributes cross-functional-constraints non-functional-requirements; do
+for slug in system-quality-attributes non-functional-requirements cross-functional-constraints cross-cutting-concerns; do
     fold_file "$TOP/doc/$slug/index.md"
 done
 
 # Fold the rest of the pages; use alphabetic order.
-for slug in $(find "$TOP/doc" -type d -depth 1 | sort | grep -v "/\(system-quality-attributes\|cross-functional-constraints\|non-functional-requirements\)$" ); do
+for slug in $(find "$TOP/doc" -type d -depth 1 | sort | grep -v "/\(system-quality-attributes\|non-functional-requirements\|cross-functional-constraints\|cross-cutting-concerns\)$" ); do
     fold_file "$slug/index.md"
 done

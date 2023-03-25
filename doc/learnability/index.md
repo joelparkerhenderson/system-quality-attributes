@@ -1,8 +1,8 @@
 # Learnability
 
-**Learnability: the quality/ability/extent of being learnable.**
+**The quality/ability/extent of being learnable.**
 
-<span data-chatgpt-prompt="explain learnability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain learnability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Learnability is a system quality attribute that measures the ease with which users can learn to use a system. It is a non-functional requirement that is related to the usability of a system. A system that is designed to be easy to learn should provide users with a clear and concise interface that is intuitive and easy to navigate.
 

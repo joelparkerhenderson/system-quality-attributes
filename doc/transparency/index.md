@@ -1,8 +1,8 @@
 # Transparency
 
-**Transparency: the quality/ability/extent of being transparent.**
+**The quality/ability/extent of being transparent.**
 
-<span data-chatgpt-prompt="explain transparency (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain transparency (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Transparency is a system quality attribute that refers to the ability of a system to provide visibility and clarity into its operations, internal workings, and decision-making processes. It is often used to promote trust and accountability in systems, particularly those that are used by multiple stakeholders or that involve significant amounts of data or decision-making.
 

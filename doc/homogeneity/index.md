@@ -1,8 +1,8 @@
 # Homogeneity
 
-**Homogeneity: the quality/ability/extent of being homogenous; contrast heterogeneity.**
+**The quality/ability/extent of being homogenous; contrast heterogeneity.**
 
-<span data-chatgpt-prompt="explain homogeneity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain homogeneity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Homogeneity is a system quality attribute that refers to the consistency and uniformity of the system components and behavior.
 

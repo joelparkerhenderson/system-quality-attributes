@@ -1,8 +1,8 @@
 # Reproducibility
 
-**Reproducibility: the quality/ability/extent of being reproducable.**
+**The quality/ability/extent of being reproducable.**
 
-<span data-chatgpt-prompt="explain reproducibility (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain reproducibility (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Reproducibility is a system quality attribute that refers to the ability of a system to produce consistent and accurate results when the same input is provided multiple times. It is a non-functional requirement that is essential for scientific research, particularly in fields that rely on experimental data analysis.
 

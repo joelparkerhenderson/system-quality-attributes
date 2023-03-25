@@ -1,8 +1,8 @@
 # Seamlessness
 
-**Seamlessness: the quality/ability/extent of being seamless.**
+**The quality/ability/extent of being seamless.**
 
-<span data-chatgpt-prompt="explain seamlessness (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain seamlessness (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Seamlessness is a system quality attribute that refers to the smooth and coherent functioning of a system, without any visible or noticeable interruptions or transitions. It is a non-functional requirement that ensures the system operates effectively and efficiently, with ease of use and minimal disruption to the user.
 

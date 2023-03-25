@@ -1,8 +1,8 @@
 # Heterogeneity
 
-**Heterogeneity: the quality/ability/extent of being heterogeneous; contrast homogeneity.**
+**The quality/ability/extent of being heterogeneous; contrast homogeneity.**
 
-<span data-chatgpt-prompt="explain heterogeneity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain heterogeneity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Heterogeneity is a system quality attribute, a non-functional requirement, and a cross-functional constraint that refers to the ability of a system to interact with different types of components, systems, or platforms.
 

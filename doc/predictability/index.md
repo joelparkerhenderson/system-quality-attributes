@@ -1,8 +1,8 @@
 # Predictability
 
-**Predictability: the quality/ability/extent of being predictable.**
+**The quality/ability/extent of being predictable.**
 
-<span data-chatgpt-prompt="explain Predictability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain Predictability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Predictability is a system quality attribute, which refers to the ability of a system to produce consistent and expected results under varying conditions. It is a non-functional requirement that specifies the system's behavior in response to different inputs and environmental factors.
 

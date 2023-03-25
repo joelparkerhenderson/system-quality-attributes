@@ -1,8 +1,8 @@
 # Determinability
 
-**Determinability: the quality/ability/extent of being determinable.**
+**The quality/ability/extent of being determinable.**
 
-<span data-chatgpt-prompt="explain determinability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain determinability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Determinability refers to the ability of a system or software application to identify, diagnose, and rectify any errors or problems that may arise during its operation. It is a system quality attribute that ensures the reliability and stability of the system. This non-functional requirement is a cross-functional constraint that impacts various aspects of software development, including design, implementation, testing, and maintenance.
 

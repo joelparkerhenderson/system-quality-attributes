@@ -1,8 +1,8 @@
 # Understandability
 
-**Understandability: the quality/ability/extent of being understandable.**
+**The quality/ability/extent of being understandable.**
 
-<span data-chatgpt-prompt="explain understandability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain understandability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Understandability is a system quality attribute and a non-functional requirement that defines the ease with which a user can comprehend and use a system. It is the measure of how easy it is for users to understand the system's functions and features.
 

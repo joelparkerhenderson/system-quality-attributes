@@ -1,8 +1,8 @@
 # Instrumentability
 
-**Instrumentability: the quality/ability/extent of being instrumentable.**
+**The quality/ability/extent of being instrumentable.**
 
-<span data-chatgpt-prompt="explain instrumentability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain instrumentability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Instrumentability is a system quality attribute that refers to the ease with which a system can be monitored and diagnosed for errors or malfunctions. It is a non-functional requirement that specifies how well a system can be managed, maintained, and troubleshooted by administrators and end-users. It is also a cross-functional constraint that affects several aspects of a system's design and implementation, including its architecture, interfaces, protocols, and data formats.
 

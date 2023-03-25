@@ -1,8 +1,8 @@
 # Precision
 
-**Precision: the quality/ability/extent of being precise. Compare accuracy.**
+**The quality/ability/extent of being precise. Compare accuracy.**
 
-<span data-chatgpt-prompt="explain precision (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain precision (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Precision is a system quality attribute that refers to the level of accuracy and exactness in data, calculations, and outcomes of a system. It is a non-functional requirement that specifies the level of accuracy needed to meet the user's requirements and expectations. Precision is also a cross-functional constraint, as it affects the performance of the system across various business functions, such as finance, engineering, and healthcare.
 

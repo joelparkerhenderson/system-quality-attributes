@@ -1,8 +1,8 @@
 # Serviceability
 
-**Serviceability: the quality/ability/extent of being servicable.**
+**The quality/ability/extent of being servicable.**
 
-<span data-chatgpt-prompt="explain serviceability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain serviceability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Serviceability is a system quality attribute that refers to the ease and speed with which a system can be repaired, maintained, and updated. It is a critical non-functional requirement that affects a system's availability, reliability, and performance.
 
@@ -10,12 +10,12 @@ Serviceability is often viewed as a cross-functional constraint because it affec
 
 Some examples of serviceability requirements include:
 
-- Ease of installation and configuration
-- Availability of documentation and support resources
-- Ability to diagnose and troubleshoot issues quickly and accurately
-- Flexibility to upgrade and scale the system without disrupting services
-- Compatibility with existing infrastructure and tools
-- Robustness to handle changes in the operating environment
+* Ease of installation and configuration
+* Availability of documentation and support resources
+* Ability to diagnose and troubleshoot issues quickly and accurately
+* Flexibility to upgrade and scale the system without disrupting services
+* Compatibility with existing infrastructure and tools
+* Robustness to handle changes in the operating environment
 
 In summary, serviceability is a critical system quality attribute that affects the usability, maintainability, and scalability of a system. Addressing serviceability requirements is essential for delivering a reliable and effective system that meets the needs of all stakeholders.
 

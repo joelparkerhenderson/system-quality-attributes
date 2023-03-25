@@ -1,8 +1,8 @@
 # Consistency
 
-**Consistency: the quality/ability/extent of being consistent.**
+**The quality/ability/extent of being consistent.**
 
-<span data-chatgpt-prompt="explain consistency (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain consistency (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Consistency is a system quality attribute that denotes a requirement for a system to provide reliable and uniform behavior across different contexts and time periods.  It refers to the degree of similarity between system components, interfaces, interactions, and functionalities, which can make the system more usable, predictable, and maintainable.
 

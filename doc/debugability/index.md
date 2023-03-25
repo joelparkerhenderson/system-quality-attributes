@@ -1,8 +1,8 @@
 # Debugability
 
-**Debugability: the quality/ability/extent of being debuggable.**
+**The quality/ability/extent of being debuggable.**
 
-<span data-chatgpt-prompt="explain debugability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain debugability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Debugability is a system quality attribute, which is also considered a non-functional requirement and cross-functional constraint. It refers to the ease of finding and fixing bugs or errors in a software system. Debugability enables developers to identify and correct errors quickly and efficiently, which can save time and reduce costs in the long run.
 

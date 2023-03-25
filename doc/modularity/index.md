@@ -1,8 +1,8 @@
 # Modularity
 
-**Modularity: the quality/ability/extent of being modular.**
+**The quality/ability/extent of being modular.**
 
-<span data-chatgpt-prompt="explain modularity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain modularity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Modularity is a system quality attribute that refers to the degree to which a system is composed of separate, independent components or modules that can be easily interconnected, modified, and replaced without affecting the rest of the system. Modularity allows for flexibility and ease of maintenance, as well as scalability and interoperability with other systems.
 

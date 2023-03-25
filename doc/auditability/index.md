@@ -1,20 +1,18 @@
 # Auditability
 
-**Auditability: the quality/ability/extent of being auditable.**
+**The quality/ability/extent of being auditable.**
 
-<span data-chatgpt-prompt="explain auditability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain auditability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
-Auditability is a system quality attribute that refers to the ability of a system to provide reliable and accurate data for auditing purposes. It is a non-functional requirement that is important in many industries, such as finance, healthcare, and government, where strict regulations often require auditing of system activities and transactions.
+Auditability is a system quality attribute that refers to the ability of a system to provide reliable and accurate data for auditing purposes. Auditability is important in many industries, such as finance, healthcare, and government,  where strict regulations often require auditing of system activities and transactions. Auditability can also help organizations to identify issues and improve processes.
 
-To achieve auditability, a system must be designed with clear and transparent processes that can be easily tracked and recorded. It must store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time. This includes data such as user activity, system changes, access logs, and transaction records.
-
-Auditability is also a cross-functional constraint, requiring collaboration between various departments such as development, operations, and security. The system must be designed with security in mind to ensure that data is not compromised or lost, and compliance regulations are met. It must also be easy to audit, with clear documentation and reporting that can be easily reviewed by auditors or other stakeholders.
-
-Ultimately, auditability is necessary for ensuring transparency, accountability, and compliance within the system. By providing reliable and accurate data, it helps organizations to identify issues and improve processes, as well as to demonstrate conformance with applicable regulations and industry standards.
+Auditability is a non-functional requirement that is typically also a cross-cutting concern, because a system must be designed with clear and transparent processes that can be easily tracked and recorded, across all functions and modules. The system should store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time; this includes data such as user activity, access logs, transaction records, and system changes. Audit logs can be stored and analyzed to detect security breaches, fraud, data breaches or any other potential risks to the system or organization. 
+ 
+Auditability is a cross-functional constraint, requiring collaboration between various departments such as development, operations, cybersecurity, physical security, legal, compliance, and risk managment. The system must be designed with security in mind to ensure that data is not compromised or lost, and compliance regulations are met. It must also be easy to audit, with clear documentation and reporting that can be easily reviewed by auditors or other stakeholders.
 
 </span>
 
-**Define auditability:** <span data-chatgpt-prompt="define auditability (computers and software)">Auditable refers to the capability of tracking and recording events or changes in a computer system or software application that can be audited or reviewed later for compliance, security, or regulatory purposes. An auditable system or software keeps a detailed log of all activities, such as login attempts, file access, data modifications, system alerts, and other events that can help identify any irregular or suspicious behavior. The audit logs can be stored and analyzed to detect security breaches, fraud, data breaches or any other potential risks to the system or organization. Auditing is an important aspect of cybersecurity, compliance, and risk management.</span>
+**Define auditable:** <span data-chatgpt-prompt="define auditable (computers and software)">Auditable refers to the capability of tracking events or changes in a system, so the tracking can be reviewed later for compliance, security, or regulatory purposes.</span>
 
 ## See Also
 

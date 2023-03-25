@@ -1,8 +1,8 @@
 # Simplicity
 
-**Simplicity: the quality/ability/extent of being simple.**
+**The quality/ability/extent of being simple.**
 
-<span data-chatgpt-prompt="explain simplicity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain simplicity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Simplicity is a system quality attribute, cross-functional constraint, and non-functional requirement that refers to the ease of understanding and using a system. It is the degree to which a system is easy to use, learn, and maintain. The simplicity of a system can be measured by the amount of effort required to accomplish tasks or the number of steps required to complete a task.
 

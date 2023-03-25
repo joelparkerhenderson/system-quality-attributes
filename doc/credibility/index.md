@@ -1,8 +1,8 @@
 # Credibility
 
-**Credibility: the quality/ability/extent of being credible.**
+**The quality/ability/extent of being credible.**
 
-<span data-chatgpt-prompt="explain credibility (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain credibility (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Credibility is a system quality attribute, a non-functional requirement, and a cross-functional constraint in software development. It refers to the degree to which users, stakeholders, and customers can trust the system or its information. It is a measure of the system's perceived reliability, accuracy, and consistency.
 

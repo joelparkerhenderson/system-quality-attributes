@@ -1,8 +1,8 @@
 # Customizability
 
-**Customizability: the quality/ability/extent of being customizable.**
+**The quality/ability/extent of being customizable.**
 
-<span data-chatgpt-prompt="explain customizability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain customizability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Customizability is a system quality attribute that refers to the ability of a system to be easily modified or adapted to different user needs and preferences.
 

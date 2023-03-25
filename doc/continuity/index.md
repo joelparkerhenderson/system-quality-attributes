@@ -1,10 +1,12 @@
 # Continuity
 
-**Continuity: the quality/ability/extent of being continuous.**
+**The quality/ability/extent of being continuous.**
 
-<span data-chatgpt-prompt="explain continuity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain continuity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
-Continuity refers to the system quality attribute that describes the ability of the system to keep functioning under normal and abnormal conditions, without any noticeable impact on the performance and availability of the system. It is also a non-functional requirement that specifies the expected level of reliability, availability, and maintainability of the system. The continuity of a system is a cross-functional constraint that affects various aspects of the system, including design, development, testing, deployment, and operation.
+Continuity refers to the system quality attribute that describes the ability of the system to keep functioning under normal and abnormal conditions, without any noticeable impact on the performance and availability of the system.
+
+Continuity is a non-functional requirement that specifies the expected level of reliability, availability, and maintainability of the system. The continuity of a system is a cross-cutting concern that affects various aspects of the system, including design, development, testing, deployment, and operation.
 
 The continuity of a system encompasses the ability to recover from failures, handle unexpected events, and maintain its functionality and performance in the face of disruptions. It requires that the system design and architecture incorporate redundancy, fault tolerance, and resilience mechanisms that can handle various types of failures and errors. The system should also be capable of monitoring and detecting faults, and initiating appropriate corrective actions.
 

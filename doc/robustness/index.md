@@ -1,8 +1,8 @@
 # Robustness
 
-**Robustness: the quality/ability/extent of being robust.**
+**The quality/ability/extent of being robust.**
 
-<span data-chatgpt-prompt="explain robustness (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain robustness (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Robustness is a system quality attribute that describes the ability of a system to function reliably and efficiently under varying conditions, especially in the face of unforeseen or exceptional events. It is a non-functional requirement that outlines the system's ability to resist and recover from failure, as well as its ability to handle errors and exceptions.
 

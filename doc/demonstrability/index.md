@@ -1,8 +1,8 @@
 # Demonstrability
 
-**Demonstrability: the quality/ability/extent of being demonstrable.**
+**The quality/ability/extent of being demonstrable.**
 
-<span data-chatgpt-prompt="explain demonstrability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain demonstrability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Demonstrability is a system quality attribute that represents the ability of a system to demonstrate its functionality and capabilities to its users. It is a non-functional requirement that specifies how well the system can provide evidence or proof of its correct functioning, as well as its ability to trace and reproduce errors and failures.
 

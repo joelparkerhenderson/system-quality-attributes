@@ -1,8 +1,8 @@
 # Schedulability
 
-**Schedulability: the quality/ability/extent of being scheduleable.**
+**The quality/ability/extent of being scheduleable.**
 
-<span data-chatgpt-prompt="explain schedulability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain schedulability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Schedulability is a system quality attribute, a non-functional requirement, and a cross-functional constraint. It refers to the ability of a system to complete tasks within their specified time constraints. A system that is schedulable can effectively manage its resources, prioritize tasks, and execute them in a timely and efficient manner.
 

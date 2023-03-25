@@ -1,8 +1,8 @@
 # Modifiability
 
-**Modifiability: the quality/ability/extent of being modifiable.**
+**The quality/ability/extent of being modifiable.**
 
-<span data-chatgpt-prompt="explain modifiability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain modifiability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Modifiability is a system quality attribute that refers to the ease with which a software system can be modified or adapted to meet changing user needs or requirements.
 

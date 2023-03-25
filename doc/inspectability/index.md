@@ -1,8 +1,8 @@
 # Inspectability
 
-**Inspectability: the quality/ability/extent of being inspectible.**
+**The quality/ability/extent of being inspectible.**
 
-<span data-chatgpt-prompt="explain inspectability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain inspectability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Inspectability is a system quality attribute that refers to the ability of a system to be analyzed and evaluated for its faults, defects, and errors on multiple levels by different stakeholders including developers, testers, and end-users. It involves the ability to review and modify the software code and architecture design, as well as the ability to trace and debug errors and performance issues in the system.
 

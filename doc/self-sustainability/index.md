@@ -1,8 +1,8 @@
 # Self-sustainability
 
-**Self-sustainability: the quality/ability/extent of being self-sustainable. Compare anti-fragility.**
+**The quality/ability/extent of being self-sustainable. Compare antifragility.**
 
-<span data-chatgpt-prompt="explain self-sustainability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain self-sustainability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Self-sustainability refers to the ability of a system to maintain its intended functionality without external intervention or support.
 

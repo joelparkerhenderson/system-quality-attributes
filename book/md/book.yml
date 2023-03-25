@@ -1,9 +1,9 @@
 ---
-title: "System Quality Attributes, Cross-Functional Contraints, Non-Functional Requirements"
-author: "Created by Joel Parker Henderson • Completions by OpenAI ChatGPT"
+title: "System Quality Attributes, Non-Functional Requirements, Cross-Functional Constraints"
+author: "By Joel Parker Henderson & ChatGPT"
 date: "2023-03-24"
-subtitle: "100+ Concepts To Help You Create The Right Things The Right Ways"
-geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
+subtitle: "100+ Concepts For Successful Software"
+#geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"

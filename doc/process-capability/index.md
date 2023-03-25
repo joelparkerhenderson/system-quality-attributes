@@ -1,8 +1,8 @@
 # Process capability
 
-**Process capability: the quality/ability/extent of being process capable.**
+**The quality/ability/extent of being process capable.**
 
-<span data-chatgpt-prompt="explain Process capability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain Process capability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Process capability refers to the ability of a system or process to consistently produce products or services that meet predetermined specifications and quality standards. It is a system quality attribute, meaning that it reflects the overall effectiveness and efficiency of the system as a whole.
 

@@ -1,8 +1,8 @@
 # Effectiveness
 
-**Effectiveness: the quality/ability/extent of being effective.**
+**The quality/ability/extent of being effective.**
 
-<span data-chatgpt-prompt="explain effectiveness (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain effectiveness (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Effectiveness is a system quality attribute or non-functional requirement that is described as the capability of a system to perform tasks efficiently and accurately, achieving the intended goals or objectives.
 

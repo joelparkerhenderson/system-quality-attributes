@@ -1,8 +1,8 @@
 # Responsiveness
 
-**Responsiveness: the quality/ability/extent of being responsive.**
+**The quality/ability/extent of being responsive.**
 
-<span data-chatgpt-prompt="explain responsiveness (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain responsiveness (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Responsiveness is a system quality attribute that refers to how quickly and reliably a system can respond to user requests, events, or changes in the system's environment. It is a non-functional requirement that defines the timeliness and efficiency of a system's responses to various inputs and stimuli.
 

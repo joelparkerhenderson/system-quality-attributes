@@ -1,20 +1,18 @@
 # Agility
 
-**Agility: the quality/ability/extent of being agile.**
+**The quality/ability/extent of being agile.**
 
-<span data-chatgpt-prompt="explain agility (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain agility (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Agility is a system quality attribute that refers to the ability of a system to adapt to changing requirements and environments quickly and efficiently.
 
-Agility is a non-functional requirement because it does not describe the specific functionalities of a system, but rather how well it can operate under certain circumstances.
+Agility is a non-functional requirement because it does not describe the specific functionalities of a system, but rather how well it can operate under certain circumstances. To achieve agility, a system should be designed with modularity, flexibility, scalability, and robustness in mind. Additionally, an agile system requires a strong testing and validation process to ensure that changes can be made while maintaining system integrity and functional requirements. An agile system can easily change and evolve over time to meet new demands, make modifications or enhancements, and respond to unforeseen events.
 
-Finally, agility can also be considered a cross-functional constraint because it affects multiple aspects of a system, including its design, architecture, and implementation. An agile system can easily change and evolve over time to meet new demands, make modifications or enhancements, and respond to unforeseen events.
-
-To achieve agility, a system should be designed with modularity, flexibility, scalability, and robustness in mind. Additionally, an agile system requires a strong testing and validation process to ensure that changes can be made while maintaining system integrity and functional requirements.
+Agility can also be considered a cross-functional constraint because it affects multiple stakeholders of a system, including its developers, project managers, product leaders, and accountable executives. Notably, Agile is a software development methodology, and an approach to project management, that emphasizes cross-functional collaboration, flexibility, continuous improvement, and customer satisfaction.
 
 </span>
 
-**Define agile:** <span data-chatgpt-prompt="define agile (computers and software)">Agile is a methodology or approach to project management that emphasizes flexibility, continuous improvement, collaboration, and customer satisfaction. It relies on iterative and incremental development, quick responses to changes and feedback, and effective communication among team members. Agile principles prioritize delivering value to the customer and achieving business goals through adaptive planning, regular inspection, and adaptation of the project scope, design, and requirements. Agile methods are widely used in software development, but they are also applicable to other industries and domains seeking to increase efficiency, innovation, and quality in their products and services.</span>
+**Define agile:** <span data-chatgpt-prompt="define agile (computers and software)">Agile an approach to project management. It relies on iterative and incremental development, quick responses to changes and feedback, and effective communication among team members. Agile principles prioritize delivering value to the customer and achieving business goals through adaptive planning, regular inspection, and adaptation of the project scope, design, and requirements. Agile methods are widely used in software development, and they are also applicable to other industries and domains seeking to increase efficiency, innovation, and quality in their products and services.</span>
 
 ## See Also
 

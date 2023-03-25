@@ -1,8 +1,8 @@
 # Tailorability
 
-**Tailorability: the quality/ability/extent of being tailorable.**
+**The quality/ability/extent of being tailorable.**
 
-<span data-chatgpt-prompt="explain tailorability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain tailorability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Tailorability is a system quality attribute that represents the degree to which a system can be configured or customized to meet the specific needs of its users or stakeholders. It is a non-functional requirement that allows users to mold the system to fit their unique requirements or preferences.
 

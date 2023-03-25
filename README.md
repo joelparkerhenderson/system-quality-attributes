@@ -21,7 +21,7 @@ System quality attributes explained:
 * [Administrability](doc/administrability)
 * [Affordability](doc/affordability)
 * [Agility](doc/agility)
-* [Anti-fragility](doc/anti-fragility)
+* [Antifragility](doc/antifragility)
 * [Atomicity](doc/atomicity)
 * [Auditability](doc/auditability)
 * [Automatability](doc/automatability)

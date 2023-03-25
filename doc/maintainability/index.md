@@ -1,8 +1,8 @@
 # Maintainability
 
-**Maintainability: the quality/ability/extent of being maintainable.**
+**The quality/ability/extent of being maintainable.**
 
-<span data-chatgpt-prompt="explain maintainability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain maintainability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Maintainability is a system quality attribute that refers to the ease with which a software application can be modified, updated, and extended by developers, without requiring excessive effort, time, and costs. It is a non-functional requirement that defines the ability of a system to be easily maintained, repaired, or upgraded without compromising its performance, functionality, or reliability.
 

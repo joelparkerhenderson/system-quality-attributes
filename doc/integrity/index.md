@@ -1,8 +1,8 @@
 # Integrity
 
-**Integrity: the quality/ability/extent of having integrity. <!-- TODO -->**
+**The quality/ability/extent of having integrity. <!-- TODO -->**
 
-<span data-chatgpt-prompt="explain integrity (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain integrity (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Integrity is a system quality attribute, a non-functional requirement, and a cross-functional constraint that refers to the accuracy, consistency, and reliability of data or information in a system. It ensures that the data in the system is complete, accurate, and secure throughout its lifecycle. This is achieved through measures such as data encryption, access controls, and data validation.
 

@@ -1,8 +1,8 @@
 # Fault-tolerance
 
-**Fault-tolerance: the quality/ability/extent of being fault-tolerant.**
+**The quality/ability/extent of being fault-tolerant.**
 
-<span data-chatgpt-prompt="explain fault-tolerance (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain fault-tolerance (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Fault-tolerance is a system quality attribute that denotes a system's ability to continue functioning in the event of a failure or fault in one or more components.
 

@@ -1,8 +1,8 @@
 # Separability
 
-**Separability: the quality/ability/extent of being separable.**
+**The quality/ability/extent of being separable.**
 
-<span data-chatgpt-prompt="explain separability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain separability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Separability is a system quality attribute that refers to the ability of a system to be divided into modules or components that can be developed, tested, maintained, and replaced independently.
 

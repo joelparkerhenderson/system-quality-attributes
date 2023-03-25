@@ -1,8 +1,8 @@
 # Timeliness
 
-**Timeliness: the quality/ability/extent of being timely.**
+**The quality/ability/extent of being timely.**
 
-<span data-chatgpt-prompt="explain timeliness (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain timeliness (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Timeliness is a system quality attribute that refers to the ability of a system to deliver results or respond to requests within the specified time frame. It is a non-functional requirement that is essential for many systems, particularly those that involve real-time processing or mission-critical applications.
 

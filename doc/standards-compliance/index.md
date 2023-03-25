@@ -1,8 +1,8 @@
 # Standards compliance
 
-**Standards compliance: the quality/ability/extent of being standards compliant.**
+**The quality/ability/extent of being standards compliant.**
 
-<span data-chatgpt-prompt="explain standards compliance (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain standards compliance (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Standards compliance refers to the extent to which a system adheres to established guidelines, regulations, or frameworks that dictate how software should be designed, developed, and deployed. This is important because it ensures that the system meets certain levels of quality, interoperability, security, and reliability, among other characteristics that are critical to successful system performance.
 

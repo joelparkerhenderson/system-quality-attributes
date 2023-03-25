@@ -1,8 +1,8 @@
 # Availability
 
-**Availability: the quality/ability/extent of being available.**
+**The quality/ability/extent of being available.**
 
-<span data-chatgpt-prompt="explain availability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain availability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Availability is a system quality attribute that refers to the ability of a system or application to be accessible and operational for use by authorized users. It indicates the percentage of time that a system or application remains available and responsive to user requests.
 
@@ -19,5 +19,8 @@ To maintain high availability, systems need to be designed with redundancy, faul
 ## See Also
 
 * [Wikipedia: Availability](https://wikipedia.org/wiki/Availability): The proportion of time a system is in a functioning condition.
+
+* [Dictionary: available](https://www.dictionary.com/browse/available): suitable or ready for use; of use or service; at hand. readily obtainable.
+n a functioning condition.
 
 * [Dictionary: available](https://www.dictionary.com/browse/available): suitable or ready for use; of use or service; at hand. readily obtainable.

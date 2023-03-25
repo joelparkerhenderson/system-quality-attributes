@@ -1,8 +1,8 @@
 # Discoverability
 
-**Discoverability: the quality/ability/extent of being discoverable.**
+**The quality/ability/extent of being discoverable.**
 
-<span data-chatgpt-prompt="explain discoverability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain discoverability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Discoverability is a system quality attribute that refers to the ease with which users can find and access functionality within a system, particularly for new users who may be unfamiliar with the interface or functionality. It is a non-functional requirement that is critical to the usability of a system and can significantly impact user satisfaction and overall system performance.
 

@@ -1,8 +1,8 @@
 # Tryability
 
-**Tryability: the quality/ability/extent of being tryable.**
+**The quality/ability/extent of being tryable.**
 
-<span data-chatgpt-prompt="explain tryability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain tryability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Tryability is a system quality attribute that refers to the ease and convenience of testing and evaluating a system or software product. It is related to non-functional requirements but also has cross-functional constraints as it involves different aspects of the product development lifecycle such as design, development, testing, and maintenance.
 

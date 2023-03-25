@@ -1,8 +1,8 @@
 # Reliability
 
-**Reliability: the quality/ability/extent of being reliable.**
+**The quality/ability/extent of being reliable.**
 
-<span data-chatgpt-prompt="explain reliability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain reliability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Reliability in software engineering refers to the ability of a system or component to function consistently and accurately. It is a system quality attribute, non-functional requirement, and cross-functional constraint because it affects various aspects of the system, including performance, availability, safety, maintainability, usability, and customer satisfaction.
 

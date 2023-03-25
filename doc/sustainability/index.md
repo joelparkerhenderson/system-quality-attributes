@@ -1,8 +1,8 @@
 # Sustainability
 
-**Sustainability: the quality/ability/extent of being sustainable.**
+**The quality/ability/extent of being sustainable.**
 
-<span data-chatgpt-prompt="explain sustainability (system quality attribute, cross-functional constraint, non-functional requirement)">
+<span data-chatgpt-prompt="explain sustainability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
 Sustainability is a system quality attribute that refers to a system's ability to maintain its performance and functionality over time, while also minimizing its impact on the environment and society.
 
