@@ -10,7 +10,6 @@ Instrumentability is important for systems that are critical to business operati
 
 From a design perspective, instrumentability requires that a system is designed with sufficient visibility, controllability, and testability. This may involve integrating instrumentation hooks, diagnostic probes, and logging mechanisms into the system's architecture, as well as providing configurable settings, administrative interfaces, and debugging tools. Instrumentation also requires that the system's performance and behavior are well-defined and predictable, so that meaningful metrics can be collected and analyzed over time.
 
-In summary, instrumentability is a system quality attribute that ensures that a system can be easily monitored, diagnosed, and maintained. It is essential for systems that need to meet certain standards, regulatory requirements or business objectives. It is a non-functional requirement that must be considered during system design and implementation, and it imposes cross-functional constraints on the system's architecture, interfaces, protocols, and data formats.
 
 </span>
 

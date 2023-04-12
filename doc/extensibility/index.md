@@ -8,7 +8,6 @@ Extensibility is a system quality attribute that represents the system's capacit
 
 Extensibility is a cross-functional constraint as it impacts various stakeholders involved in the system's development, such as developers, testers, end-users, business analysts, and system administrators. It influences the system's overall architecture, design, and implementation, and affects the system's maintainability, scalability, and adaptability.
 
-In summary, extensibility is an essential system quality attribute that enables a system to incorporate new features and requirements without disrupting existing functionality. It is a non-functional requirement that has cross-functional implications and plays a critical role in the success of a syste.
 
 </span>
 

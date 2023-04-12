@@ -10,7 +10,6 @@ Portability is a crucial attribute in modern software development, especially in
 
 From a cross-functional perspective, portability is important as it allows different stakeholders to access and use the software or hardware regardless of the platform they are using. It takes into account the different user needs, preferences, and capabilities, and ensures that the system can be easily transferred across different environments without loss of quality or functionality. This makes it possible for organizations to reach a wider range of users and reduce their reliance on specific technologies or platforms.
 
-In summary, portability is a critical system quality attribute, cross-functional constraint, and non-functional requirement that ensures the ease of transferring software or hardware across different environments, platforms, and operating systems. It plays a significant role in enabling the deployment of software systems across multiple environments, improving their scalability and maintainability, and making them accessible to a wider audience.
 
 </span>
 

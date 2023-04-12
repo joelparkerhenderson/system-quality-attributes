@@ -10,7 +10,6 @@ Demonstrability is also considered as a cross-functional constraint as it influe
 
 A system with high demonstrability enables users to interact and verify the system’s behaviors, inputs, and outputs. It involves providing necessary evidence, documentation, and tools to enable users to understand the system’s purpose, operation, and performance.
 
-Overall, demonstrating the system’s functionality and capabilities is essential for ensuring user confidence and trust in the system, and therefore demonstrating this ability is crucial to the success of a system.
 
 </span>
 

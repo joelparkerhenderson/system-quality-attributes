@@ -8,7 +8,6 @@ Learnability is a system quality attribute that measures the ease with which use
 
 Learnability is also a cross-functional constraint because it affects the way users interact with a system across different domains. For example, if a user is familiar with one software application, they will expect similar interaction patterns and design principles in another software application. If a system is difficult to learn, it can negatively impact user adoption and satisfaction, as well as productivity and efficiency.
 
-In summary, learnability is an important system quality attribute that ensures that users can quickly and easily use a system without extensive training or support. It is a non-functional requirement that should be considered during the design and development of a system, and it is a cross-functional constraint that extends to all areas of the system.
 
 </span>
 

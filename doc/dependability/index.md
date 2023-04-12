@@ -10,7 +10,6 @@ As a non-functional requirement, Dependability sets the expectation for the syst
 
 Dependability is also a cross-functional constraint that affects various aspects of the system development lifecycle. It requires comprehensive design, testing, and validation of the system to ensure its reliability, availability, and safety. It may also impact the choice of technologies, standards, and techniques used in system development, testing, and maintenance.
 
-Overall, Dependability is a critical system quality attribute that ensures the system's consistent and reliable operation, enhances its trustworthiness and usability, and promotes customer satisfaction.
 
 </span>
 

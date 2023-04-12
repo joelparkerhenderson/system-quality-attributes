@@ -10,7 +10,6 @@ Horizontal scalability is a non-functional requirement that focuses on performan
 
 Horizontal scalability is also a cross-functional constraint, as it impacts many aspects of a system, including architecture, design, development, deployment, testing, and monitoring. It requires a distributed architecture that can scale horizontally with more instances, load balancing to distribute traffic among instances, data partitioning to manage large datasets across instances, and fault tolerance to deal with instances failures.
 
-In summary, horizontal scalability is a vital quality attribute that ensures a system can handle increasing volumes of traffic and data without losing performance. It is a non-functional requirement that impacts many aspects of a system and is a critical cross-functional constraint for modern web and mobile applications.
 
 </span>
 

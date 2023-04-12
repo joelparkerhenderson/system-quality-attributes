@@ -45,7 +45,21 @@ System quality attributes (SQAs) refer to a set of characteristics that define t
 
 * Maintainability: The software's ability to be modified or updated easily to meet changing requirements. It includes attributes like scalability, modularity, and extensibility.
 
-Overall, the system quality attributes play a critical role in ensuring that computer software systems are effective, reliable, and secure, and meet the needs of their users.
+
+
+# Cross-functional constraints (CFCs)
+
+Cross-functional constraints (CFCs) refer to limitations or restrictions imposed on software development projects that arise due to the interaction between different functional areas of a business or organization. These areas may include technical areas such as design, development, testing, and operations, as well as non-technical areas such as marketing, finance, and project management.
+
+For example, a cross-functional constraint could be a delay in the project caused by a bottleneck in the testing phase because the design team did not provide the necessary documentation to the testing team to carry out their testing activities. Another constraint could be a budgetary constraint that limits the amount of resources available to the development team, which in turn affects the quality of the final product.
+
+While cross-functional constraints, system quality attributes, and non-functional requirements are all related, they focus on different aspects of a system's design and implementation:
+
+* Cross-functional constraints highlight the need for coordination and collaboration between different functions within an organization to ensure that decisions are made in a holistic and integrated manner. 
+
+* System quality attributes and non-functional requirements, on the other hand, help to ensure that the system performs efficiently and effectively based on the organization's needs and requirements.
+
+In general, cross-functional constraints can arise from a variety of factors, including communication gaps, conflicting priorities, competing goals, and organizational silos. To manage these constraints effectively, teams must have a clear understanding of the interdependencies among areas, and must collaborate to identify and address potential issues. Effective communication, stakeholder management, and strategic planning are critical to managing cross-functional constraints and delivering successful projects.
 
 
 # Non-functional requirements (NFRs)
@@ -67,21 +81,6 @@ Examples:
 * Maintainability: The system should be easily accessible for maintenance, and also maintenance costs should be low.
 
 Non-functional requirements are critical to ensure the success of the system. By including non-functional requirements in the software development process, businesses can ensure that their software meets the expectations of stakeholders and end-users.
-
-
-# Cross-functional constraints (CFCs)
-
-Cross-functional constraints (CFCs) refer to limitations or restrictions imposed on software development projects that arise due to the interaction between different functional areas of a business or organization. These areas may include technical areas such as design, development, testing, and operations, as well as non-technical areas such as marketing, finance, and project management.
-
-For example, a cross-functional constraint could be a delay in the project caused by a bottleneck in the testing phase because the design team did not provide the necessary documentation to the testing team to carry out their testing activities. Another constraint could be a budgetary constraint that limits the amount of resources available to the development team, which in turn affects the quality of the final product.
-
-While cross-functional constraints, system quality attributes, and non-functional requirements are all related, they focus on different aspects of a system's design and implementation:
-
-* Cross-functional constraints highlight the need for coordination and collaboration between different functions within an organization to ensure that decisions are made in a holistic and integrated manner. 
-
-* System quality attributes and non-functional requirements, on the other hand, help to ensure that the system performs efficiently and effectively based on the organization's needs and requirements.
-
-In general, cross-functional constraints can arise from a variety of factors, including communication gaps, conflicting priorities, competing goals, and organizational silos. To manage these constraints effectively, teams must have a clear understanding of the interdependencies among areas, and must collaborate to identify and address potential issues. Effective communication, stakeholder management, and strategic planning are critical to managing cross-functional constraints and delivering successful projects.
 
 
 # Cross-cutting concerns (CCCs)
@@ -123,7 +122,7 @@ As a system quality attribute, accessibility refers to the degree to which a sys
 
 As a non-functional requirement, accessibility is an essential consideration when designing and developing systems and applications that are accessible to people with disabilities. It requires a considered and strategic approach to support the different forms of accessibility.
 
-As a cross-functional constraint, accessibility affects all aspects of the system, from design to implementation and testing. It requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines.
+As a cross-functional constraint, accessibility affects all aspects of the system, from design to implementation and testing. It requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines, and complies with company policies and governmental laws.
 
 
 **Define accessible:** <span data-chatgpt-prompt="define accessible (computers and software)">Accessible in the context of computers and software refers to ensuring that individuals with disabilities can utilize technology in the same manner as their non-disabled counterparts. This includes making digital information and technology easily accessible to people with visual, auditory, physical, or cognitive disabilities, such as by incorporating assistive technology and features into hardware and software design.
@@ -169,24 +168,24 @@ Accuracy is a cross-functional constraint, ensuring accuracy in a system require
 **The quality/ability/extent of being ACID.**
 
 
-ACID is an acronym for Atomicity, Consistency, Isolation, and Durability. It is a set of properties that guarantees reliable processing of database transactions.
+ACID is an acronym for Atomicity, Consistency, Isolation, and Durability. These properties guarantees reliable processing of data transactions.
 
-* Atomicity: the property of a transaction that ensures that either all changes made during the transaction are committed or none at all. If a transaction fails for any reason, all the changes made within it are rolled back, returning the system to its original state.
+Atomicity: the property of a transaction that ensures that either all changes made during the transaction are committed or none at all. If a transaction fails for any reason, all the changes made within it are rolled back, returning the system to its original state.
 
-* Consistency: the fact that the system's data state will remain valid before and after a transaction. This means that the rules and constraints defined in the database must be followed consistently.
+Consistency: the fact that the system's data state will remain valid before and after a transaction. This means that the rules and constraints defined in the database must be followed consistently.
 
-* Isolation: the property that ensures that a transaction runs independently of other transactions. This is important to prevent interference from other transactions and errors that could result from concurrent access to data.
+Isolation: the property that ensures that a transaction runs independently of other transactions. This is important to prevent interference from other transactions and errors that could result from concurrent access to data.
 
-* Durability: the property that guarantees that once a transaction has been committed, it is permanently saved even in the case of system failures or crashes. 
+Durability: the property that guarantees that once a transaction has been committed, it is permanently saved even in the case of system failures or crashes. 
 
-ACID is a system quality attribute, which is a property or characteristic of a system that describes its overall quality. 
+ACIDity is a system quality attribute, which is a property or characteristic of a system that describes its overall quality, especially with regard to databases and transactions.
 
-Atomicity, consistency, isolation, and durability are also considered non-functional requirements, as they describe how the system should behave rather than what it should do.  For some high scalability systems, ACID is difficult to achieve practically or cost-effectively, and may be superseded by eventual consistency.
+ACIDity a non-functional requirement, as it describes how the system should behave overall.  For some high scalability systems, ACID is difficult to achieve practically or cost-effectively, and may be superseded by eventual consistency.
 
-Atomicity, consistency, isolation, and durability are typically not important cross-functional constraints, because in practice, a vast majority of organization teams favor ACID. 
+ACIDity is typically not an important cross-functional constraint, because in practice many organizations are in favor of  ACID and using it regularly.
 
 
-**Define ACID:** <span data-chatgpt-prompt="define ACID (computers and software)">ACID refers to a set of properties that guarantee that database transactions are processed reliably. ACID stands for Atomicity, Consistency, Isolation, and Durability. Together, these properties ensure that the data in a database remains accurate, reliable, and consistent, even when multiple users are accessing it and modifying it simultaneously.
+**Define ACID:** <span data-chatgpt-prompt="define ACID (computers and software)">ACID refers to a set of properties that guarantee that database transactions are processed reliably. These properties ensure that data remains accurate, reliable, and consistent, even when multiple users are simultaneously accessing and modifying data.
 
 
 
@@ -213,18 +212,17 @@ Adaptability is also a cross-functional constraint that can affect various parts
 
 Adaptivity is a system quality attribute that refers to the ability of a system to respond and adapt to changes in its environment or requirements. Compare adaptability and antifragility.
 
-Adaptivity is a non-functional requirement because it doesn't relate to the specific functionality of a system, but rather the system's ability to adapt to changes in its environment, such as an increasing need for system resources, or service degradations in system dependencies. Adaptivity include a
+Adaptivity is a non-functional requirement because it doesn't relate to the specific functionality of a system, but rather the system's ability to adapt to changes in its environment, such as an increasing need for system resources, or service degradations in system dependencies.
 
-* Examples of postive-oriented adaptivity are autoscaling and elastic clouds, such as when a system can automatically allocate more processing power, memory, storage, bandwidth, and the like.
+Examples of postive-oriented adaptivity are autoscaling and elastic clouds, such as when a system can automatically allocate more processing power, memory, storage, bandwidth, and the like.
   
-* Examples of negative-oriented adaptivity are throttling and backpressure, such as when a system can slow its inbound queues, as well as report the issue to upstream providers, in order to prevent overloading.
+Examples of negative-oriented adaptivity are throttling and backpressure, such as when a system can slow its inbound queues, as well as report the issue to upstream providers, in order to prevent overloading.
 
 Adaptivity is a cross-functional constraint, in practice, because different organization teams have different perspectives on the value of adaptivity, and it can be challenging to understand. As a typical example, a sales team may want a web sales process that is always available, even during peak usage periods that may be ten times higher than normal; this can be solved by the sales team and development team coordination on the adaptivity qualities.
 
-In summary, adaptivity is a critical system quality attribute that enables a system to remain effective and robust in the face of changes and uncertainties. It is essential for systems that operate in complex or dynamic environments and must balance competing requirements and constraints to achieve their objectives.
 
 
-**Define adaptive:** <span data-chatgpt-prompt="define adaptive (computers and software)">Adaptive in the context of computers and software refers to the ability of the system to adjust and respond to changing circumstances or user behavior. Adaptive software is designed to gather information about the user's preferences, behavior, and environment, and then use that information to modify its own behavior to better meet the user's needs. Adaptive systems can also learn from their own experiences, making them more intelligent and efficient over time. Examples of adaptive software include personalized search engines, recommendation engines, and chatbots.
+**Define adaptive:** <span data-chatgpt-prompt="define adaptive (computers and software)">Adaptive in the context of computers and software refers to the ability of the system to adjust and respond to changing circumstances. Adaptive software is designed to gather information about its usage, and then use that information to modify its own behavior to better meet the system's goals.
 
 
 
@@ -280,16 +278,15 @@ Agility can also be considered a cross-functional constraint because it affects 
 
 # Antifragility
 
-**The quality/ability/extent of being antifragile. Compare self-sustainability.**
+**The quality/ability/extent of being antifragile.**
 
 
-Antifragility is a system quality attribute that refers to the ability of a system to thrive and improve under stress, shock, or change, instead of just surviving it. It is a property of systems that have the ability to constantly adapt and grow stronger in the face of volatility, uncertainty, complexity, and ambiguity (VUCA) of their environment.
+Antifragility is a system quality attribute that refers to the ability of a system to thrive and improve under stress, shock, or change, instead of just surviving it. It is a property of systems that have the ability to constantly adapt and grow stronger in the face of volatility, uncertainty, complexity, and ambiguity of their environment.  Compare self-sustainability.
 
 As a non-functional requirement, antifragility is typically related to the resilience, reliability, and robustness of a system. It defines the system's ability to withstand unexpected or unforeseen changes in its environment, mitigate risks and failures, and recover quickly from any disruption.
 
 Antifragility is also a cross-functional constraint because it impacts various aspects of a system, such as its design, architecture, operations, maintenance, and security. It requires the collaboration of different teams and disciplines, such as development, testing, operations, security, and business, to ensure that the system is built, deployed, and managed in a way that enhances its antifragile properties.
 
-Overall, antifragility is a critical quality attribute that organizations should strive to achieve in modern-day systems that operate in highly dynamic and unpredictable environments. By embracing antifragility, organizations can increase their resiliency and agility, gain a competitive advantage, and improve their overall business performance.
 
 
 **Define antifragile:** <span data-chatgpt-prompt="define antifragile (computers and software)">Antifragile is a term coined by Nassim Nicholas Taleb in his book "Antifragile: Things That Gain from Disorder." It describes a system or entity that becomes stronger and more resilient when exposed to stressors or adversity, as opposed to simply withstanding them or breaking under the pressure.
@@ -305,12 +302,12 @@ Atomicity is a system quality attribute that refers to the property of a system 
 
 Atomicity is also considered a non-functional requirement because it does not deal with the specific functionalities of the system, but rather with its overall behavior and performance. It is a critical non-functional requirement for systems that handle complex transactions, such as finance and banking.
 
-Atomicity is a typically not an important cross-functional constraint, because most organizational teams want atomicity, and rely on it as a default. Some high-scalability systems may need to involve cross-functional contraints when the scale issues must change from atomicity to other approaches such as eventual consistency, or out-of-order event stream processing, or probability-weighted transactions.
+Atomicity can be a cross-functional constraint, because most organizational teams want atomicity, and rely on it. However, some high-scalability systems may need to change from atomicity to other approaches such as eventual consistency, or out-of-order event stream processing, or probability-weighted transactions.
 
 To achieve atomicity, a system should have mechanisms that ensure that transactions are executed reliably, securely, and consistently. These mechanisms should support rollback and recovery, isolation, and consistency of the data, and ensure that the system is fault-tolerant and available.
 
 
-**Define atomic:** <span data-chatgpt-prompt="define atomic (computers and software)">An atomic transaction is a data transaction in which a series of data operations are treated as a single, indivisible operation. In other words, either all of the operations are executed and the transaction is committed, or none of the operations are executed and the transaction is rolled back. This guarantees that data are always in a consistent state, even if an error occurs during the transaction. Atomicity is one of the four key properties of an ACID data transaction; the four are atomicity, consistency, isolation, durability.
+**Define atomic:** <span data-chatgpt-prompt="define atomic (computers and software)">An atomic transaction is a data transaction in which a series of data operations are treated as a single, indivisible operation. In other words, either all of the operations are executed and the transaction is committed, or none of the operations are executed and the transaction is rolled back. This guarantees that data are always in a consistent state, even if an error occurs during the transaction. Atomicity is one of the four key properties of an ACID data transaction.
 
 
 
@@ -319,16 +316,14 @@ To achieve atomicity, a system should have mechanisms that ensure that transacti
 **The quality/ability/extent of being auditable.**
 
 
-Auditability is a system quality attribute that refers to the ability of a system to provide reliable and accurate data for auditing purposes. It is a non-functional requirement that is important in many industries, such as finance, healthcare, and government, where strict regulations often require auditing of system activities and transactions.
+Auditability is a system quality attribute that refers to the ability of a system to provide reliable and accurate data for auditing purposes. Auditability is important in many industries, such as finance, healthcare, and government,  where strict regulations often require auditing of system activities and transactions. Auditability can also help organizations to identify issues and improve processes.
 
-To achieve auditability, a system must be designed with clear and transparent processes that can be easily tracked and recorded. It must store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time. This includes data such as user activity, system changes, access logs, and transaction records.
-
-Auditability is also a cross-functional constraint, requiring collaboration between various departments such as development, operations, and security. The system must be designed with security in mind to ensure that data is not compromised or lost, and compliance regulations are met. It must also be easy to audit, with clear documentation and reporting that can be easily reviewed by auditors or other stakeholders.
-
-Ultimately, auditability is necessary for ensuring transparency, accountability, and compliance within the system. By providing reliable and accurate data, it helps organizations to identify issues and improve processes, as well as to demonstrate conformance with applicable regulations and industry standards.
+Auditability is a non-functional requirement that is typically also a cross-cutting concern, because a system must be designed with clear and transparent processes that can be easily tracked and recorded, across all functions and modules. The system should store and maintain appropriate logs, records, and metadata that can be used to reconstruct system activities over time; this includes data such as user activity, access logs, transaction records, and system changes. Audit logs can be stored and analyzed to detect security breaches, fraud, data breaches or any other potential risks to the system or organization. 
+ 
+Auditability is a cross-functional constraint, requiring collaboration between various departments such as development, operations, cybersecurity, physical security, legal, compliance, and risk managment. The system must be designed with security in mind to ensure that data is not compromised or lost, and compliance regulations are met. It must also be easy to audit, with clear documentation and reporting that can be easily reviewed by auditors or other stakeholders.
 
 
-**Define auditability:** <span data-chatgpt-prompt="define auditability (computers and software)">Auditable refers to the capability of tracking and recording events or changes in a computer system or software application that can be audited or reviewed later for compliance, security, or regulatory purposes. An auditable system or software keeps a detailed log of all activities, such as login attempts, file access, data modifications, system alerts, and other events that can help identify any irregular or suspicious behavior. The audit logs can be stored and analyzed to detect security breaches, fraud, data breaches or any other potential risks to the system or organization. Auditing is an important aspect of cybersecurity, compliance, and risk management.
+**Define auditable:** <span data-chatgpt-prompt="define auditable (computers and software)">Auditable refers to the capability of tracking events or changes in a system, so the tracking can be reviewed later for compliance, security, or regulatory purposes.
 
 
 
@@ -339,11 +334,9 @@ Ultimately, auditability is necessary for ensuring transparency, accountability,
 
 Automatability is a system quality attribute that refers to the ease with which a system can be automated or integrate with automation tools.
 
-Automatability is a non-functional requirement that involves creating software that can easily automate its processes, i.e., make it easy to integrate with scripts or other automated tools. Automatability is a critical attribute for modern software development and can save time and reduce the likelihood of errors or bugs.
+Automatability is a non-functional requirement that involves creating software that can easily automate its processes, i.e., make it easy to integrate with scripts or other automated tools. Automatability can save time, extend capabilties in new ways, and potentially reduce costs.
 
 Automatability is a cross-functional constraint that affects developers, testers, and system administrators who can automate their workflows with the help of automation tools. In addition, automatability is gaining in importance thanks to low-code/no-code tools, as well as natural language queries.
-
-In summary, by considering automatability as an essential system quality attribute, software development teams can build more sustainable and efficient software systems that offer long-term benefits to both developers and end-users.
 
 
 **Define automatable:** <span data-chatgpt-prompt="define automatable (computers and software)">Automatable refers to the capability of a system or process to be executed automatically by a computer or software without human intervention. An automatable process should have well-defined inputs, outputs, rules, and steps that can be accurately captured and executed by software tools or scripts. By automating repetitive or time-consuming tasks, organizations can achieve greater efficiency, consistency, and scalability in their operations. Common examples of automatable processes include data entry, file processing, testing, deployment, and monitoring.
@@ -355,13 +348,11 @@ In summary, by considering automatability as an essential system quality attribu
 **The quality/ability/extent of being autonomous.**
 
 
-Autonomicity is a system quality attribute that refers to a system's ability to self-manage, self-heal, and self-configure without the need for human intervention.
+Autonomicity is a system quality attribute that refers to a system's ability to self-manage, self-heal, and self-configure without the need for human intervention. Autonomicity includes other system quality attributes, such as adaptivity and antifragility.
 
-Autonomicity is a non-functional requirement that emphasizes the importance of a system's ability to operate seamlessly and adapt to its environment to achieve its goals.
+Autonomicity is a non-functional requirement that emphasizes the importance of a system's ability to operate seamlessly and adapt to its environment to achieve its goals. Autonomicity can be especially valuable to improve other non-functional requirements, such as availability, dependability, reliability, and scalability.
 
 Autonomicity is a cross-functional constraint because it affects multiple aspects of a system, including its performance, reliability, and security. It requires collaboration among different stakeholders, such as developers, system administrators, and end-users, to ensure that the system is fully autonomous in its operation.
-
-In summary, Autonomicity is a key attribute that improves the effectiveness and efficiency of a system by reducing manual interventions and allowing the system to adapt to changing scenarios. It minimizes the chances of failures and increases the system's reliability and usability.
 
 
 **Define autonomicity:** <span data-chatgpt-prompt="define autonomicity (computers and software)">Autonomous refers to systems, computers, and software that have the ability to operate and function independently without requiring human intervention or control. Autonomous systems can be programmed to perform specific tasks and make decisions based on pre-determined criteria, and can continue to function even in the absence of a human operator. They utilize artificial intelligence and machine learning algorithms to analyze and respond to data, allowing them to adapt and improve their performance over time. Examples of autonomous systems include self-driving cars, drones, and automated customer service chatbots.
@@ -397,7 +388,6 @@ Compatibility can be tested and measured by ensuring that the system performs as
 
 Compatibility also helps to ensure that the system can evolve and adapt to new technologies, trends, and standards. It is a crucial factor that impacts the system's reliability, performance, and usability.
 
-In summary, compatibility is an essential system quality attribute, non-functional requirement, and cross-functional constraint that enables the system to work cohesively with other systems and technologies. It ensures that the system is interoperable, adaptable, and functional.
 
 
 **Define compatible:** <span data-chatgpt-prompt="define compatible (computers and software)">Compatible refers to the ability of computers and software to work together without any technical issues or conflicts. It means that they are designed to interact seamlessly and can exchange information without any errors or problems. This is important for system performance and efficiency, as well as for the user experience. Incompatible systems may cause crashes, errors, or data loss, making it difficult or impossible to accomplish the intended tasks.
@@ -409,11 +399,10 @@ In summary, compatibility is an essential system quality attribute, non-function
 **The quality/ability/extent of being composable.**
 
 
-Composability is a system quality attribute, a non-functional requirement, and a cross-functional constraint that determines the degree to which different components or services within an architecture can be combined or composed to create new functionalities or systems without requiring significant changes to the individual components. In other words, composability is the ability of a system or a component to be combined or integrated with other systems or components in a flexible and seamless manner, allowing for easy customization, scalability, and interoperability.
+Composability is a system quality attribute that determines the degree to which different components or services within an architecture can be combined or composed to create new functionalities or systems without requiring significant changes to the individual components. In other words, composability is the ability of a system or a component to be combined or integrated with other systems or components in a flexible and seamless manner, allowing for easy customization, scalability, and interoperability.
 
 Composability is essential for complex software systems with multiple components or services, as it enables teams to build and maintain systems that are flexible, modular, and easily adaptable to changing requirements. It is also critical for organizations that rely on third-party software components or services, as it ensures that these components can be easily integrated into the organization's existing technology infrastructure.
 
-Overall, composability is a crucial system quality attribute that enables organizations to build and maintain software systems that are scalable, adaptable, and interoperable. It requires careful consideration of the design and architecture of the system, as well as the selection of the appropriate components and services that can be easily integrated and combined to create new functionalities or systems.
 
 
 **Define composable:** <span data-chatgpt-prompt="define composable (computers and software)">Composable in the context of computers and software refers to the ability of different software components to be deconstructed into smaller, standalone components that can be combined and orchestrated in new ways to create custom applications and services. This approach enables users to rapidly build and deploy applications by combining pre-existing components to meet their specific business needs. Composable architecture is characterized by its ability to create applications that are highly flexible, scalable and can easily accommodate new changes or updates.
@@ -425,16 +414,14 @@ Overall, composability is a crucial system quality attribute that enables organi
 **The quality/ability/extent of being configurable.**
 
 
-Configurability is a system quality attribute that refers to the ability of a system to be easily customized or adapted to meet a specific set of requirements. It is a non-functional requirement that specifies the degree to which a system can be modified to suit different user needs, preferences, and changing environments.
+Configurability is a system quality attribute that refers to the ability of a system to be easily customized or adapted.  Configurable systems are designed to be flexible, adaptable, and user-friendly. Additionally, configurable systems often have a range of pre-built options that can be easily adjusted to match different use cases. Compare customizability.
 
-Configurability is a cross-functional constraint that involves several aspects of the system, including its architecture, design, implementation, and maintenance. It requires a system to have a modular and flexible design that allows for the addition or removal of components without affecting other parts of the system.
+Configurability is a non-functional requirement that specifies the degree to which a system can be modified to suit different user needs, preferences, and changing environments. Configurability may involve multiple aspects of the system, including its architecture, design, implementation, and maintenance. It requires a system to have a modular and flexible design that allows for the addition or removal of components without affecting other parts of the system.
 
-Configurability is essential for systems that need to adapt to changing business requirements or user preferences. It enables users to tailor the system to their specific needs, reduces development time and cost, and ensures that the system remains relevant and usable over time.
-
-In summary, configurability is a system quality attribute that enables a system to be customized or adapted to meet the changing needs of its users. It is a non-functional requirement that requires a flexible and modular system design and is a cross-functional constraint that impacts different aspects of the system development and maintenance process.
+Configurability is a cross-functional constraint, especially when stakeholder teams need to adapt to changing business requirements, market forces, or user preferences. High configurability enables stakeholder teams and end-users to tailor the system to their specific needs, which and ensures that the system remains relevant and valuable over time.
 
 
-**Define configurable:** <span data-chatgpt-prompt="define configurable (computers and software)">Configurable refers to a feature or capability of computer hardware or software that can be easily customized or adjusted according to the user's preferences or requirements. This means that users can modify certain settings or options within the system to meet specific needs, such as changing the language, font size, screen resolution, or input/output devices. Configurable systems are designed to be flexible, adaptable, and user-friendly, allowing users to tailor the system to their specific needs and preferences. Additionally, configurable systems often have a range of pre-built options and settings that can be easily adjusted to match different workflows or use cases.
+**Define configurable:** <span data-chatgpt-prompt="define configurable (computers and software)">Configurable refers to a feature or capability of computer hardware or software that can be easily customized or adjusted according to the user's preferences or requirements. This means that users can modify certain settings or options within the system to meet specific needs, such as changing the language, font size, screen resolution, or input/output devices.
 
 
 
@@ -450,8 +437,7 @@ As a non-functional requirement, consistency is an essential aspect of the user 
 Consistency is also a cross-functional constraint that affects various aspects of the system development and operation, such as design, coding, testing, documentation, and maintenance. It requires cooperation and collaboration among different stakeholders, such as designers, developers, testers, users, and managers, to ensure that the system's consistency is maintained throughout its life cycle. Examples of techniques and tools that support consistency include coding standards, style guides, user feedback, version control, test automation, and change management processes.
 
 
-**Define consistent:** <span data-chatgpt-prompt="define consistent (computers and software)">In the context of computers and software, consistent refers to the state of being uniform or constant in behavior, appearance, or performance. A consistent software application behaves in the same way each time it is used, providing predictable and reliable results. Similarly, consistent user interfaces across different applications or devices make it easy for users to navigate and understand the system. Consistency in coding practices makes it easier for developers to maintain and modify code over time. Overall, consistency in technology is essential for ensuring efficient and effective outcomes.
-
+**Define consistent:** <span data-chatgpt-prompt="define consistent (computers and software)">In the context of computers and software, consistent refers to the state of being uniform or constant in behavior, appearance, or performance. A consistent software application behaves in the same way each time it is used, providing predictable and reliable results. Similarly, consistent user interfaces across different applications or devices make it easy for users to navigate and understand the system. Consistency in coding practices makes it easier for developers to maintain and modify code over time. 
 
 
 # Continuity
@@ -459,13 +445,14 @@ Consistency is also a cross-functional constraint that affects various aspects o
 **The quality/ability/extent of being continuous.**
 
 
-Continuity refers to the system quality attribute that describes the ability of the system to keep functioning under normal and abnormal conditions, without any noticeable impact on the performance and availability of the system. It is also a non-functional requirement that specifies the expected level of reliability, availability, and maintainability of the system. The continuity of a system is a cross-functional constraint that affects various aspects of the system, including design, development, testing, deployment, and operation.
+Continuity refers to the system quality attribute that describes the ability of the system to keep functioning under normal and abnormal conditions, without any noticeable impact on the performance and availability of the system.
+
+Continuity is a non-functional requirement that specifies the expected level of reliability, availability, and maintainability of the system. The continuity of a system is a cross-cutting concern that affects various aspects of the system, including design, development, testing, deployment, and operation.
 
 The continuity of a system encompasses the ability to recover from failures, handle unexpected events, and maintain its functionality and performance in the face of disruptions. It requires that the system design and architecture incorporate redundancy, fault tolerance, and resilience mechanisms that can handle various types of failures and errors. The system should also be capable of monitoring and detecting faults, and initiating appropriate corrective actions.
 
 Continuity is critical in many domains, including financial services, transportation, healthcare, and emergency services, where service disruptions can have severe consequences. It is also essential in industrial and manufacturing settings, where downtime and equipment failures can lead to significant losses in productivity and revenue.
 
-Overall, ensuring the continuity of a system requires a comprehensive approach that involves understanding the system's context, identifying potential risks and failures, and designing appropriate mitigation strategies. It is a vital aspect of system reliability and availability, and an essential requirement for meeting the expectations of users and stakeholders.
 
 
 **Define continuous:** <span data-chatgpt-prompt="define continuous (computers and software)">Continuous in the context of computers and software refers to a process or methodology in software development where the code is continuously built, tested, and deployed to production. The developers work on small incremental changes to the codebase, and with each change, the code is automatically tested and deployed. This process helps teams to detect and fix issues and bugs quickly, thereby delivering new features and updates to the end-users rapidly. Additionally, it also helps in increasing the overall reliability and quality of the software product.
@@ -477,13 +464,19 @@ Overall, ensuring the continuity of a system requires a comprehensive approach t
 **The quality/ability/extent of being controllable.**
 
 
-Controllability is a system quality attribute that refers to the ability of a system or its components to be easily managed, monitored, and controlled. It is a non-functional requirement that defines the degree to which a system can be controlled by its users, administrators, and other stakeholders. Controllability is also a cross-functional constraint, as it impacts various aspects of a system, including usability, reliability, and security.
+Controllability is a system quality attribute that refers to the ability of a system or its components to be easily managed, monitored, and controlled, typically by its users, administrators, and other stakeholders. 
+
+
+Controllability is a non-functional requirement, and it impacts various aspects of a system, including usability, reliability, and security. Controllability may also be a cross-cutting concern, for example if controls span multiple areas of the system.
+
+Controllability is also a cross-functional constraint: TODO
 
 In practical terms, controllability means that a system should provide interfaces, tools, and mechanisms that enable users to manage and control its behavior, performance, and other aspects. For example, an operating system should provide a user-friendly interface to allow users to manage system resources, such as memory, disk space, and CPU usage. Likewise, a database management system should provide tools to monitor and maintain data integrity, performance, and security.
 
-Controllability is critical for ensuring the reliability, availability, and security of a system. A system that is difficult to control and manage can lead to operational issues, such as downtime, data loss, and security breaches. Therefore, system designers and architects should consider controllability as an essential quality attribute, and should design systems that are easy to control and manage.
+A system that is difficult to control and manage can lead to operational issues, such as downtime, data loss, and security breaches. Therefore, system designers and business stakeholders should work toward systems that are easy to control and manage.
 
 
+**Define controllable:** <span data-chatgpt-prompt="define controllable (computers and software)">In the context of computers and software, controllable refers to the ability of a user or program to manipulate and manage the behavior and operations of the system. This can include changing settings, configuring options, selecting inputs and outputs, and executing commands to achieve desired outcomes. It may also refer to the degree to which a system can be easily monitored and modified by an administrator or other authorized user. 
 
 
 # Correctness
@@ -491,16 +484,16 @@ Controllability is critical for ensuring the reliability, availability, and secu
 **The quality/ability/extent of being correct.**
 
 
-Correctness is a system quality attribute that refers to the accuracy and precision of the system's output or behavior with respect to its intended purpose or specification. It is a non-functional requirement that is crucial for ensuring the reliability, usability, and safety of the system.
+Correctness is a system quality attribute that refers to the accuracy and precision of the system's output or behavior with respect to its intended purpose or specification. Correctness includes related system quality attributes of accuracy and precision.
 
-Correctness is a cross-functional constraint that affects multiple aspects of the system, including its functionality, performance, security, and usability. The correctness of a system depends on its ability to handle different input scenarios, detect and handle errors and exceptional conditions, fulfill the user's expectations, and maintain consistency and coherence of its data and behavior.
+Correctness is a non-functional requirement that is crucial for ensuring the reliability, usability, and security of the system. The correctness of a system depends on its ability to handle different input scenarios, detect and handle errors and exceptional conditions, fulfill the user's expectations, and maintain consistency and coherence of its data and behavior.
+
+Correctness is a cross-functional constraint: TODO
 
 Achieving correctness requires a systematic and rigorous approach to the system's design, development, testing, and maintenance. It involves identifying and validating the system's requirements, ensuring the completeness and consistency of its design, implementing and testing the system's functionality and behavior, and monitoring and maintaining the system's quality over time.
 
-In summary, correctness is a crucial system quality attribute that ensures the system's accuracy and precision with respect to its intended purpose or specification. It is a non-functional requirement that affects the reliability, usability, and safety of the system and a cross-functional constraint that requires a systematic and rigorous approach to the system's design, development, testing, and maintenance.
 
-
-**Define correct:** <span data-chatgpt-prompt="define correct (computers and software)">In the context of computers and software, "correct" refers to the accuracy and functionality of a program or system in performing its intended tasks without errors or issues. A correct program will operate as intended, producing accurate results in accordance with its specifications and without causing any unexpected issues or errors. Additionally, a correct system will be properly configured and maintained, and will provide reliable and secure performance in all relevant areas.
+**Define correct:** <span data-chatgpt-prompt="define correct (computers and software)">In the context of computers and software, "correct" refers to the accuracy and functionality of a program or system in performing its intended tasks without errors or issues. A correct program will operate as intended, producing accurate results in accordance with its specifications and without causing any unexpected issues or errors.
 
 
 
@@ -589,7 +582,6 @@ Demonstrability is also considered as a cross-functional constraint as it influe
 
 A system with high demonstrability enables users to interact and verify the system’s behaviors, inputs, and outputs. It involves providing necessary evidence, documentation, and tools to enable users to understand the system’s purpose, operation, and performance.
 
-Overall, demonstrating the system’s functionality and capabilities is essential for ensuring user confidence and trust in the system, and therefore demonstrating this ability is crucial to the success of a system.
 
 
 **Define demonstrable:** <span data-chatgpt-prompt="define demonstrable (computers and software)">Demonstrable means capable of being shown or proven with evidence. In the context of computers and software, it refers to a feature or function that can be clearly demonstrated or proven to work as intended. This can involve providing clear documentation, testing, or examples to demonstrate that a particular program, software module, or component meets the requirements or specifications it was designed to satisfy. Demonstrability is an important factor in software development, as it enables developers to verify that their software is functioning correctly and meeting user needs.
@@ -607,7 +599,6 @@ As a non-functional requirement, Dependability sets the expectation for the syst
 
 Dependability is also a cross-functional constraint that affects various aspects of the system development lifecycle. It requires comprehensive design, testing, and validation of the system to ensure its reliability, availability, and safety. It may also impact the choice of technologies, standards, and techniques used in system development, testing, and maintenance.
 
-Overall, Dependability is a critical system quality attribute that ensures the system's consistent and reliable operation, enhances its trustworthiness and usability, and promotes customer satisfaction.
 
 
 **Define dependable:** <span data-chatgpt-prompt="define dependable (computers and software)">Dependable refers to the reliability and consistency of a software program or computer system to consistently produce accurate results with a low probability of failure, error or unexpected behavior, even under adverse conditions, such as heavy loads or unexpected inputs. A dependable software or system is one that can be trusted to work as expected and meet the intended goals with a high level of confidence. Dependable systems and software are critical in industries such as healthcare, aviation, and finance, where unexpected errors or glitches can lead to catastrophic consequences or loss of life.
@@ -625,7 +616,6 @@ Deployability is considered a non-functional requirement, as it focuses on the p
 
 Deployability is also a cross-functional constraint, as it involves collaboration and coordination among various teams and stakeholders involved in the deployment process. These may include developers, operators, security experts, and end-users, who need to work together to ensure a smooth and seamless deployment experience.
 
-In summary, deployability is a critical system quality attribute that ensures that software systems can be easily and quickly deployed in various environments, without causing disruptions or requiring extensive development efforts. It is a non-functional requirement that depends on other factors such as reliability, scalability, and maintainability, and is a cross-functional constraint that requires collaboration and coordination among various teams and stakeholders.
 
 
 **Define deployable:** <span data-chatgpt-prompt="define deployable (computers and software)">Deployable refers to computers and software that can be easily and quickly deployed or implemented in a specific environment or system. This means that the device or application can be configured and installed without requiring extensive setup or configuration, allowing for rapid deployment and scaling of a solution. These technologies are typically designed to be highly portable and modular, making them ideal for use in a variety of settings and contexts.
@@ -643,7 +633,6 @@ Determinability is an essential system quality attribute because it enhances the
 
 To achieve determinability, software developers must design and implement robust error handling mechanisms that can detect and diagnose failures, log error messages, and provide feedback to users. Moreover, they must ensure that the system is capable of recovering from failures and that the recovery process is transparent and reliable.
 
-In summary, determinability is a system quality attribute that ensures the reliability, stability, and robustness of a system. It is a non-functional requirement that impacts various aspects of software development, including design, implementation, testing, and maintenance. Achieving determinability requires robust error handling mechanisms, fault tolerance, and reliable recovery processes.
 
 
 **Define determinable:** <span data-chatgpt-prompt="define determinable (computers and software)">Determinable in computers and software refers to the quality of being able to be determined, resolved or ascertained. It suggests that a particular software feature, attribute or function can be clearly defined, analyzed, and measured, either by using specific tools, techniques or approaches. In other words, a determinable software component is one that can be quantified, tested, and evaluated based on certain criteria, such as performance, reliability, security, efficiency or scalability, among others. This attribute is essential in software development, as it allows developers to design, implement, and maintain software solutions that meet specific requirements and deliver measurable outcomes.
@@ -695,7 +684,6 @@ In general, a durable system is one that can continue to function as expected wi
 
 Durability is particularly important for systems that are used in high-stress environments such as industrial equipment, transportation systems, and military applications. In these contexts, a failure to meet durability requirements can result in serious consequences such as equipment malfunction, production delays, and even loss of life.
 
-Overall, durability is a critical system quality attribute that must be carefully considered and designed for in any system to ensure that it can perform reliably and safely over an extended period of time.
 
 
 **Define durable:** <span data-chatgpt-prompt="define durable (computers and software)">Durable in the context of computers and software refers to the ability of a device or program to withstand wear and tear, perform consistently over a long period of time, and withstand changes or updates in the technological environment without becoming obsolete. Durable computers and software are designed with reliable components and feature regular maintenance to ensure longevity and avoid data loss or corruption.
@@ -713,7 +701,6 @@ Effectiveness is a crucial system quality attribute, as it measures the success 
 
 In addition to being a system quality attribute, effectiveness is often considered as a cross-functional constraint, as it is closely related to other quality attributes such as usability, reliability, and security. A system that is not effective in performing its tasks may also suffer from poor usability, unreliable performance, and security vulnerabilities.
 
-Overall, effectiveness is a key system quality attribute that can significantly impact the success of a system in meeting its intended goals and satisfying user needs.
 
 
 **Define effective:** <span data-chatgpt-prompt="define effective (computers and software)">Effective means that a computer or software system performs the tasks it was designed for efficiently and successfully achieves the intended outcome. It is a reflection of how well a tool or technology can achieve its goals while minimizing errors, bugs, and inefficiencies. An effective computer or software system provides users with a positive user experience, is user-friendly and easy to navigate, and is generally reliable in its performance.
@@ -753,7 +740,6 @@ Encryptability is also a non-functional requirement, meaning that it specifies h
 
 In addition, encryptability can be considered as a cross-functional constraint, as it may affect various aspects of a system, including performance, usability, and maintainability. Encryption processes may impact system performance by adding overhead in terms of processing power and resources. However, this overhead may be outweighed by the benefits of data security.
 
-In summary, encryptability is a critical system quality attribute, non-functional requirement, and cross-functional constraint that ensures the confidentiality and integrity of sensitive information.
 
 
 **Define encryptable:** <span data-chatgpt-prompt="define encryptable (computers and software)">Encryptable refers to the ability to transform plain, readable information into a coded format that cannot be understood by any unauthorized party. This feature is crucial in computers and software to ensure secure communication, data protection, and privacy. Encryptable data can only be accessed with a decryption key or password, making it challenging for hackers or cybercriminals to read or manipulate the information.
@@ -785,7 +771,6 @@ Extensibility is a system quality attribute that represents the system's capacit
 
 Extensibility is a cross-functional constraint as it impacts various stakeholders involved in the system's development, such as developers, testers, end-users, business analysts, and system administrators. It influences the system's overall architecture, design, and implementation, and affects the system's maintainability, scalability, and adaptability.
 
-In summary, extensibility is an essential system quality attribute that enables a system to incorporate new features and requirements without disrupting existing functionality. It is a non-functional requirement that has cross-functional implications and plays a critical role in the success of a syste.
 
 
 **Define extensible:** <span data-chatgpt-prompt="define extensible (computers and software)">In the context of computers and software, extensible means that a system or program is designed in a way that allows it to be easily enhanced or modified with new features or functionalities without requiring significant changes to the underlying code or architecture. An extensible system typically provides mechanisms such as APIs (application programming interfaces), plugins, or scripts that developers can use to extend its capabilities and integrate it with other systems, tools, or platforms. This flexibility and adaptability make extensible systems and software ideal for various applications, from complex enterprise systems to consumer applications and mobile apps.
@@ -803,7 +788,6 @@ As a non-functional requirement, failure-transparency specifies how a system sho
 
 Failure-transparency is also a cross-functional constraint, meaning that it affects multiple aspects of a system and requires collaboration across different teams and departments. For example, developers must design the system to generate informative error messages, while operations teams must ensure that logs are accessible and easy to analyze.
 
-In summary, failure-transparency is an essential system quality attribute that helps ensure that failures are communicated effectively and efficiently to all stakeholders. As a non-functional requirement and cross-functional constraint, it requires collaboration and coordination across different teams and functions to achieve.
 
 
 **Define failure-transparent:** <span data-chatgpt-prompt="define failure-transparent (computers and software)">Failure-transparent is a term used in computer science and software engineering to describe a system or software that is resilient and able to handle failures without disrupting or completely stopping the system's operation. A failure-transparent system can detect and handle errors, failures, and unexpected events without compromising the overall functioning of the system. Such a system is designed to provide high availability and fault tolerance, ensuring the continuity of the system's operation even in the face of hardware, software, or network failures. In simple terms, a failure-transparent system is one that fails gracefully, allowing the system to continue functioning despite any issues or faults that may arise.
@@ -869,8 +853,7 @@ Heterogeneity is a system quality attribute, and refers to the ability of a syst
 
 Heterogeneity is a non-functional requirement, and specifies the need for a system to operate in a diverse and complex environment. It requires the system to be flexible, adaptable, and scalable, enabling it to work effectively in different contexts, scales, and configurations.
 
-Heterogeneity is a cross-functional constraint, and defines the need for different functional groups or teams to collaborate and work together to achieve system interoperability and integration. It requires communication, coordination, and alignment across different domains and disciplines, such as software engineering, network engineering, security, and performance engineering. Overall, heterogeneity is a central attribute of modern systems that operate in complex, distributed, and dynamic environments, such as the Internet of Things, cloud computing, and software ecosystems.
-
+Heterogeneity is a cross-functional constraint, and defines the need for different functional groups or teams to collaborate and work together to achieve system interoperability and integration. It requires communication, coordination, and alignment across different domains and disciplines, such as software engineering, network engineering, security, and performance engineering. 
 
 **Define heterogeneous:** <span data-chatgpt-prompt="define heterogeneous (computers and software)">Heterogeneous refers to a mixture or combination of different types, models, or brands of computers and software. It implies that the computing environment is not uniform, and different systems with diverse platforms, operating systems, architectures, or configurations are interconnected and used together for a common purpose, such as data processing, communication, or collaboration. Heterogeneous computing requires specialized tools and techniques to manage the complexity and ensure compatibility and interoperability among the different components.
 
@@ -905,7 +888,6 @@ Horizontal scalability is a non-functional requirement that focuses on performan
 
 Horizontal scalability is also a cross-functional constraint, as it impacts many aspects of a system, including architecture, design, development, deployment, testing, and monitoring. It requires a distributed architecture that can scale horizontally with more instances, load balancing to distribute traffic among instances, data partitioning to manage large datasets across instances, and fault tolerance to deal with instances failures.
 
-In summary, horizontal scalability is a vital quality attribute that ensures a system can handle increasing volumes of traffic and data without losing performance. It is a non-functional requirement that impacts many aspects of a system and is a critical cross-functional constraint for modern web and mobile applications.
 
 
 **Define horizontal scaling:** <span data-chatgpt-prompt="define horizontal scaling (computers and software)">Horizontal scaling is the process of adding more computing resources such as servers, storage devices, or network bandwidth to a system to increase its overall processing capacity. It is a scalability strategy that allows an application or system to handle more workloads and traffic by distributing the workload across multiple servers or nodes, rather than relying on a single larger server. Horizontal scaling is an important feature of modern cloud-based infrastructure, as it allows businesses to easily scale their resources up and down to meet changing demands without disrupting the end-users' experience.
@@ -940,7 +922,6 @@ Installability is a cross-functional constraint that involves multiple stakehold
 
 In order to achieve high installability, software developers need to prioritize aspects like software modularity, compatibility, and simplicity, which help to streamline the installation and configuration process. Additionally, they need to provide clear and concise installation instructions and user documentation, which help users to get up and running with the software quickly and effectively.
 
-In summary, installability is a critical quality attribute that has a significant impact on the user experience and overall usability of a software application. It is an essential consideration for developers, IT operations teams, and end-users alike, and should be taken into account throughout the entire software development lifecycle.
 
 
 **Define installable:** <span data-chatgpt-prompt="define installable (computers and software)">Installable refers to software or applications that can be installed on a computer or other electronic device. This typically involves downloading or copying software files onto the device, and then running an installation program or wizard to set up the software and configure it for use. Installable software can include programs for productivity, games, utilities, or many other types of computer applications. Some installable software may require specific operating systems or hardware specifications in order to function properly.
@@ -958,7 +939,6 @@ Instrumentability is important for systems that are critical to business operati
 
 From a design perspective, instrumentability requires that a system is designed with sufficient visibility, controllability, and testability. This may involve integrating instrumentation hooks, diagnostic probes, and logging mechanisms into the system's architecture, as well as providing configurable settings, administrative interfaces, and debugging tools. Instrumentation also requires that the system's performance and behavior are well-defined and predictable, so that meaningful metrics can be collected and analyzed over time.
 
-In summary, instrumentability is a system quality attribute that ensures that a system can be easily monitored, diagnosed, and maintained. It is essential for systems that need to meet certain standards, regulatory requirements or business objectives. It is a non-functional requirement that must be considered during system design and implementation, and it imposes cross-functional constraints on the system's architecture, interfaces, protocols, and data formats.
 
 
 **Define instrumentable:** <span data-chatgpt-prompt="define instrumentable (computers and software)">An instrumentable system exposes a set of internal metrics and statistics that can be collected, analyzed and visualized by various tools. This allows developers and operators to identify issues or bottlenecks, make informed decisions, and optimize the system's behavior. Instrumentation is a crucial aspect of modern monitoring and observability solutions.
@@ -1040,7 +1020,6 @@ Learnability is a system quality attribute that measures the ease with which use
 
 Learnability is also a cross-functional constraint because it affects the way users interact with a system across different domains. For example, if a user is familiar with one software application, they will expect similar interaction patterns and design principles in another software application. If a system is difficult to learn, it can negatively impact user adoption and satisfaction, as well as productivity and efficiency.
 
-In summary, learnability is an important system quality attribute that ensures that users can quickly and easily use a system without extensive training or support. It is a non-functional requirement that should be considered during the design and development of a system, and it is a cross-functional constraint that extends to all areas of the system.
 
 
 **Define learnable:** <span data-chatgpt-prompt="define learnable (computers and software)">From a computer and software standpoint, learnable refers to the ability of the system to adapt and improve its performance based on real-time feedback and data. A learnable computer system or software is one that can constantly refine itself by learning from user behavior, past actions, and outcomes to optimize its functionality and accuracy. This can be accomplished through machine learning algorithms or other artificial intelligence technologies that enable computers and software to "teach themselves" based on the data available. By being learnable, computers and software can become more efficient, effective, and personalized for individual users, leading to better user experiences and outcomes.
@@ -1072,7 +1051,6 @@ Manageability is a system quality attribute that refers to the ease and efficien
 
 The manageability attribute is a cross-functional constraint that affects various aspects of a system, including its security, performance, reliability, and scalability. For example, a highly manageable system would have easy-to-use management interfaces, automatic monitoring and alert systems, and self-healing capabilities, which would help to ensure that the system is always available and responsive to user needs.
 
-In summary, manageability is an important attribute that is critical for ensuring the smooth functioning and reliable operation of a system. It is a non-functional requirement that should be considered during the design and development of a system and is a cross-functional constraint that affects various aspects of the system.
 
 
 **Define manageable:** <span data-chatgpt-prompt="define manageable (computers and software)">The term manageable typically refers to the ability of computers or software to be easily controlled, monitored, or modified by a user or administrator. This includes the ability to perform tasks such as software updates, configuration changes, and remote administration without requiring extensive technical knowledge or expertise. In general, manageable products are designed to simplify the management and maintenance of complex systems, making them easier to use and maintain over time.
@@ -1108,7 +1086,6 @@ As a non-functional requirement, modifiability specifies the system's ability to
 
 Modifiability is a cross-functional constraint because it impacts the entire software development process. Modifiability requires software engineers to focus on creating design and architecture that are flexible, scalable, and maintainable. It is important to maintain code consistency, to ensure that new features or changes can be added without breaking the existing code. Additionally, modifiability requires attention to documentation, version control, and testing to ensure that changes can be tracked, tested, and merged effectively.
 
-In summary, modifiability is a system quality attribute, a non-functional requirement, and a cross-functional constraint that requires software engineers to create software architecture and design that can evolve over time to meet changing requirements.
 
 
 **Define modifiable:** <span data-chatgpt-prompt="define modifiable (computers and software)">Modifiable in the context of computers and software refers to the ability to make changes or modifications to the code or settings of an application or system. This can be done by a user, developer or administrator to customize or optimize the performance, improve functionality, or add new features to the software. Modifiability is a desirable quality of software, as it allows for flexibility and adaptability to changing user needs and business requirements.
@@ -1156,7 +1133,6 @@ Observability is a system quality attribute that refers to the ability of the sy
 
 Observability also serves as a cross-functional constraint, as it impacts teams responsible for different aspects of the system, such as development, operations, and customer support. It requires collaboration among these teams to ensure that the necessary logs, metrics, and other monitoring tools are in place and accessible to all stakeholders.
 
-In summary, observability is crucial for maintaining a high level of system availability, reliability, and performance. It helps in identifying and resolving issues quickly and efficiently, thereby minimizing downtime and ensuring a positive user experience.
 
 
 **Define observable:** <span data-chatgpt-prompt="define observable (computers and software)">Observable in the context of computers and software refers to a property or state of a piece of code or an application that can be easily monitored or measured through some sort of instrumentation or tooling. This can include things like performance metrics, error logs, and other output that can be easily tracked and analyzed by developers and system administrators. The ability to observe the behavior of a system or application is critical for identifying and resolving any issues or inefficiencies that arise, and for optimizing overall system performance.
@@ -1174,7 +1150,6 @@ Operability relates to the cross-functional constraints that affect the system d
 
 Operability is critical for software systems that require frequent monitoring, configuration, and maintenance. An operable system can minimize the time it takes to perform operations, troubleshoot problems, and recover from failures. It can enhance the usability of the system, reduce errors, and improve user satisfaction.
 
-In summary, operability is an essential quality attribute that ensures that the system is easy to operate, monitor, maintain, and support. It is a non-functional requirement that should be considered in the overall system design and implementation.
 
 
 **Define operable:** <span data-chatgpt-prompt="define operable (computers and software)">Operable in the context of computers and software means the ability of the system or program to function properly and as intended. It refers to the capability of the hardware or software to perform its intended tasks without experiencing any errors or issues. An operable system or program is one that works efficiently and offers the expected functionality to the user.
@@ -1210,7 +1185,6 @@ Portability is a crucial attribute in modern software development, especially in
 
 From a cross-functional perspective, portability is important as it allows different stakeholders to access and use the software or hardware regardless of the platform they are using. It takes into account the different user needs, preferences, and capabilities, and ensures that the system can be easily transferred across different environments without loss of quality or functionality. This makes it possible for organizations to reach a wider range of users and reduce their reliance on specific technologies or platforms.
 
-In summary, portability is a critical system quality attribute, cross-functional constraint, and non-functional requirement that ensures the ease of transferring software or hardware across different environments, platforms, and operating systems. It plays a significant role in enabling the deployment of software systems across multiple environments, improving their scalability and maintainability, and making them accessible to a wider audience.
 
 
 **Define portable:** <span data-chatgpt-prompt="define portable (computers and software)">Portable refers to a device or software program that can be easily carried or transported. In the context of computers, a portable computer is a laptop, notebook, or tablet that can be easily moved from one location to another. Portable software refers to programs that can be installed on a computer or a portable device such as a USB drive and can be run without having to install them on the host computer.
@@ -1242,7 +1216,6 @@ Predictability is also a cross-functional constraint as it has an impact on vari
 
 For example, in a critical healthcare system, predictability is essential to ensure accurate and timely delivery of patient information and decision-making support. In a financial system, predictability is crucial to maintain transaction integrity and prevent fraud.
 
-Overall, predictability is an important system quality attribute that should be considered during the design and development of any system, especially in mission-critical and high-security environments.
 
 
 **Define ?:** <span data-chatgpt-prompt="define ? (computers and software)">In the context of computers and software, "define" typically refers to the act of explaining, clarifying or describing the meaning and purpose of a term, feature, function or other aspect of a digital system or program. It may involve providing a precise definition or definition of key technical concepts or terms, outlining the steps involved in a particular command or process, or elucidating the intended use or benefits of a software tool or feature for users. This can often involve referencing documentation or manuals, consulting online resources or engaging in communication with other professionals in the field.
@@ -1294,7 +1267,6 @@ As a non-functional requirement, provability specifies that the system must be a
 
 As a cross-functional constraint, provability affects multiple aspects of the system development process, from design to implementation to testing and maintenance. It requires collaboration between different stakeholders, such as developers, testers, and auditors, to establish and verify the system's properties and assumptions.
 
-Overall, provability is an important quality attribute that ensures the reliability and trustworthiness of a system. It helps to ensure that the system behaves as expected under different conditions and provides a basis for making decisions about system design, implementation, and testing.
 
 
 **Define provable:** <span data-chatgpt-prompt="define provable (computers and software)">Provable in the context of computers and software refers to being able to demonstrate or verify that a program or system will perform as intended under specified conditions, using mathematical principles and formal methods of analysis. This involves using rigorous mathematical techniques to establish the correctness and reliability of software systems, ensuring that they meet specific functional requirements and behave predictably under all circumstances. Provable software is critical for safety-critical systems, such as aerospace, automotive, medical, and military applications, as well as for ensuring data privacy and security in various domains.
@@ -1348,7 +1320,6 @@ As a non-functional requirement, relevancy defines the quality attributes that q
 
 As a cross-functional constraint, relevancy influences how different parts of the system interoperate and affects the overall software architecture. It considers the necessary trade-offs when different stakeholders have different goals or infrastructural constraints such as resource limitations. The design and development team may need to ensure that the system is adaptable to different user scenarios, locations, and usage demands.
 
-In summary, relevancy is a critical concept in software development that ensures that the system meets the user's needs, expectations, and goals. It is a system quality attribute, a non-functional requirement, and a cross-functional constraint that affects the software development process from design to implementation and maintenance.
 
 
 **Define relevant:** <span data-chatgpt-prompt="define relevant (computers and software)">Relevant, in the context of computers and software, refers to something that is significant or applicable to a particular situation or purpose. It can refer to data, information, features, or functions that are useful or necessary for achieving a specific task or goal. Relevant information or features are considered valuable because they directly contribute to the effectiveness or efficiency of the task or goal at hand. In order to determine if something is relevant, it is important to consider the context, goals, and requirements of the situation or task.
@@ -1369,8 +1340,7 @@ Reliability is expressed through metrics, such as mean time between failures (MT
 In conclusion, reliability is a fundamental aspect of system quality, and it affects many aspects of software engineering. It requires a comprehensive approach that integrates technical, managerial, and societal considerations and demands continuous attention and improvement throughout the system's life cycle.
 
 
-**Define reliable:** <span data-chatgpt-prompt="define reliable (computers and software)">Reliable software and computers are those that consistently perform their intended functions without errors, crashes, or unexpected behavior. They are built with high-quality components and are designed to withstand various stresses and failures while maintaining their functionality. A reliable software or computer system should also be able to recover quickly from any failures or malfunctions to minimize downtime and prevent data loss. Overall, reliability is an important characteristic of software and computers that ensures their effective and efficient functioning over a long period of time.
-
+**Define reliable:** <span data-chatgpt-prompt="define reliable (computers and software)">Reliable software and computers are those that consistently perform their intended functions without errors, crashes, or unexpected behavior. They are built with high-quality components and are designed to withstand various stresses and failures while maintaining their functionality. A reliable software or computer system should also be able to recover quickly from any failures or malfunctions to minimize downtime and prevent data loss. 
 
 
 # Repeatability
@@ -1418,7 +1388,6 @@ It is also considered as a non-functional requirement, as it is not related to t
 
 Resilience is often viewed as a cross-functional constraint because it impacts multiple aspects of a system, including performance, reliability, and security. It requires coordination across different functions and stakeholders to ensure that the system is able to withstand and recover from unexpected events.
 
-In summary, resilience is a critical attribute that ensures the sustainability of a system over time and across different situations. It is essential for any system performing critical functions or dealing with sensitive information.
 
 
 **Define resilient:** <span data-chatgpt-prompt="define resilient (computers and software)">Resilient refers to the ability of computers and software to recover quickly and effectively from difficulties or malfunctions. A resilient system is able to withstand unexpected events or disruption, maintain its functionality, and continue to deliver high-performance without significant interruption. This may involve features such as redundancy, failover mechanisms, automated recovery processes, and backups to ensure that data and operations can be quickly restored in the event of a failure.
@@ -1436,7 +1405,6 @@ Responsiveness is critical for many systems, especially those that require real-
 
 As a cross-functional constraint, responsiveness can impact various aspects of a system, including its architecture, design, and implementation. It may require specific technologies or approaches, such as fast processing algorithms, load-balancing techniques, or distributed system architectures, to ensure timely and reliable responses.
 
-In summary, responsiveness is a critical system quality attribute that defines the speed and efficiency of a system's responses to various inputs and stimuli. It is a non-functional requirement that can impact various aspects of a system's design and implementation and is a cross-functional constraint that affects different parts of the system.
 
 
 **Define responsive:** <span data-chatgpt-prompt="define responsive (computers and software)">Responsive refers to the ability of a computer or software system to adapt to different screen sizes and operating environments, providing an optimal viewing and user experience across multiple devices such as computers, tablets, and smartphones. A responsive system automatically adjusts its layout and functionality to ensure that the content is easily accessible and visually appealing on screens of all sizes.
@@ -1482,7 +1450,6 @@ A high level of safety is a critical aspect of a system's functionality, particu
 
 A system's safety requirements usually include regulatory compliance guidelines, industry standards, best practices, and risk assessments. To meet these requirements, developers must incorporate safety-conscious design practices and implement appropriate safety controls in their systems. These practices may include incorporating redundant systems, implementing fail-safe mechanisms, and providing adequate training and support for users and operators.
 
-Overall, safety is an essential system quality attribute that must be considered throughout the entire system development lifecycle. Failure to meet safety requirements could result in severe consequences, including legal liabilities, damage to the system's reputation, or loss of life or property. Therefore, it is vital to ensure that a system is safe and secure, in addition to its functional capabilities.
 
 
 **Define safe:** <span data-chatgpt-prompt="define safe (computers and software)">In the context of computers and software, "safe" generally means that the technology does not do any harm to the user's system, data or privacy. A safe software or application is one that functions properly and reliably, without crashing, corrupting data or opening security vulnerabilities. Safe software is also free from malware or viruses, and does not engage in any malicious activities such as phishing, spying, or stealing user data. Safe computers refer to systems that are secure from external and internal threats, such as cyber-attacks, viruses, and unauthorized access.
@@ -1498,7 +1465,6 @@ Scalability is a system quality attribute that refers to the ability of a system
 
 Scalability is also a cross-functional constraint that impacts various stakeholders including developers, operations, and business teams. From the development standpoint, scalable systems require robust and flexible architectures, optimized coding practices, and efficient utilization of hardware resources. From the operations side, scalable systems demand reliable infrastructures, high availability, and efficient monitoring and maintenance processes. From the business perspective, scalable systems drive revenue, customer satisfaction, and competitive advantage by enabling easy and seamless scaling without disrupting the user experience.
 
-In summary, scalability is a crucial attribute that determines the long-term viability and success of a system, application, or service. It enables businesses to grow and adapt to changing market conditions and user demands while ensuring consistent performance and reliability.
 
 Scalability can be measured over multiple dimensions, such as:
 
@@ -1535,6 +1501,20 @@ Finally, schedulability is a cross-functional constraint because it affects mult
 
 
 
+# Scriptability
+
+**The quality/ability/extent of being scriptable.**
+
+
+Scriptability is a system quality attribute that refers to the ability of a system to be controlled or automated using scripts. Scripting languages enable users twowrite scripts that interact with the scriptable system or application to automate tasks, manipulate data, or perform other operations. Scriptability is a desirable feature in software as it allows for customization and integration with other systems. By providing a scripting interface, software can be easily automated and extended to meet specific user needs.
+
+Scriptability a non-functional requirement that specifies the system's ability to execute scripts or command sequences that can automate repetitive or complex tasks.
+
+Scriptability can also be a cross-functional constraint in that it requires collaboration between different functional areas, such as development and operations, to ensure that the system can be easily automated and maintained. It is also important for ensuring the system's reliability, as automation can reduce the risk of errors and improve consistency.
+
+
+
+
 # Seamlessness
 
 **The quality/ability/extent of being seamless.**
@@ -1544,7 +1524,6 @@ Seamlessness is a system quality attribute that refers to the smooth and coheren
 
 Seamlessness is a cross-functional constraint that involves multiple aspects of the system, such as performance, reliability, usability, and security. It encompasses features such as fast response times, high availability, ease of navigation, consistent interfaces, and secure data transfer.
 
-Overall, seamlessness aims to provide a user-friendly and engaging experience to the end-users, with minimal effort and maximum satisfaction. It is critical for systems that deal with mission-critical functions, such as financial transactions, healthcare, or emergency services, as any interruption or delay can have severe consequences.
 
 
 **Define seamless:** <span data-chatgpt-prompt="define seamless (computers and software)">Seamless in the context of computers and software refers to a smooth and uninterrupted flow or integration of processes, applications, or systems. A seamless system or software doesn't require manual intervention or adjustment to function properly, and it operates seamlessly with other systems, applications, or devices. It eliminates interruptions or delays in task execution and provides a seamless user experience, allowing users to accomplish their goals with minimal effort or disruption.
@@ -1560,7 +1539,6 @@ Securability is a system quality attribute that refers to the ability of a syste
 
 Securability is also a cross-functional constraint as it affects multiple aspects of a system, including design, development, testing, deployment, and maintenance. It requires collaboration between different stakeholders, such as developers, system administrators, security analysts, and auditors, to ensure that the system is secure throughout its entire lifecycle.
 
-Overall, securability is a critical system quality attribute that ensures the protection of a system's assets against security threats and risks. It is essential for systems that handle sensitive and confidential information or provide critical services, such as financial transactions, healthcare, and national security.
 
 
 **Define securable:** <span data-chatgpt-prompt="define securable (computers and software)">In the context of computers and software, securable refers to the ability of a system or application to be secured from unauthorized access, tampering or data breaches. This includes implementing security measures such as firewalls, encryption, authentication and authorization mechanisms to protect both the system and the data it contains. A securable system or application is one that is designed and maintained with security in mind, and is resistant to attacks and vulnerabilities.
@@ -1578,7 +1556,6 @@ Self-sustainability is a system quality attribute that focuses on the system's a
 
 As a cross-functional constraint, self-sustainability impacts multiple parts of a system and requires coordination and cooperation among various stakeholders. For example, a self-sustaining system may require the use of renewable energy sources or recycling of materials to reduce waste and minimize external support. It may involve the use of automation and smart technology to optimize energy efficiency and reduce maintenance needs.
 
-Overall, self-sustainability is a crucial aspect of system design, as it helps to create more efficient and environmentally-friendly systems that can operate indefinitely without requiring significant external support. By prioritizing self-sustainability as a system quality attribute, organizations can reduce their dependence on external resources and create more resilient and reliable systems.
 
 
 **Define self-sustainable:** <span data-chatgpt-prompt="define self-sustainable (computers and software)">Self-sustainable computers and software are those that can function and operate independently without relying on external resources for power or maintenance. They are designed to be capable of supporting and maintaining their own operational needs, including power management, data storage, and security. Self-sustainable systems are often used in environments with limited access to resources, such as remote areas or emergency situations, where traditional infrastructure is not available. They are also used in critical systems where downtime is not an option, such as in space missions or military operations.
@@ -1619,7 +1596,6 @@ Some examples of serviceability requirements include:
 * Compatibility with existing infrastructure and tools
 * Robustness to handle changes in the operating environment
 
-In summary, serviceability is a critical system quality attribute that affects the usability, maintainability, and scalability of a system. Addressing serviceability requirements is essential for delivering a reliable and effective system that meets the needs of all stakeholders.
 
 
 **Define servicable:** <span data-chatgpt-prompt="define servicable (computers and software)">The term "serviceable" in regards to computers and software means that the system or program is able to perform essential functions effectively and reliably. It should be functioning well enough to serve its intended purpose and meet the user's needs without constant glitches or errors. A serviceable computer or software should also be able to receive regular maintenance and updates to ensure its continued functionality. Additionally, it should be compatible with other systems and software with which it needs to interact.
@@ -1640,8 +1616,7 @@ As a cross-functional constraint, simplicity imposes limitations on the design a
 As a non-functional requirement, simplicity is a design parameter that must be considered when developing a system. It must be defined in clear and measurable terms, and the system must be tested to ensure that it meets the defined requirements. Simplicity is often measured in terms of user satisfaction, efficiency, and effectiveness.
 
 
-**Define simple:** <span data-chatgpt-prompt="define simple (computers and software)">Simple in the context of computers and software refers to something that is easy to use, understand, and learn. It is typically designed to be user-friendly and intuitive, with a minimal learning curve. A simple software program or application is often characterized by a clean and uncluttered user interface, streamlined functionality, and straightforward navigation. Similarly, simple hardware components are usually uncomplicated in design and assembly, with minimal components and easy assembly instructions. Overall, simplicity in computing and software refers to a product that is accessible to users of all levels of technical expertise.
-
+**Define simple:** <span data-chatgpt-prompt="define simple (computers and software)">Simple in the context of computers and software refers to something that is easy to use, understand, and learn. It is typically designed to be user-friendly and intuitive, with a minimal learning curve. A simple software program or application is often characterized by a clean and uncluttered user interface, streamlined functionality, and straightforward navigation. Similarly, simple hardware components are usually uncomplicated in design and assembly, with minimal components and easy assembly instructions. 
 
 
 # Stability
@@ -1653,8 +1628,7 @@ Stability is a system quality attribute that refers to the ability of a system t
 
 As a non-functional requirement, stability is a critical aspect of a system's overall performance, as it contributes to user satisfaction, operational efficiency, and the overall success of the system. Meeting stability requirements involves ensuring that the system operates reliably and consistently, and that it can recover quickly from failures or disruptions.
 
-As a cross-functional constraint, stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. Overall, stability requires a balance of technical and non-technical factors to ensure that the system performs reliably and efficiently, and meets the needs of its users.
-
+As a cross-functional constraint, stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. 
 
 **Define stable:** <span data-chatgpt-prompt="define stable (computers and software)">In the context of computers and software, stability refers to the ability of a system to function reliably and consistently without crashing or malfunctioning under normal operating conditions. A stable computer or software is one that can effectively manage the resources it uses, handle user input, and respond to external inputs or events without causing unexpected errors or data loss. A stable system is crucial for ensuring optimal performance, user satisfaction, and data security.
 
@@ -1751,7 +1725,6 @@ Testability is a cross-functional constraint, as it requires collaboration betwe
 
 A system with good testability has a clearly defined and well-documented architecture, clean and modular code, and comprehensive test plans and procedures. It also incorporates features such as debuggers, logging, and monitoring tools to help identify and resolve issues quickly and efficiently.
 
-Overall, testability is an essential attribute of software quality that helps ensure that software is reliable, robust, and meets the needs of end users.
 
 
 **Define testable:** <span data-chatgpt-prompt="define testable (computers and software)">In the context of computers and software, testable refers to a characteristic of a program that allows it to be easily and effectively evaluated, measured, and verified through testing methods. A program or software is considered testable if it can be systematically tested and its functionality, accuracy, and performance can be measured and validated through any testing method, including automated testing. Testability is important in software development as it helps to identify defects and issues, improve software quality and reliability, and ensure that the software meets the requirements and specifications of the users.
@@ -1788,6 +1761,23 @@ Additionally, traceability can also be considered as a cross-functional constrai
 
 
 
+# Translatability
+
+**The quality/ability/extent of being translatable.**
+
+
+Translatability is a system quality attribute that refers to the ability of a system to be easily translated or localized for different languages, cultures, and regions. To achieve translatability, a system should use standard encoding and character sets, support internationalization and localization features, and provide clear documentation and resources for translators and localizers.
+
+A translatable system can help reach a wider audience and be more accessible to users from different backgrounds. It is especially important for systems that are intended for use in multiple regions or that need to support a diverse user base. By providing support for multiple languages and cultures, a system can reduce the risk of misunderstandings and errors caused by language and cultural differences, and ultimately improve the user experience.
+
+
+Translatability is a non-functional requirement that specifies the system's ability to support multiple languages, character sets, and cultural conventions.
+
+Translatability can also be a cross-functional constraint, as it requires collaboration between different functional areas, such as development, design, and localization, to ensure that the system can be easily translated and localized. It is also important for ensuring the system's usability, as it can reduce the risk of misunderstandings and errors caused by language and cultural differences.
+
+
+
+
 # Transparency
 
 **The quality/ability/extent of being transparent.**
@@ -1799,7 +1789,6 @@ As a non-functional requirement, transparency specifies that a system must be de
 
 As a cross-functional constraint, transparency can impact a range of different aspects of a system's design and implementation, from the choice of algorithms and data structures used to process information, to the level of external oversight and governance that must be put in place to ensure that the system is being used ethically and effectively.
 
-Overall, transparency is an important quality attribute that can help to promote trust and accountability in systems, particularly those that are used in sensitive or critical contexts. Investing in transparency can help to ensure that systems are designed with the needs of users and stakeholders in mind, while also promoting ethical and responsible use of data and technology.
 
 
 **Define transparent:** <span data-chatgpt-prompt="define transparent (computers and software)">In the context of computers and software, transparent means functioning in such a way that the user is not aware of its operation or inner workings. It suggests that the system operates smoothly and efficiently without causing any disruptions or requiring any special attention from the user. A transparent system is typically intuitive and user-friendly, making it easy for the user to interact with and access the information they need without any unnecessary complexity or confusion.
@@ -1817,7 +1806,6 @@ Tryability is essential because it allows developers, testers, and other stakeho
 
 Some of the key factors that determine the tryability of a system include the availability of testing tools and resources, the ease of replicating issues, the clarity and completeness of documentation, and the ease of setting up test environments.
 
-Overall, tryability is an important aspect of system quality as it enables better collaboration between different teams, reduces development time and cost, and ensures the delivery of a high-quality, reliable product.
 
 
 **Define tryable:** <span data-chatgpt-prompt="define tryable (computers and software)">As an AI language model, I cannot find the word "tryable" in any technical or computing context. Please provide more context or a specific definition if you have one.
@@ -1867,7 +1855,6 @@ Upgradability is a cross-functional constraint because it affects multiple aspec
 
 An upgradable system is desirable because it enables organizations to keep up with changing business requirements, technology advancements, and security threats. In addition, a system that is easy to upgrade can reduce the cost and effort associated with system maintenance, testing, and deployment.
 
-Overall, upgradability is a critical system quality attribute that requires careful consideration during the design and implementation of software systems.
 
 
 **Define upgradable:** <span data-chatgpt-prompt="define upgradable (computers and software)">Upgradable refers to the ability of a computer or software to be upgraded or improved with newer or better components or versions. This may involve replacing or adding hardware components such as RAM, hard drives, or graphics cards, or upgrading to a newer version of software. An upgradable system or software is designed with the flexibility to be expanded or improved over time, allowing for increased performance, functionality, or compatibility with new technologies.

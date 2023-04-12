@@ -14,4 +14,3 @@ System quality attributes (SQAs) refer to a set of characteristics that define t
 
 * Maintainability: The software's ability to be modified or updated easily to meet changing requirements. It includes attributes like scalability, modularity, and extensibility.
 
-Overall, the system quality attributes play a critical role in ensuring that computer software systems are effective, reliable, and secure, and meet the needs of their users.

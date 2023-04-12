@@ -10,7 +10,6 @@ Effectiveness is a crucial system quality attribute, as it measures the success 
 
 In addition to being a system quality attribute, effectiveness is often considered as a cross-functional constraint, as it is closely related to other quality attributes such as usability, reliability, and security. A system that is not effective in performing its tasks may also suffer from poor usability, unreliable performance, and security vulnerabilities.
 
-Overall, effectiveness is a key system quality attribute that can significantly impact the success of a system in meeting its intended goals and satisfying user needs.
 
 </span>
 

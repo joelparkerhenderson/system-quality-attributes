@@ -10,8 +10,6 @@ Deployability is considered a non-functional requirement, as it focuses on the p
 
 Deployability is also a cross-functional constraint, as it involves collaboration and coordination among various teams and stakeholders involved in the deployment process. These may include developers, operators, security experts, and end-users, who need to work together to ensure a smooth and seamless deployment experience.
 
-In summary, deployability is a critical system quality attribute that ensures that software systems can be easily and quickly deployed in various environments, without causing disruptions or requiring extensive development efforts. It is a non-functional requirement that depends on other factors such as reliability, scalability, and maintainability, and is a cross-functional constraint that requires collaboration and coordination among various teams and stakeholders.
-
 </span>
 
 **Define deployable:** <span data-chatgpt-prompt="define deployable (computers and software)">Deployable refers to computers and software that can be easily and quickly deployed or implemented in a specific environment or system. This means that the device or application can be configured and installed without requiring extensive setup or configuration, allowing for rapid deployment and scaling of a solution. These technologies are typically designed to be highly portable and modular, making them ideal for use in a variety of settings and contexts.</span>

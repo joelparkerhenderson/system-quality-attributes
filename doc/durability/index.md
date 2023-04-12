@@ -10,7 +10,6 @@ In general, a durable system is one that can continue to function as expected wi
 
 Durability is particularly important for systems that are used in high-stress environments such as industrial equipment, transportation systems, and military applications. In these contexts, a failure to meet durability requirements can result in serious consequences such as equipment malfunction, production delays, and even loss of life.
 
-Overall, durability is a critical system quality attribute that must be carefully considered and designed for in any system to ensure that it can perform reliably and safely over an extended period of time.
 
 </span>
 

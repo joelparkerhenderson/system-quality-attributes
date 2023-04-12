@@ -11,7 +11,6 @@ Installability is a cross-functional constraint that involves multiple stakehold
 
 In order to achieve high installability, software developers need to prioritize aspects like software modularity, compatibility, and simplicity, which help to streamline the installation and configuration process. Additionally, they need to provide clear and concise installation instructions and user documentation, which help users to get up and running with the software quickly and effectively.
 
-In summary, installability is a critical quality attribute that has a significant impact on the user experience and overall usability of a software application. It is an essential consideration for developers, IT operations teams, and end-users alike, and should be taken into account throughout the entire software development lifecycle.
 
 </span>
 

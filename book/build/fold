@@ -1,0 +1,25 @@
+#!/bin/sh
+set -euf
+
+TOP=$(git rev-parse --show-toplevel)
+
+input="book.yml"
+output="book.md"
+cp "$input" "$output"
+
+fold_file(){
+    {
+        printf \\n;
+        <"$TOP/$1/index.md" \
+        sed -n '/^## See Also$/q;p' |
+        sed 's/^<span [^>]*>//g; s/<\/span>//g;' | 
+        awk '!NF {if (++n <= 2) print; next}; {n=0;print}';
+        printf \\n;
+    }
+}
+
+<"$TOP/README.md" markdown-text-to-link-urls |
+grep '^doc/' |
+while read -r x; do
+    fold_file "$x" >> "$output"
+done

@@ -8,7 +8,6 @@ Securability is a system quality attribute that refers to the ability of a syste
 
 Securability is also a cross-functional constraint as it affects multiple aspects of a system, including design, development, testing, deployment, and maintenance. It requires collaboration between different stakeholders, such as developers, system administrators, security analysts, and auditors, to ensure that the system is secure throughout its entire lifecycle.
 
-Overall, securability is a critical system quality attribute that ensures the protection of a system's assets against security threats and risks. It is essential for systems that handle sensitive and confidential information or provide critical services, such as financial transactions, healthcare, and national security.
 
 </span>
 

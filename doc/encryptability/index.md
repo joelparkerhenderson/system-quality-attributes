@@ -12,8 +12,6 @@ Encryptability is also a non-functional requirement, meaning that it specifies h
 
 In addition, encryptability can be considered as a cross-functional constraint, as it may affect various aspects of a system, including performance, usability, and maintainability. Encryption processes may impact system performance by adding overhead in terms of processing power and resources. However, this overhead may be outweighed by the benefits of data security.
 
-In summary, encryptability is a critical system quality attribute, non-functional requirement, and cross-functional constraint that ensures the confidentiality and integrity of sensitive information.
-
 </span>
 
 **Define encryptable:** <span data-chatgpt-prompt="define encryptable (computers and software)">Encryptable refers to the ability to transform plain, readable information into a coded format that cannot be understood by any unauthorized party. This feature is crucial in computers and software to ensure secure communication, data protection, and privacy. Encryptable data can only be accessed with a decryption key or password, making it challenging for hackers or cybercriminals to read or manipulate the information.</span>

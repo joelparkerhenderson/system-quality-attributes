@@ -8,7 +8,6 @@ Seamlessness is a system quality attribute that refers to the smooth and coheren
 
 Seamlessness is a cross-functional constraint that involves multiple aspects of the system, such as performance, reliability, usability, and security. It encompasses features such as fast response times, high availability, ease of navigation, consistent interfaces, and secure data transfer.
 
-Overall, seamlessness aims to provide a user-friendly and engaging experience to the end-users, with minimal effort and maximum satisfaction. It is critical for systems that deal with mission-critical functions, such as financial transactions, healthcare, or emergency services, as any interruption or delay can have severe consequences.
 
 </span>
 

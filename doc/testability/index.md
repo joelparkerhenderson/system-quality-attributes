@@ -10,7 +10,6 @@ Testability is a cross-functional constraint, as it requires collaboration betwe
 
 A system with good testability has a clearly defined and well-documented architecture, clean and modular code, and comprehensive test plans and procedures. It also incorporates features such as debuggers, logging, and monitoring tools to help identify and resolve issues quickly and efficiently.
 
-Overall, testability is an essential attribute of software quality that helps ensure that software is reliable, robust, and meets the needs of end users.
 
 </span>
 

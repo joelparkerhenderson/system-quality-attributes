@@ -10,7 +10,6 @@ As a non-functional requirement, antifragility is typically related to the resil
 
 Antifragility is also a cross-functional constraint because it impacts various aspects of a system, such as its design, architecture, operations, maintenance, and security. It requires the collaboration of different teams and disciplines, such as development, testing, operations, security, and business, to ensure that the system is built, deployed, and managed in a way that enhances its antifragile properties.
 
-Overall, antifragility is a critical quality attribute that organizations should strive to achieve in modern-day systems that operate in highly dynamic and unpredictable environments. By embracing antifragility, organizations can increase their resiliency and agility, gain a competitive advantage, and improve their overall business performance.
 
 </span>
 

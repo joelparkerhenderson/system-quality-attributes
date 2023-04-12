@@ -4,21 +4,21 @@
 
 <span data-chatgpt-prompt="explain ACID, atomicity, consistency, isolation, durability (system quality attribute, non-functional requirement, cross-functional constraint )">
 
-ACID is an acronym for Atomicity, Consistency, Isolation, and Durability. It is a set of properties that guarantees reliable processing of database transactions.
+ACID is an acronym for Atomicity, Consistency, Isolation, and Durability. These properties guarantees reliable processing of data transactions.
 
-* Atomicity: the property of a transaction that ensures that either all changes made during the transaction are committed or none at all. If a transaction fails for any reason, all the changes made within it are rolled back, returning the system to its original state.
+Atomicity: the property of a transaction that ensures that either all changes made during the transaction are committed or none are. If a transaction fails, then all the changes made within it are rolled back, returning the system to its original state.
 
-* Consistency: the fact that the system's data state will remain valid before and after a transaction. This means that the rules and constraints defined in the database must be followed consistently.
+Consistency: the fact that the system's data state will remain valid before and after a transaction. The rules and constraints defined in the database must be followed consistently.
 
-* Isolation: the property that ensures that a transaction runs independently of other transactions. This is important to prevent interference from other transactions and errors that could result from concurrent access to data.
+Isolation: the property that ensures that a transaction runs independently of other transactions. This it to prevent interference from other transactions or errors due to concurrent access.
 
-* Durability: the property that guarantees that once a transaction has been committed, it is permanently saved even in the case of system failures or crashes. 
+Durability: the property that guarantees that once a transaction has been committed, it is permanently saved even in the case of system failures or crashes. 
 
 ACIDity is a system quality attribute, which is a property or characteristic of a system that describes its overall quality, especially with regard to databases and transactions.
 
-ACIDity a non-functional requirement, as it describe how the system should behave overall.  For some high scalability systems, ACID is difficult to achieve practically or cost-effectively, and may be superseded by eventual consistency.
+ACIDity a non-functional requirement, as it describes how the system should behave overall.  For some high scalability systems, ACID is difficult to achieve practically or cost-effectively, and may be superseded by eventual consistency.
 
-ACIDity is typically not an important cross-functional constraint, because in practice many organization teams agree on ACID. 
+ACIDity is typically not an important cross-functional constraint, because in practice many organizations are in favor of  ACID and using it regularly.
 
 </span>
 

@@ -8,7 +8,6 @@ Manageability is a system quality attribute that refers to the ease and efficien
 
 The manageability attribute is a cross-functional constraint that affects various aspects of a system, including its security, performance, reliability, and scalability. For example, a highly manageable system would have easy-to-use management interfaces, automatic monitoring and alert systems, and self-healing capabilities, which would help to ensure that the system is always available and responsive to user needs.
 
-In summary, manageability is an important attribute that is critical for ensuring the smooth functioning and reliable operation of a system. It is a non-functional requirement that should be considered during the design and development of a system and is a cross-functional constraint that affects various aspects of the system.
 
 </span>
 

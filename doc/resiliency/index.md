@@ -10,7 +10,6 @@ It is also considered as a non-functional requirement, as it is not related to t
 
 Resilience is often viewed as a cross-functional constraint because it impacts multiple aspects of a system, including performance, reliability, and security. It requires coordination across different functions and stakeholders to ensure that the system is able to withstand and recover from unexpected events.
 
-In summary, resilience is a critical attribute that ensures the sustainability of a system over time and across different situations. It is essential for any system performing critical functions or dealing with sensitive information.
 
 </span>
 

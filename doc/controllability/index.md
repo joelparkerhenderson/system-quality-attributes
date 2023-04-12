@@ -17,8 +17,7 @@ A system that is difficult to control and manage can lead to operational issues,
 
 </span>
 
-**Define controllable:** <span data-chatgpt-prompt="define controllable (computers and software)">In the context of computers and software, controllable refers to the ability of a user or program to manipulate and manage the behavior and operations of the system. This can include changing settings, configuring options, selecting inputs and outputs, and executing commands to achieve desired outcomes. It may also refer to the degree to which a system can be easily monitored and modified by an administrator or other authorized user. Overall, controllability is a key aspect of ensuring that a computer or software system is effective, efficient, and optimally performing its intended functions.</span>
-
+**Define controllable:** <span data-chatgpt-prompt="define controllable (computers and software)">In the context of computers and software, controllable refers to the ability of a user or program to manipulate and manage the behavior and operations of the system. This can include changing settings, configuring options, selecting inputs and outputs, and executing commands to achieve desired outcomes. It may also refer to the degree to which a system can be easily monitored and modified by an administrator or other authorized user. 
 ## See Also
 
 * [Wikipedia: Control system](https://wikipedia.org/wiki/Control_system): A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines. The control systems are designed via control engineering process.

@@ -10,7 +10,6 @@ Upgradability is a cross-functional constraint because it affects multiple aspec
 
 An upgradable system is desirable because it enables organizations to keep up with changing business requirements, technology advancements, and security threats. In addition, a system that is easy to upgrade can reduce the cost and effort associated with system maintenance, testing, and deployment.
 
-Overall, upgradability is a critical system quality attribute that requires careful consideration during the design and implementation of software systems.
 
 </span>
 

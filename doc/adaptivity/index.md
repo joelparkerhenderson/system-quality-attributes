@@ -12,9 +12,7 @@ Examples of postive-oriented adaptivity are autoscaling and elastic clouds, such
   
 Examples of negative-oriented adaptivity are throttling and backpressure, such as when a system can slow its inbound queues, as well as report the issue to upstream providers, in order to prevent overloading.
 
-Adaptivity is a cross-functional constraint, in practice, because different organization teams have different perspectives on the value of adaptivity, and it can be challenging to understand. As a typical example, a sales team may want a web sales process that is always available, even during peak usage periods that may be ten times higher than normal; this can be solved by the sales team and development team coordination on the adaptivity qualities.
-
-In summary, adaptivity is a critical system quality attribute that enables a system to remain effective and robust in the face of changes and uncertainties. It is essential for systems that operate in complex or dynamic environments and must balance competing requirements and constraints to achieve their objectives.
+Adaptivity is a cross-functional constraint, in practice, because different organization teams have different perspectives on the value of adaptivity, which can be challenging. For example, a sales team may want a website that is always available, even during 100x peak periods; this can be solved by the sales team and development team coordination on the adaptivity qualities.
 
 </span>
 

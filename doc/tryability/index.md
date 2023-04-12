@@ -10,7 +10,6 @@ Tryability is essential because it allows developers, testers, and other stakeho
 
 Some of the key factors that determine the tryability of a system include the availability of testing tools and resources, the ease of replicating issues, the clarity and completeness of documentation, and the ease of setting up test environments.
 
-Overall, tryability is an important aspect of system quality as it enables better collaboration between different teams, reduces development time and cost, and ensures the delivery of a high-quality, reliable product.
 
 </span>
 

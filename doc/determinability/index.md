@@ -10,8 +10,6 @@ Determinability is an essential system quality attribute because it enhances the
 
 To achieve determinability, software developers must design and implement robust error handling mechanisms that can detect and diagnose failures, log error messages, and provide feedback to users. Moreover, they must ensure that the system is capable of recovering from failures and that the recovery process is transparent and reliable.
 
-In summary, determinability is a system quality attribute that ensures the reliability, stability, and robustness of a system. It is a non-functional requirement that impacts various aspects of software development, including design, implementation, testing, and maintenance. Achieving determinability requires robust error handling mechanisms, fault tolerance, and reliable recovery processes.
-
 </span>
 
 **Define determinable:** <span data-chatgpt-prompt="define determinable (computers and software)">Determinable in computers and software refers to the quality of being able to be determined, resolved or ascertained. It suggests that a particular software feature, attribute or function can be clearly defined, analyzed, and measured, either by using specific tools, techniques or approaches. In other words, a determinable software component is one that can be quantified, tested, and evaluated based on certain criteria, such as performance, reliability, security, efficiency or scalability, among others. This attribute is essential in software development, as it allows developers to design, implement, and maintain software solutions that meet specific requirements and deliver measurable outcomes.</span>

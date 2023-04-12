@@ -10,7 +10,6 @@ As a non-functional requirement, modifiability specifies the system's ability to
 
 Modifiability is a cross-functional constraint because it impacts the entire software development process. Modifiability requires software engineers to focus on creating design and architecture that are flexible, scalable, and maintainable. It is important to maintain code consistency, to ensure that new features or changes can be added without breaking the existing code. Additionally, modifiability requires attention to documentation, version control, and testing to ensure that changes can be tracked, tested, and merged effectively.
 
-In summary, modifiability is a system quality attribute, a non-functional requirement, and a cross-functional constraint that requires software engineers to create software architecture and design that can evolve over time to meet changing requirements.
 
 </span>
 

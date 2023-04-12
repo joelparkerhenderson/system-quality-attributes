@@ -8,7 +8,6 @@ Scalability is a system quality attribute that refers to the ability of a system
 
 Scalability is also a cross-functional constraint that impacts various stakeholders including developers, operations, and business teams. From the development standpoint, scalable systems require robust and flexible architectures, optimized coding practices, and efficient utilization of hardware resources. From the operations side, scalable systems demand reliable infrastructures, high availability, and efficient monitoring and maintenance processes. From the business perspective, scalable systems drive revenue, customer satisfaction, and competitive advantage by enabling easy and seamless scaling without disrupting the user experience.
 
-In summary, scalability is a crucial attribute that determines the long-term viability and success of a system, application, or service. It enables businesses to grow and adapt to changing market conditions and user demands while ensuring consistent performance and reliability.</span>
 
 Scalability can be measured over multiple dimensions, such as:
 

@@ -10,7 +10,6 @@ Predictability is also a cross-functional constraint as it has an impact on vari
 
 For example, in a critical healthcare system, predictability is essential to ensure accurate and timely delivery of patient information and decision-making support. In a financial system, predictability is crucial to maintain transaction integrity and prevent fraud.
 
-Overall, predictability is an important system quality attribute that should be considered during the design and development of any system, especially in mission-critical and high-security environments.
 
 </span>
 

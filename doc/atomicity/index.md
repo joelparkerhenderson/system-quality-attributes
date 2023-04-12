@@ -8,7 +8,7 @@ Atomicity is a system quality attribute that refers to the property of a system 
 
 Atomicity is also considered a non-functional requirement because it does not deal with the specific functionalities of the system, but rather with its overall behavior and performance. It is a critical non-functional requirement for systems that handle complex transactions, such as finance and banking.
 
-Atomicity is a typically not an important cross-functional constraint, because most organizational teams want atomicity, and rely on it. However, some high-scalability systems may need to involve cross-functional contraints when the scale issues must change from atomicity to other approaches such as eventual consistency, or out-of-order event stream processing, or probability-weighted transactions.
+Atomicity can be a cross-functional constraint, because most organizational teams want atomicity, and rely on it. However, some high-scalability systems may need to change from atomicity to other approaches such as eventual consistency, or out-of-order event stream processing, or probability-weighted transactions.
 
 To achieve atomicity, a system should have mechanisms that ensure that transactions are executed reliably, securely, and consistently. These mechanisms should support rollback and recovery, isolation, and consistency of the data, and ensure that the system is fault-tolerant and available.
 

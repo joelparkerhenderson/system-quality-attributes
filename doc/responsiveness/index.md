@@ -10,7 +10,6 @@ Responsiveness is critical for many systems, especially those that require real-
 
 As a cross-functional constraint, responsiveness can impact various aspects of a system, including its architecture, design, and implementation. It may require specific technologies or approaches, such as fast processing algorithms, load-balancing techniques, or distributed system architectures, to ensure timely and reliable responses.
 
-In summary, responsiveness is a critical system quality attribute that defines the speed and efficiency of a system's responses to various inputs and stimuli. It is a non-functional requirement that can impact various aspects of a system's design and implementation and is a cross-functional constraint that affects different parts of the system.
 
 </span>
 

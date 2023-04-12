@@ -10,7 +10,6 @@ As a non-functional requirement, provability specifies that the system must be a
 
 As a cross-functional constraint, provability affects multiple aspects of the system development process, from design to implementation to testing and maintenance. It requires collaboration between different stakeholders, such as developers, testers, and auditors, to establish and verify the system's properties and assumptions.
 
-Overall, provability is an important quality attribute that ensures the reliability and trustworthiness of a system. It helps to ensure that the system behaves as expected under different conditions and provides a basis for making decisions about system design, implementation, and testing.
 
 </span>
 

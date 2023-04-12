@@ -10,7 +10,6 @@ Operability relates to the cross-functional constraints that affect the system d
 
 Operability is critical for software systems that require frequent monitoring, configuration, and maintenance. An operable system can minimize the time it takes to perform operations, troubleshoot problems, and recover from failures. It can enhance the usability of the system, reduce errors, and improve user satisfaction.
 
-In summary, operability is an essential quality attribute that ensures that the system is easy to operate, monitor, maintain, and support. It is a non-functional requirement that should be considered in the overall system design and implementation.
 
 </span>
 
