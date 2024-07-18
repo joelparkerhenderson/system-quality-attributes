@@ -118,11 +118,11 @@ Cross-cutting concerns are often implemented using aspect-oriented programming (
 
 Accessibility refers to the ability of a system to be easily accessed and used by people with disabilities or special needs. Accessibility is an important consideration for any system or application that aims to accommodate a diverse user base and promote inclusivity. It is a mandatory requirement for public sector websites and applications.
 
-As a system quality attribute, accessibility refers to the degree to which a system is designed and developed in a way that enables users with disabilities, or special needs, to access and use it. This includes a system's ability to provide alternative input and output mechanisms, such as voice commands or text-to-speech, as well as its compatibility with assistive technologies such as screen readers and Braille displays.
+**As a system quality attribute:** accessibility refers to the degree to which a system is designed and developed in a way that enables users with disabilities, or special needs, to access and use it. This includes a system's ability to provide alternative input and output mechanisms, such as voice commands or text-to-speech, as well as its compatibility with assistive technologies such as screen readers and Braille displays.
 
-As a non-functional requirement, accessibility is an essential consideration when designing and developing systems and applications that are accessible to people with disabilities. It requires a considered and strategic approach to support the different forms of accessibility.
+**As a non-functional requirement:** accessibility is an essential consideration when designing and developing systems and applications that are accessible to people with disabilities. It requires a considered and strategic approach to support the different forms of accessibility.
 
-As a cross-functional constraint, accessibility affects all aspects of the system, from design to implementation and testing. It requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines, and complies with company policies and governmental laws.
+**As a cross-functional constraint:** accessibility affects all aspects of the system, from design to implementation and testing. It requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines, and complies with company policies and governmental laws.
 
 
 **Define accessible:** <span data-chatgpt-prompt="define accessible (computers and software)">Accessible in the context of computers and software refers to ensuring that individuals with disabilities can utilize technology in the same manner as their non-disabled counterparts. This includes making digital information and technology easily accessible to people with visual, auditory, physical, or cognitive disabilities, such as by incorporating assistive technology and features into hardware and software design.
@@ -136,11 +136,11 @@ As a cross-functional constraint, accessibility affects all aspects of the syste
 
 Accountability refers to the ability of a system to have clear identification and tracking of responsibilities, actions, and outcomes related to a system or process.
 
-As a system quality attribute, accountability assesses the reliability and trustworthiness of a system, as it ensures that individuals or entities involved in a given process are responsible and answerable for their actions or decisions.
+**As a system quality attribute:** accountability assesses the reliability and trustworthiness of a system, as it ensures that individuals or entities involved in a given process are responsible and answerable for their actions or decisions.
 
-As a non-functional requirement, accountability sets expectations for the performance and security of a system, specifying that it must provide clear records and audit trails, access controls, and other measures that mitigate the risk of fraud, corruption, or errors.
+**As a non-functional requirement:** accountability sets expectations for the performance and security of a system, specifying that it must provide clear records and audit trails, access controls, and other measures that mitigate the risk of fraud, corruption, or errors.
 
-As a cross-functional constraint, accountability affects several aspects of a system's design and operation, such as governance, risk management, compliance, and legal requirements. It often involves collaboration and alignment between different stakeholders, including developers, administrators, auditors, and users, and may require specific policies, procedures, or tools to ensure its proper implementation.
+**As a cross-functional constraint:** accountability affects several aspects of a system's design and operation, such as governance, risk management, compliance, and legal requirements. It often involves collaboration and alignment between different stakeholders, including developers, administrators, auditors, and users, and may require specific policies, procedures, or tools to ensure its proper implementation.
 
 
 **Define accountable:** <span data-chatgpt-prompt="define accountable (computers and software)"> Accountable, in the context of computers and software, refers to the state or capability of a system or application to record and report on the actions of its users or components. It means that every action taken within the system or application can be traced back to the person or entity responsible for it. This can include logging user activity, tracking data changes, and maintaining an audit trail of all system events. This feature is typically implemented to ensure transparency, meet regulatory requirements, and enable effective troubleshooting and incident response.
@@ -196,7 +196,7 @@ ACIDity is typically not an important cross-functional constraint, because in pr
 
 Adaptability is a system quality attribute that refers to the ability of a system to have its users adjust or modify its behavior or structure in response to changing environmental conditions. This can include changes to the system's input or output, its user interfaces, its resources or processing capabilities, or its communication protocols.
 
-As a non-functional requirement, adaptability is a qualitative attribute that describes a system's user's ability to change the system effectively. It is often an essential consideration for systems with users who need to function under different operating conditions, where specific environmental factors (such as load fluctuation, network connectivity, and data volume) might impact system performance.
+**As a non-functional requirement:** adaptability is a qualitative attribute that describes a system's user's ability to change the system effectively. It is often an essential consideration for systems with users who need to function under different operating conditions, where specific environmental factors (such as load fluctuation, network connectivity, and data volume) might impact system performance.
 
 Adaptability is also a cross-functional constraint that can affect various parts of the system's design, including user interfaces, and data management. For example, adaptable user interfaces enable users to modify the system to accommodate changing needs. In the same way, adaptable data management should be capable of having users change data structures, data business logic, and so forth.<!--cfc-tech-->
 
@@ -283,7 +283,7 @@ Agility can also be considered a cross-functional constraint because it affects 
 
 Antifragility is a system quality attribute that refers to the ability of a system to thrive and improve under stress, shock, or change, instead of just surviving it. It is a property of systems that have the ability to constantly adapt and grow stronger in the face of volatility, uncertainty, complexity, and ambiguity of their environment.  Compare self-sustainability.
 
-As a non-functional requirement, antifragility is typically related to the resilience, reliability, and robustness of a system. It defines the system's ability to withstand unexpected or unforeseen changes in its environment, mitigate risks and failures, and recover quickly from any disruption.
+**As a non-functional requirement:** antifragility is typically related to the resilience, reliability, and robustness of a system. It defines the system's ability to withstand unexpected or unforeseen changes in its environment, mitigate risks and failures, and recover quickly from any disruption.
 
 Antifragility is also a cross-functional constraint because it impacts various aspects of a system, such as its design, architecture, operations, maintenance, and security. It requires the collaboration of different teams and disciplines, such as development, testing, operations, security, and business, to ensure that the system is built, deployed, and managed in a way that enhances its antifragile properties.
 
@@ -432,7 +432,7 @@ Configurability is a cross-functional constraint, especially when stakeholder te
 
 Consistency is a system quality attribute that denotes a requirement for a system to provide reliable and uniform behavior across different contexts and time periods.  It refers to the degree of similarity between system components, interfaces, interactions, and functionalities, which can make the system more usable, predictable, and maintainable.
 
-As a non-functional requirement, consistency is an essential aspect of the user experience, as it ensures that the system meets the users' expectations and needs without causing confusion or errors. A consistent system is more intuitive and familiar to users, reducing the learning curve and the chances of making mistakes. It also enhances transparency and accountability, enabling users to track and understand the system's behavior and outcomes.
+**As a non-functional requirement:** consistency is an essential aspect of the user experience, as it ensures that the system meets the users' expectations and needs without causing confusion or errors. A consistent system is more intuitive and familiar to users, reducing the learning curve and the chances of making mistakes. It also enhances transparency and accountability, enabling users to track and understand the system's behavior and outcomes.
 
 Consistency is also a cross-functional constraint that affects various aspects of the system development and operation, such as design, coding, testing, documentation, and maintenance. It requires cooperation and collaboration among different stakeholders, such as designers, developers, testers, users, and managers, to ensure that the system's consistency is maintained throughout its life cycle. Examples of techniques and tools that support consistency include coding standards, style guides, user feedback, version control, test automation, and change management processes.
 
@@ -504,11 +504,11 @@ Achieving correctness requires a systematic and rigorous approach to the system'
 
 Credibility is a system quality attribute, a non-functional requirement, and a cross-functional constraint in software development. It refers to the degree to which users, stakeholders, and customers can trust the system or its information. It is a measure of the system's perceived reliability, accuracy, and consistency.
 
-As a system quality attribute, credibility is essential for user satisfaction and overall system success. It is critical in domains such as healthcare, finance, and security, where incorrect information or unreliable systems can have severe consequences.
+**As a system quality attribute:** credibility is essential for user satisfaction and overall system success. It is critical in domains such as healthcare, finance, and security, where incorrect information or unreliable systems can have severe consequences.
 
-As a non-functional requirement, credibility must be addressed in the system design and implementation. The system must be designed to ensure that data is accurate and reliable, and that the user interface is user-friendly and transparent. System testing and validation are critical for verifying the credibility of the system.
+**As a non-functional requirement:** credibility must be addressed in the system design and implementation. The system must be designed to ensure that data is accurate and reliable, and that the user interface is user-friendly and transparent. System testing and validation are critical for verifying the credibility of the system.
 
-As a cross-functional constraint, credibility impacts different areas of the system, including data management, user experience, and system performance. It requires collaboration and communication across different teams, such as the development team, data management team, and quality assurance team, to ensure that credibility is maintained throughout the development lifecycle.
+**As a cross-functional constraint:** credibility impacts different areas of the system, including data management, user experience, and system performance. It requires collaboration and communication across different teams, such as the development team, data management team, and quality assurance team, to ensure that credibility is maintained throughout the development lifecycle.
 
 In conclusion, credibility is a crucial attribute for any software system. It needs to be addressed as a non-functional requirement, a system quality attribute, and a cross-functional constraint to ensure that it is maintained throughout the development lifecycle.
 
@@ -595,7 +595,7 @@ A system with high demonstrability enables users to interact and verify the syst
 
 Dependability is a system quality attribute that refers to the ability of a system to consistently and reliably perform its intended function under normal and abnormal conditions. It encompasses a range of related qualities such as reliability, availability, maintainability, safety, and security.
 
-As a non-functional requirement, Dependability sets the expectation for the system's performance in terms of reliability, availability, maintainability, safety, and security. It is a crucial factor in ensuring system usability, trustworthiness, and customer satisfaction.
+**As a non-functional requirement:** Dependability sets the expectation for the system's performance in terms of reliability, availability, maintainability, safety, and security. It is a crucial factor in ensuring system usability, trustworthiness, and customer satisfaction.
 
 Dependability is also a cross-functional constraint that affects various aspects of the system development lifecycle. It requires comprehensive design, testing, and validation of the system to ensure its reliability, availability, and safety. It may also impact the choice of technologies, standards, and techniques used in system development, testing, and maintenance.
 
@@ -664,7 +664,7 @@ Distributability refers to the capability of a system or application to be distr
 
 Distributability is a system quality attribute that emphasizes the importance of sharing workloads among different nodes or servers, thus avoiding single points of failure and reducing the risk of system downtime.
 
-As a non-functional requirement, distributability demands that the system architecture is designed in such a way that it can distribute and balance workloads efficiently without sacrificing performance or security.
+**As a non-functional requirement:** distributability demands that the system architecture is designed in such a way that it can distribute and balance workloads efficiently without sacrificing performance or security.
 
 Distributability can also be viewed as a cross-functional constraint because it affects multiple areas of the system design and implementation, such as network topology, data storage, communication protocols, and security mechanisms. Therefore, the ability to distribute a system and its components is an important consideration for architects, developers, and operations teams alike.
 
@@ -784,7 +784,7 @@ Extensibility is a cross-functional constraint as it impacts various stakeholder
 
 Failure-transparency is a system quality attribute that ensures that a system's failures are communicated to its users, administrators, and other stakeholders in a clear and timely manner. This attribute is essential for building trust in the system and fostering a culture of responsibility and accountability.
 
-As a non-functional requirement, failure-transparency specifies how a system should handle errors, exceptions, and other types of failures. It requires that the system provide detailed and accurate error messages, logs, and other diagnostic information to help users and administrators understand what went wrong and how to fix it.
+**As a non-functional requirement:** failure-transparency specifies how a system should handle errors, exceptions, and other types of failures. It requires that the system provide detailed and accurate error messages, logs, and other diagnostic information to help users and administrators understand what went wrong and how to fix it.
 
 Failure-transparency is also a cross-functional constraint, meaning that it affects multiple aspects of a system and requires collaboration across different teams and departments. For example, developers must design the system to generate informative error messages, while operations teams must ensure that logs are accessible and easy to analyze.
 
@@ -952,11 +952,11 @@ From a design perspective, instrumentability requires that a system is designed 
 
 Integrity is a system quality attribute, a non-functional requirement, and a cross-functional constraint that refers to the accuracy, consistency, and reliability of data or information in a system. It ensures that the data in the system is complete, accurate, and secure throughout its lifecycle. This is achieved through measures such as data encryption, access controls, and data validation.
 
-As a system quality attribute, integrity is an essential characteristic that determines the effectiveness and reliability of a system. It should be considered as a key requirement alongside other functional and non-functional aspects of the system. A well-designed and implemented system must have integrity to prevent errors, inaccuracies, and inconsistencies in the data.
+**As a system quality attribute:** integrity is an essential characteristic that determines the effectiveness and reliability of a system. It should be considered as a key requirement alongside other functional and non-functional aspects of the system. A well-designed and implemented system must have integrity to prevent errors, inaccuracies, and inconsistencies in the data.
 
-As a non-functional requirement, integrity specifies a system's performance, security, and usability aspects that cannot be directly measured or observed. It is typically derived from business needs and regulations that require the system to maintain the accuracy, trustworthiness, and confidentiality of data. Examples of non-functional requirements that align with integrity include data validation processes, data encryption mechanisms, system log and audit trails, and access controls and permissions.
+**As a non-functional requirement:** integrity specifies a system's performance, security, and usability aspects that cannot be directly measured or observed. It is typically derived from business needs and regulations that require the system to maintain the accuracy, trustworthiness, and confidentiality of data. Examples of non-functional requirements that align with integrity include data validation processes, data encryption mechanisms, system log and audit trails, and access controls and permissions.
 
-As a cross-functional constraint, integrity is a requirement that cuts across multiple functions and stakeholders in a system. It requires collaboration between developers, testers, security professionals, and other stakeholders to ensure that the system meets the required level of integrity. The implementation of integrity controls often requires close coordination and communication between different teams to minimize the risk of data breaches, system failures, or data loss.
+**As a cross-functional constraint:** integrity is a requirement that cuts across multiple functions and stakeholders in a system. It requires collaboration between developers, testers, security professionals, and other stakeholders to ensure that the system meets the required level of integrity. The implementation of integrity controls often requires close coordination and communication between different teams to minimize the risk of data breaches, system failures, or data loss.
 
 
 **Define integrity:** <span data-chatgpt-prompt="define integrity (computers and software)">Integrity in computers and software refers to the accuracy, consistency, and reliability of data and system operations. It involves protecting data and systems from unauthorized modification, deletion, or corruption. Maintaining the integrity of computers and software ensures that they function as intended and produce dependable results. It is crucial in areas such as data security, financial transactions, and legal documentation, where inaccurate or unreliable information can have serious consequences.
@@ -1064,9 +1064,9 @@ The manageability attribute is a cross-functional constraint that affects variou
 
 Mobility is a system quality attribute, non-functional requirement, and cross-functional constraint that refers to the ability of a system to operate or be used in different locations and by different users with different devices. It is a key feature of many modern software systems, including mobile apps, web applications, and cloud-based services.
 
-As a system quality attribute, mobility refers to the ability of a system to provide a seamless user experience across multiple devices and platforms, including smartphones, tablets, laptops, and desktop computers. This requires the system to be designed and developed with a focus on responsiveness, adaptability, and compatibility with different screen sizes and resolutions.
+**As a system quality attribute:** mobility refers to the ability of a system to provide a seamless user experience across multiple devices and platforms, including smartphones, tablets, laptops, and desktop computers. This requires the system to be designed and developed with a focus on responsiveness, adaptability, and compatibility with different screen sizes and resolutions.
 
-As a non-functional requirement, mobility specifies the performance and availability of a system when accessed from different locations and devices. This includes factors such as network connectivity, data transfer speeds, and device compatibility. To meet the mobility requirement, a system must be designed and developed to provide reliable and fast access to data and functionality regardless of the location and device of the user.
+**As a non-functional requirement:** mobility specifies the performance and availability of a system when accessed from different locations and devices. This includes factors such as network connectivity, data transfer speeds, and device compatibility. To meet the mobility requirement, a system must be designed and developed to provide reliable and fast access to data and functionality regardless of the location and device of the user.
 
 Finally, mobility is also a cross-functional constraint that affects all aspects of the development and deployment of a system. This includes factors such as security, usability, and maintainability, which must be designed and implemented with mobility in mind. For example, security measures must be implemented that allow users to access the system securely from different devices, while usability enhancements must be designed to ensure that users can easily navigate and interact with the system regardless of the device they are using.
 
@@ -1082,7 +1082,7 @@ Finally, mobility is also a cross-functional constraint that affects all aspects
 
 Modifiability is a system quality attribute that refers to the ease with which a software system can be modified or adapted to meet changing user needs or requirements.
 
-As a non-functional requirement, modifiability specifies the system's ability to be modified with minimal impact on its other functionalities, performance, and reliability. It is important for systems to be modifiable as business needs, market conditions, or technology evolves over time.
+**As a non-functional requirement:** modifiability specifies the system's ability to be modified with minimal impact on its other functionalities, performance, and reliability. It is important for systems to be modifiable as business needs, market conditions, or technology evolves over time.
 
 Modifiability is a cross-functional constraint because it impacts the entire software development process. Modifiability requires software engineers to focus on creating design and architecture that are flexible, scalable, and maintainable. It is important to maintain code consistency, to ensure that new features or changes can be added without breaking the existing code. Additionally, modifiability requires attention to documentation, version control, and testing to ensure that changes can be tracked, tested, and merged effectively.
 
@@ -1165,9 +1165,9 @@ Orthogonality is a system quality attribute that refers to the degree to which d
 
 From a software perspective, orthogonality is typically associated with the concept of modularity, where different modules or components of a system are designed to be loosely coupled and independently testable. This enables developers to work on different parts of the system in parallel, without needing to coordinate or integrate their changes as tightly.
 
-As a non-functional requirement, orthogonality is often essential for achieving other key quality attributes, such as scalability, maintainability, and extensibility. By reducing the coupling between different parts of the system, it becomes easier to scale the system horizontally, add new features or functionality, and maintain the codebase over time.
+**As a non-functional requirement:** orthogonality is often essential for achieving other key quality attributes, such as scalability, maintainability, and extensibility. By reducing the coupling between different parts of the system, it becomes easier to scale the system horizontally, add new features or functionality, and maintain the codebase over time.
 
-As a cross-functional constraint, orthogonality can impact many different aspects of system design, including architecture, interfaces, and testing strategies. It requires careful consideration of system dependencies and interactions, as well as communication and coordination among different stakeholders with different areas of expertise.
+**As a cross-functional constraint:** orthogonality can impact many different aspects of system design, including architecture, interfaces, and testing strategies. It requires careful consideration of system dependencies and interactions, as well as communication and coordination among different stakeholders with different areas of expertise.
 
 
 **Define orthogonal:** <span data-chatgpt-prompt="define orthogonal (computers and software)">In computing and software, orthogonal refers to the idea that different features or aspects of a system are independent and do not affect each other. This means that a change in one feature will not affect the behavior or function of another feature. In other words, orthogonal features should not have any dependencies or correlations with each other. This approach is often used in the design of programming languages, where orthogonal features make the language more modular, easy to use, and maintainable.
@@ -1245,7 +1245,7 @@ Additionally, process capability can be considered a cross-functional constraint
 
 Producibility is a system quality attribute which refers to the ease and efficiency with which a software system can be developed, tested, deployed and maintained. It is primarily concerned with ensuring that the software system can be feasibly and effectively produced.
 
-As a non-functional requirement, producibility is often included as part of the requirements specification for software development. It ensures that the software system can be developed and maintained within available resources, time, and budget. Additionally, it is important to understand how producibility affects the quality of the system as a whole.
+**As a non-functional requirement:** producibility is often included as part of the requirements specification for software development. It ensures that the software system can be developed and maintained within available resources, time, and budget. Additionally, it is important to understand how producibility affects the quality of the system as a whole.
 
 Producibility is also a cross-functional constraint because it affects all aspects of the software development lifecycle from the better design concept phase to the final delivery phase. Professionals from different departments, such as developers, testers, deployment engineers, and maintenance personnel must all be able to work together to ensure that the software system is not only robust and efficient but also commercially viable.
 
@@ -1263,9 +1263,9 @@ Therefore, producibility is a critical aspect of any software development projec
 
 Provability is a system quality attribute that refers to the ability of a system to provide evidence or proof that certain properties or behaviors hold or do not hold within the system. This attribute is closely related to other quality attributes such as correctness, reliability, and security.
 
-As a non-functional requirement, provability specifies that the system must be able to demonstrate its correctness or accuracy in terms of its functionality, data processing, or algorithmic behavior. This requirement often involves the use of formal verification techniques, testing methodologies, or statistical analysis to provide evidence of the system's correctness.
+**As a non-functional requirement:** provability specifies that the system must be able to demonstrate its correctness or accuracy in terms of its functionality, data processing, or algorithmic behavior. This requirement often involves the use of formal verification techniques, testing methodologies, or statistical analysis to provide evidence of the system's correctness.
 
-As a cross-functional constraint, provability affects multiple aspects of the system development process, from design to implementation to testing and maintenance. It requires collaboration between different stakeholders, such as developers, testers, and auditors, to establish and verify the system's properties and assumptions.
+**As a cross-functional constraint:** provability affects multiple aspects of the system development process, from design to implementation to testing and maintenance. It requires collaboration between different stakeholders, such as developers, testers, and auditors, to establish and verify the system's properties and assumptions.
 
 
 
@@ -1314,11 +1314,11 @@ Refactoring is an essential activity in software development that helps to impro
 
 Relevancy, in the context of software development, refers to the degree to which a system meets the user's needs, expectations, and goals. Relevancy is essential in developing high-quality software that fulfills the intended purpose and satisfies the stakeholders. Depending on the perspective, relevancy can be seen as a system quality attribute, a non-functional requirement, or a cross-functional constraint.
 
-As a system quality attribute, relevancy measures the degree to which a system is fit for its intended use. It considers whether the system's features and functionalities are relevant to its users, whether its outputs provide value to the business, and whether it supports the organization's goals and strategies. A system that lacks relevancy may be difficult to use, lack user adoption, or fail to meet the desired business outcomes.
+**As a system quality attribute:** relevancy measures the degree to which a system is fit for its intended use. It considers whether the system's features and functionalities are relevant to its users, whether its outputs provide value to the business, and whether it supports the organization's goals and strategies. A system that lacks relevancy may be difficult to use, lack user adoption, or fail to meet the desired business outcomes.
 
-As a non-functional requirement, relevancy defines the quality attributes that quantify the system's ability to meet its user needs, such as usability, efficiency, and effectiveness. User feedback and observation may help in determining the necessary non-functional requirements that support relevancy. For example, the system may need to be responsive and fast, error-free, secure and scalable, and allow for seamless integration with other software or hardware tools.
+**As a non-functional requirement:** relevancy defines the quality attributes that quantify the system's ability to meet its user needs, such as usability, efficiency, and effectiveness. User feedback and observation may help in determining the necessary non-functional requirements that support relevancy. For example, the system may need to be responsive and fast, error-free, secure and scalable, and allow for seamless integration with other software or hardware tools.
 
-As a cross-functional constraint, relevancy influences how different parts of the system interoperate and affects the overall software architecture. It considers the necessary trade-offs when different stakeholders have different goals or infrastructural constraints such as resource limitations. The design and development team may need to ensure that the system is adaptable to different user scenarios, locations, and usage demands.
+**As a cross-functional constraint:** relevancy influences how different parts of the system interoperate and affects the overall software architecture. It considers the necessary trade-offs when different stakeholders have different goals or infrastructural constraints such as resource limitations. The design and development team may need to ensure that the system is adaptable to different user scenarios, locations, and usage demands.
 
 
 
@@ -1350,7 +1350,7 @@ In conclusion, reliability is a fundamental aspect of system quality, and it aff
 
 Repeatability is a system quality attribute, which refers to the ability of a system or process to produce consistent results every time it is executed or carried out. Essentially, repeatability ensures that the system delivers accurate and predictable results, with a relatively low margin of error, regardless of the inputs or conditions present.
 
-As a system quality attribute, repeatability is an important consideration for any system or process that requires a high level of precision, accuracy, and consistency, such as in manufacturing, scientific research, or financial forecasting. In these domains, even slight variations in results can have significant consequences, making repeatability a critical requirement.
+**As a system quality attribute:** repeatability is an important consideration for any system or process that requires a high level of precision, accuracy, and consistency, such as in manufacturing, scientific research, or financial forecasting. In these domains, even slight variations in results can have significant consequences, making repeatability a critical requirement.
 
 Repeatability can be a cross-functional constraint, as it can have implications for multiple areas of a system or process, including design, development, testing, and maintenance. To ensure high repeatability, specific design and development practices may need to be implemented, and rigorous testing and quality control measures may need to be put in place.
 
@@ -1403,7 +1403,7 @@ Responsiveness is a system quality attribute that refers to how quickly and reli
 
 Responsiveness is critical for many systems, especially those that require real-time processing or that serve high-traffic environments, such as e-commerce sites or online gaming platforms. It can also be important in safety-critical applications, such as aviation control systems or medical equipment, where the speed of a response can impact the safety of people or equipment.
 
-As a cross-functional constraint, responsiveness can impact various aspects of a system, including its architecture, design, and implementation. It may require specific technologies or approaches, such as fast processing algorithms, load-balancing techniques, or distributed system architectures, to ensure timely and reliable responses.
+**As a cross-functional constraint:** responsiveness can impact various aspects of a system, including its architecture, design, and implementation. It may require specific technologies or approaches, such as fast processing algorithms, load-balancing techniques, or distributed system architectures, to ensure timely and reliable responses.
 
 
 
@@ -1554,7 +1554,7 @@ Self-sustainability refers to the ability of a system to maintain its intended f
 
 Self-sustainability is a system quality attribute that focuses on the system's ability to sustain itself over time, even as its environment and circumstances change. Self-sustainability is a non-functional requirement, which means that it does not relate to the system's specific functionality but rather to how the system operates.
 
-As a cross-functional constraint, self-sustainability impacts multiple parts of a system and requires coordination and cooperation among various stakeholders. For example, a self-sustaining system may require the use of renewable energy sources or recycling of materials to reduce waste and minimize external support. It may involve the use of automation and smart technology to optimize energy efficiency and reduce maintenance needs.
+**As a cross-functional constraint:** self-sustainability impacts multiple parts of a system and requires coordination and cooperation among various stakeholders. For example, a self-sustaining system may require the use of renewable energy sources or recycling of materials to reduce waste and minimize external support. It may involve the use of automation and smart technology to optimize energy efficiency and reduce maintenance needs.
 
 
 
@@ -1609,11 +1609,11 @@ Some examples of serviceability requirements include:
 
 Simplicity is a system quality attribute, cross-functional constraint, and non-functional requirement that refers to the ease of understanding and using a system. It is the degree to which a system is easy to use, learn, and maintain. The simplicity of a system can be measured by the amount of effort required to accomplish tasks or the number of steps required to complete a task.
 
-As a system quality attribute, simplicity is a desirable characteristic of a system because it allows users to quickly and efficiently accomplish their goals without the need for extensive training or specialized knowledge. A system that is too complex or difficult to use can result in frustrated users, decreased efficiency, and increased errors.
+**As a system quality attribute:** simplicity is a desirable characteristic of a system because it allows users to quickly and efficiently accomplish their goals without the need for extensive training or specialized knowledge. A system that is too complex or difficult to use can result in frustrated users, decreased efficiency, and increased errors.
 
-As a cross-functional constraint, simplicity imposes limitations on the design and development of a system. It requires the involvement and input of multiple stakeholders, including users, developers, and designers to ensure that the system is both functional and easy to use.
+**As a cross-functional constraint:** simplicity imposes limitations on the design and development of a system. It requires the involvement and input of multiple stakeholders, including users, developers, and designers to ensure that the system is both functional and easy to use.
 
-As a non-functional requirement, simplicity is a design parameter that must be considered when developing a system. It must be defined in clear and measurable terms, and the system must be tested to ensure that it meets the defined requirements. Simplicity is often measured in terms of user satisfaction, efficiency, and effectiveness.
+**As a non-functional requirement:** simplicity is a design parameter that must be considered when developing a system. It must be defined in clear and measurable terms, and the system must be tested to ensure that it meets the defined requirements. Simplicity is often measured in terms of user satisfaction, efficiency, and effectiveness.
 
 
 **Define simple:** <span data-chatgpt-prompt="define simple (computers and software)">Simple in the context of computers and software refers to something that is easy to use, understand, and learn. It is typically designed to be user-friendly and intuitive, with a minimal learning curve. A simple software program or application is often characterized by a clean and uncluttered user interface, streamlined functionality, and straightforward navigation. Similarly, simple hardware components are usually uncomplicated in design and assembly, with minimal components and easy assembly instructions. 
@@ -1626,9 +1626,9 @@ As a non-functional requirement, simplicity is a design parameter that must be c
 
 Stability is a system quality attribute that refers to the ability of a system to maintain a steady and consistent performance level, even under high loads, stresses or unexpected events. In other words, stability ensures that a system has the capacity to resist failures, crashes, and other disruptions that may occur due to a variety of factors, such as insufficient resources, network glitches, or security breaches.
 
-As a non-functional requirement, stability is a critical aspect of a system's overall performance, as it contributes to user satisfaction, operational efficiency, and the overall success of the system. Meeting stability requirements involves ensuring that the system operates reliably and consistently, and that it can recover quickly from failures or disruptions.
+**As a non-functional requirement:** stability is a critical aspect of a system's overall performance, as it contributes to user satisfaction, operational efficiency, and the overall success of the system. Meeting stability requirements involves ensuring that the system operates reliably and consistently, and that it can recover quickly from failures or disruptions.
 
-As a cross-functional constraint, stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. 
+**As a cross-functional constraint:** stability requires the collaboration and cooperation of different functional teams, such as software development, infrastructure, security, and testing. Achieving stability involves taking a holistic approach to system design and development, which considers the various factors that can impact system performance, including resource availability, network topology, software architecture, and user behavior. 
 
 **Define stable:** <span data-chatgpt-prompt="define stable (computers and software)">In the context of computers and software, stability refers to the ability of a system to function reliably and consistently without crashing or malfunctioning under normal operating conditions. A stable computer or software is one that can effectively manage the resources it uses, handle user input, and respond to external inputs or events without causing unexpected errors or data loss. A stable system is crucial for ensuring optimal performance, user satisfaction, and data security.
 
@@ -1641,11 +1641,11 @@ As a cross-functional constraint, stability requires the collaboration and coope
 
 Standards compliance refers to the extent to which a system adheres to established guidelines, regulations, or frameworks that dictate how software should be designed, developed, and deployed. This is important because it ensures that the system meets certain levels of quality, interoperability, security, and reliability, among other characteristics that are critical to successful system performance.
 
-As a system quality attribute, standards compliance is concerned with how well a system meets specific requirements that are imposed by regulatory bodies, industry consortia, or other authoritative organizations. For example, a system that complies with the ISO/IEC 27001 standard for information security management demonstrates its ability to safeguard sensitive data and maintain the confidentiality, integrity, and availability of information across the enterprise.
+**As a system quality attribute:** standards compliance is concerned with how well a system meets specific requirements that are imposed by regulatory bodies, industry consortia, or other authoritative organizations. For example, a system that complies with the ISO/IEC 27001 standard for information security management demonstrates its ability to safeguard sensitive data and maintain the confidentiality, integrity, and availability of information across the enterprise.
 
-As a non-functional requirement, standards compliance represents a set of criteria that the system must meet in order to be considered acceptable for deployment. Non-functional requirements are not features or functionalities per se, but rather operational characteristics, such as performance, scalability, maintainability, and usability, that must be satisfied in order to ensure successful system operation.
+**As a non-functional requirement:** standards compliance represents a set of criteria that the system must meet in order to be considered acceptable for deployment. Non-functional requirements are not features or functionalities per se, but rather operational characteristics, such as performance, scalability, maintainability, and usability, that must be satisfied in order to ensure successful system operation.
 
-As a cross-functional constraint, standards compliance reflects the need for multiple system components, modules, or subsystems to work together seamlessly and in conformity with a set of predefined rules or procedures. This may require the use of specific data formats, communication protocols, or other mechanisms that facilitate interoperability and communication between different system elements. For example, a system that complies with the HL7 standard for healthcare data exchange can seamlessly share patient information across different provider organizations, enabling better coordinated and more efficient care.
+**As a cross-functional constraint:** standards compliance reflects the need for multiple system components, modules, or subsystems to work together seamlessly and in conformity with a set of predefined rules or procedures. This may require the use of specific data formats, communication protocols, or other mechanisms that facilitate interoperability and communication between different system elements. For example, a system that complies with the HL7 standard for healthcare data exchange can seamlessly share patient information across different provider organizations, enabling better coordinated and more efficient care.
 
 
 **Define standards:** <span data-chatgpt-prompt="define standards compliance (computers and software)">Standards compliance in the context of computers and software refers to the extent to which a product or system adheres to recognized norms or best practices. Compliance with standards can ensure that software and hardware components are interoperable, reliable, and secure. Standards compliance may include adherence to technical specifications, industry-specific regulations or requirements, and compatibility with other systems, platforms, or devices. In addition, compliance with standards may be required to protect against legal liabilities, ensure data privacy, and achieve industry certifications or accreditations.
@@ -1785,9 +1785,9 @@ Translatability can also be a cross-functional constraint, as it requires collab
 
 Transparency is a system quality attribute that refers to the ability of a system to provide visibility and clarity into its operations, internal workings, and decision-making processes. It is often used to promote trust and accountability in systems, particularly those that are used by multiple stakeholders or that involve significant amounts of data or decision-making.
 
-As a non-functional requirement, transparency specifies that a system must be designed and implemented in such a way that it allows users to easily access, understand, and verify its output and decision-making processes. This can include providing detailed documentation, clear user interfaces, and audit trails that allow users to track how data is being processed and how decisions are being made.
+**As a non-functional requirement:** transparency specifies that a system must be designed and implemented in such a way that it allows users to easily access, understand, and verify its output and decision-making processes. This can include providing detailed documentation, clear user interfaces, and audit trails that allow users to track how data is being processed and how decisions are being made.
 
-As a cross-functional constraint, transparency can impact a range of different aspects of a system's design and implementation, from the choice of algorithms and data structures used to process information, to the level of external oversight and governance that must be put in place to ensure that the system is being used ethically and effectively.
+**As a cross-functional constraint:** transparency can impact a range of different aspects of a system's design and implementation, from the choice of algorithms and data structures used to process information, to the level of external oversight and governance that must be put in place to ensure that the system is being used ethically and effectively.
 
 
 
@@ -1819,7 +1819,7 @@ Some of the key factors that determine the tryability of a system include the av
 
 Ubiquity is a system quality attribute that refers to the ability of a system to be available and accessible across different devices, platforms, and locations. It is important for modern systems that need to be accessible anytime and anywhere.
 
-As a non-functional requirement, ubiquity sets the standard for the reliability and availability of a system. It ensures that a system is always reachable and responsive to users' needs. This can be achieved through redundancy, load balancing, and other measures that maintain system availability.
+**As a non-functional requirement:** ubiquity sets the standard for the reliability and availability of a system. It ensures that a system is always reachable and responsive to users' needs. This can be achieved through redundancy, load balancing, and other measures that maintain system availability.
 
 Ubiquity can also be a cross-functional constraint, meaning that it affects multiple aspects of a system's design and development. For example, a system that needs to be available on both desktop and mobile platforms may require different user interfaces and architectures to achieve ubiquity. Thus, cross-disciplinary collaboration and communication are essential in designing and implementing a system with strong ubiquity.
 
@@ -1882,7 +1882,7 @@ Moreover, usability is a cross-functional constraint, which means that it affect
 **The quality/ability/extent of being scalable within one provider, such as by adding processors, memory, or storage.**
 
 <span data-chatgpt-prompt="explain vertical scalability
- (system quality attribute, non-functional requirement, cross-functional constraint )">
+ (system quality attribute, non-functional requirement, cross-functional constraint)">
 
 Vertical scalability refers to the ability of a system to handle an increasing workload by adding more resources to a single node or machine, such as adding more CPUs or RAM to a server. It is a system quality attribute, as it defines the ability of the system to function properly under increased workload.
 
