@@ -1,0 +1,37 @@
+# {X} (system quality attribute, non-functional requirement, cross-functional constraint)
+
+**{X}** in systems refers to ...
+
+### System Quality Attribute
+
+As a **system quality attribute**, {x} ...
+
+#### Key Aspects:
+- 
+- 
+- 
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), {x} ...
+
+#### Key Aspects:
+- 
+- 
+- 
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, {x} ...
+
+#### Key Aspects:
+- 
+- 
+- 
+
+### Implementing {X}
+
+To implement {x} ...
+- 
+- 
+- 
