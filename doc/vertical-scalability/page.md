@@ -1,6 +1,6 @@
 # Vertical scalability
 
-**The quality/ability/extent of being scalable within one provider, such as by adding processors, memory, or storage.**
+**The quality/ability/extent of being scalable within one provider, such as by adding processors, memory, or storage; contrast horizontal scalability.**
 
 <span data-chatgpt-prompt="explain vertical scalability
  (system quality attribute, non-functional requirement, cross-functional constraint)">

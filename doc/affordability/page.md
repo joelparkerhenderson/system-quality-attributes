@@ -1,6 +1,6 @@
 # Affordability
 
-**The quality/ability/extent of being afforable.**
+**The quality/ability/extent of being affordable.**
 
 <span data-chatgpt-prompt="explain affordability (system quality attribute, non-functional requirement, cross-functional constraint)">
 

@@ -4,15 +4,17 @@
 
 <span data-chatgpt-prompt="explain blastability (system quality attribute, non-functional requirement, cross-functional constraint)">
 
-Availability is a system quality attribute that refers to the ability of a system or application to be accessible and operational for use. It indicates the percentage of time that a system or application remains available and responsive to user requests.
+Blastability in the context of software engineering and system design refers to the system's ability to withstand sudden, high-impact events or changes without significant degradation in performance or availability. This concept can be crucial for systems that need to remain operational under extreme conditions, such as cyber-attacks, unexpected load spikes, or catastrophic failures.
 
-Availability is a non-functional requirement, which means that it is a specification of how the system should behave rather than what it should do. It is an important factor for systems that require high up-times, such as critical systems in healthcare, finance, or transportation. To maintain high availability, systems need to be designed with redundancy, fault-tolerance, and disaster recovery mechanisms. They also need to be monitored and maintained regularly to ensure that any issues are identified and resolved quickly. High availability (HA) is an important topic in system architecture and testing.
+Blastability is a system quality attribute that describes a characteristic of the system that contributes to its overall resilience and robustness. Quality attributes like reliability, scalability, and security collectively define the system's performance and user experience under various conditions. Blastability specifically addresses the system's capability to endure and recover from high-impact disruptions.
 
-Availability is a cross-functional constraint, primarily because it affects the user experience and overall satisfaction. For example, when a system has availability problems, then users may complain, or take up extra support resources, or cancel subscriptions.
+Blastability is a non-functional requirement (NFR) because it specifies criteria that judge the operation of a system, rather than specific behaviors or functions. It defines how the system performs under specific conditions rather than what it does.
+
+Blastability is a cross-functional constraint because it affects multiple areas of system design and development, requiring collaboration across different teams and disciplines. This attribute imposes constraints that must be considered by architects, developers, testers, and operations teams.
 
 </span>
 
-**Define available:** <span data-chatgpt-prompt="define blastable (computers and software)"></span>
+**Define blastable:** <span data-chatgpt-prompt="define blastable (computers and software)"></span>
 
 ## See Also
 
