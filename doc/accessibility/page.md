@@ -4,11 +4,15 @@
 
 <span data-chatgpt-prompt="explain accessibility (system quality attribute, non-functional requirement, cross-functional constraint)">
 
-Accessibility is a system quality attribute that refers to people with disabilities or special needs being able to effectively use a system. Accessibility helps accommodate a diverse user base and helps promote inclusivity. Accessibility typically includes a system's ability to provide alternative input and output mechanisms, such as voice commands or text-to-speech, as well compatibility with assistive technologies such as screen readers and Braille displays.
+**Accessibility** refers to the design of products, devices, services, or environments so they are usable by people with the widest range of abilities. In the context of systems, accessibility ensures that applications can be effectively used by everyone, including people with disabilities.
 
-Accessibility is a non-functional requirement for consideration when designing and developing systems and applications that are accessible to people with disabilities. Accessibility is a mandatory governmental legal requirement for websites and applications in many jurisdictions.
+As a **system quality attribute**, accessibility defines how well a system can be used by individuals with diverse abilities, ensuring inclusivity.
 
-Accessibility is a cross-functional constraint because it requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines, and complies with company policies and governmental laws.
+As a **non-functional requirement**, accessibility specifies the conditions under which the system must operate to be considered accessible. It defines the system's ability to support users with disabilities.
+
+As a **cross-functional constraint**, accessibility impacts various aspects of system design and development, requiring collaboration across multiple teams to ensure a cohesive and comprehensive approach.
+
+To **implement**, accessibility key aspects are guideline adherence, user research, assistive technologies, and inclusive design.
 
 </span>
 

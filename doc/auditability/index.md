@@ -42,10 +42,6 @@ To implement auditability, several strategies can be employed:
 - **Automated Monitoring**: Use automated monitoring tools to continuously review logs for suspicious activities or compliance issues.
 - **Regular Audits**: Conduct regular audits to ensure that the system's auditability features are functioning correctly and that logs are being properly maintained.
 
-### Conclusion
-
-Auditability is a critical attribute for systems that require transparency, accountability, and regulatory compliance. By addressing auditability as a system quality attribute, a non-functional requirement, and a cross-functional constraint, organizations can develop systems that ensure all actions are traceable and verifiable. This maintains the integrity of the system, supports security and compliance efforts, and provides valuable insights for improving system operations. Ensuring auditability involves comprehensive logging, robust access controls, and regular audits to verify that the system accurately tracks and records all relevant activities.
-
 </span>
 
 **Define auditable:** <span data-chatgpt-prompt="define auditable (computers and software)">Auditable refers to the capability of tracking events or changes in a system, so the tracking can be reviewed later for compliance, security, or regulatory purposes.</span>

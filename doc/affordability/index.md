@@ -1,6 +1,7 @@
 # Affordability
 
 **The quality/ability/extent of being affordable.**
+**The quality/ability/extent of being affordable.**
 
 <span data-chatgpt-prompt="affordability + template">
 
@@ -42,10 +43,6 @@ To implement affordability, several strategies can be employed:
 - **Cloud Services**: Leverage cloud services for scalable and cost-effective infrastructure solutions.
 - **Energy Efficiency**: Design the system for energy efficiency to reduce ongoing operational costs.
 - **Vendor Negotiation**: Negotiate with vendors for better pricing and support terms to reduce acquisition and maintenance costs.
-
-### Conclusion
-
-Affordability is a critical attribute for ensuring that software systems deliver value within budgetary constraints. By addressing affordability as a system quality attribute, a non-functional requirement, and a cross-functional constraint, organizations can develop systems that are cost-effective throughout their lifecycle. This ensures that the system provides maximum value at a reasonable cost, supporting the financial goals of the organization while maintaining high standards of performance and reliability.
 
 </span>
 
