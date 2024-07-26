@@ -2,14 +2,49 @@
 
 **The quality/ability/extent of being resilient.**
 
-<span data-chatgpt-prompt="explain resilience (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="resiliency + template">
 
-Resilience is a system quality attribute that refers to the ability of a system to recover quickly and effectively from disruptions or failures.
+**Resiliency** in systems refers to the ability of a system to recover quickly from disruptions, maintain continuous operation in the face of failures, and adapt to adverse conditions without compromising service quality.
 
-It is also considered as a non-functional requirement, as it is not related to the functional behavior of the system but rather its ability to accommodate change and maintain its performance under different conditions.
+### System Quality Attribute
 
-Resilience is often viewed as a cross-functional constraint because it impacts multiple aspects of a system, including performance, reliability, and security. It requires coordination across different functions and stakeholders to ensure that the system is able to withstand and recover from unexpected events.
+As a **system quality attribute**, resiliency emphasizes the system's capacity to withstand and recover from failures or unexpected conditions, ensuring continuous and reliable operation.
 
+#### Key Aspects:
+- **Fault Tolerance:** The ability of the system to continue operating properly in the event of the failure of some of its components.
+- **Recovery:** The speed and effectiveness with which the system can return to normal operation after a disruption.
+- **Robustness:** The strength and stability of the system under stress, including its capacity to handle unexpected inputs or conditions.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), resiliency defines the standards and conditions that enable the system to be robust and recoverable, ensuring it can maintain service quality under adverse conditions.
+
+#### Key Aspects:
+- **Redundancy:** Incorporating duplicate components and pathways to eliminate single points of failure.
+- **Monitoring and Alerts:** Implementing continuous monitoring systems to detect issues promptly and trigger alerts for rapid response.
+- **Backup and Restore:** Ensuring that data and system states are regularly backed up and can be quickly restored after a failure.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, resiliency imposes requirements that impact various aspects of the system, ensuring that all components and processes are designed to support the system's ability to withstand and recover from disruptions.
+
+#### Key Aspects:
+- **Security:** Protecting against security breaches that could compromise system integrity and ensuring resilience against attacks.
+- **Performance:** Maintaining acceptable performance levels during and after disruptions, avoiding significant degradation in service.
+- **Scalability:** Ensuring that the system can handle increased load or complexity without compromising its resilience.
+
+### Implementing Resiliency
+
+To implement resiliency in a system, consider the following steps:
+- **Design for Redundancy:** Incorporate redundant components and pathways to ensure no single point of failure can bring down the system.
+- **Implement Continuous Monitoring:** Establish comprehensive monitoring to track system health and performance, detecting issues before they become critical.
+- **Automate Failover and Recovery:** Develop automated processes for failover and recovery to minimize downtime and human intervention.
+- **Regularly Test Recovery Procedures:** Conduct regular drills and tests of recovery procedures to ensure they are effective and that staff are prepared for real incidents.
+- **Ensure Robust Security Measures:** Implement strong security protocols to protect against attacks and ensure the system can recover quickly if breached.
+- **Maintain Comprehensive Backups:** Regularly back up critical data and system states, ensuring that backups are secure and can be quickly restored.
+- **Document Resilience Plans:** Create and maintain detailed documentation of resilience plans, including response protocols and contact information for key personnel.
+
+By focusing on these aspects and steps, systems can achieve high resiliency, ensuring they remain operational and maintain service quality even in the face of disruptions and adverse conditions.
 
 </span>
 

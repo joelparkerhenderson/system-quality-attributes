@@ -2,15 +2,44 @@
 
 **The quality/ability/extent of having integrity. <!-- TODO -->**
 
-<span data-chatgpt-prompt="explain integrity (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="integrity + template">
 
-Integrity is a system quality attribute, a non-functional requirement, and a cross-functional constraint that refers to the accuracy, consistency, and reliability of data or information in a system. It ensures that the data in the system is complete, accurate, and secure throughout its lifecycle. This is achieved through measures such as data encryption, access controls, and data validation.
+**Integrity** in systems refers to the accuracy, consistency, and trustworthiness of data and processes within the system. It ensures that data remains correct and unaltered from unauthorized modifications or corruption, and that the system functions as intended without unintended alterations.
 
-**As a system quality attribute:** integrity is an essential characteristic that determines the effectiveness and reliability of a system. It should be considered as a key requirement alongside other functional and non-functional aspects of the system. A well-designed and implemented system must have integrity to prevent errors, inaccuracies, and inconsistencies in the data.
+### System Quality Attribute
 
-**As a non-functional requirement:** integrity specifies a system's performance, security, and usability aspects that cannot be directly measured or observed. It is typically derived from business needs and regulations that require the system to maintain the accuracy, trustworthiness, and confidentiality of data. Examples of non-functional requirements that align with integrity include data validation processes, data encryption mechanisms, system log and audit trails, and access controls and permissions.
+As a **system quality attribute**, integrity focuses on maintaining the correctness and reliability of data and processes. It ensures that data remains accurate and consistent throughout its lifecycle and that operations are executed correctly according to specifications.
 
-**As a cross-functional constraint:** integrity is a requirement that cuts across multiple functions and stakeholders in a system. It requires collaboration between developers, testers, security professionals, and other stakeholders to ensure that the system meets the required level of integrity. The implementation of integrity controls often requires close coordination and communication between different teams to minimize the risk of data breaches, system failures, or data loss.
+#### Key Aspects:
+- **Data Accuracy**: Ensuring that data is precise and reflects the real-world values it represents.
+- **Consistency**: Maintaining uniformity of data across different parts of the system and between various system states.
+- **Protection from Unauthorized Changes**: Safeguarding data and processes from unauthorized or unintended modifications, ensuring that changes are made only through proper channels.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), integrity defines the expectations for how data and operations are protected from corruption, loss, or unauthorized alterations. It is critical for ensuring that the system delivers reliable and accurate results.
+
+#### Key Aspects:
+- **Data Validation**: Implementing mechanisms to verify the correctness and validity of data inputs and outputs.
+- **Error Handling**: Establishing procedures for detecting and addressing errors or inconsistencies in data and operations.
+- **Access Control**: Defining and enforcing rules to control who can access and modify data, ensuring that only authorized users can make changes.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, integrity impacts various aspects of system design and operation. It requires coordination across different teams and systems to ensure that data and processes remain accurate and reliable.
+
+#### Key Aspects:
+- **System Design**: Designing the system with built-in checks and balances to maintain data integrity throughout its lifecycle.
+- **Security**: Implementing robust security measures to prevent unauthorized access and modifications that could compromise data integrity.
+- **Testing and Validation**: Performing rigorous testing to identify and address potential integrity issues, ensuring that the system behaves as expected in all scenarios.
+
+### Implementing Integrity
+
+To implement integrity:
+- **Data Validation and Verification**: Incorporate mechanisms for validating and verifying data inputs and outputs. Use checksums, hash functions, or other techniques to ensure data integrity.
+- **Access Control Measures**: Establish and enforce strict access control policies to prevent unauthorized access and modifications. Use authentication and authorization mechanisms to ensure that only authorized users can make changes.
+- **Error Detection and Handling**: Develop robust error detection and handling procedures to identify and correct inconsistencies or errors. Implement logging and monitoring to track and respond to integrity issues.
+- **Regular Audits and Reviews**: Conduct regular audits and reviews of data and processes to ensure ongoing compliance with integrity requirements. Periodically test the system to identify and address potential vulnerabilities.
 
 </span>
 

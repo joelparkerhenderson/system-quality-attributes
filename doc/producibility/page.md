@@ -1,6 +1,6 @@
 # Producibility
 
-**The quality/ability/extent of being producable.**
+**The quality/ability/extent of being producible.**
 
 <span data-chatgpt-prompt="explain Producibility (system quality attribute, non-functional requirement, cross-functional constraint)">
 
@@ -14,7 +14,7 @@ Therefore, producibility is a critical aspect of any software development projec
 
 </span>
 
-**Define producable:** <span data-chatgpt-prompt="define producable (computers and software)">Producible refers to the ability of a computer or software program to be manufactured or developed within relevant technological constraints, in a cost-effective manner, and within a defined timeframe. It involves ensuring that the technology and resources required to create the product are available, and that the design and manufacturing processes are optimized to achieve efficient production. In the context of software development, producibility also includes considerations such as coding standards, testing procedures, and documentation practices to ensure that the final product is functional, reliable, and maintainable.</span>
+**Define producible:** <span data-chatgpt-prompt="define producible (computers and software)">Producible refers to the ability of a computer or software program to be manufactured or developed within relevant technological constraints, in a cost-effective manner, and within a defined timeframe. It involves ensuring that the technology and resources required to create the product are available, and that the design and manufacturing processes are optimized to achieve efficient production. In the context of software development, producibility also includes considerations such as coding standards, testing procedures, and documentation practices to ensure that the final product is functional, reliable, and maintainable.</span>
 
 ## See Also
 

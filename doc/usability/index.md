@@ -2,13 +2,49 @@
 
 **The quality/ability/extent of being usable.**
 
-<span data-chatgpt-prompt="explain usability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="usability + template">
 
-Usability is a system quality attribute, which means that it is a characteristic or property of a system that determines its ability to meet user needs and expectations. Usability refers to how easy and intuitive it is for users to interact with a system and accomplish their tasks, without experiencing frustration or confusion.
+# Usability (system quality attribute, non-functional requirement, cross-functional constraint)
 
-Usability is also considered a non-functional requirement, which are requirements that specify how the system should behave, rather than what functions it should perform. Non-functional requirements are important because they influence the overall performance, reliability, and maintainability of the system.
+**Usability** in systems refers to the ease with which users can learn, navigate, and efficiently interact with the system to achieve their objectives. It encompasses the design, functionality, and overall user experience of the system.
 
-Moreover, usability is a cross-functional constraint, which means that it affects multiple aspects of the system, including the user interface design, system architecture, development methodology, and testing procedures. Usability is a constraint because it sets limits on how the system can be designed and developed to ensure that it meets the needs and expectations of its users.
+### System Quality Attribute
+
+As a **system quality attribute**, usability ensures that the system is user-friendly, intuitive, and accessible, allowing users to effectively and efficiently achieve their goals.
+
+#### Key Aspects:
+- **Learnability**: How easy it is for new users to understand and begin using the system.
+- **Efficiency**: The speed and ease with which users can complete tasks once they have learned the system.
+- **Satisfaction**: The degree to which users are satisfied with the system, including their comfort and perceived utility.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), usability defines the standards and criteria for creating a user-friendly system. It specifies how the system should be designed to be easy to learn, efficient to use, and satisfying for users.
+
+#### Key Aspects:
+- **Intuitive Design**: Creating interfaces that are easy to understand and navigate without extensive training or documentation.
+- **Accessibility**: Ensuring the system is accessible to users with various disabilities, following guidelines such as WCAG.
+- **User Feedback**: Incorporating user feedback into the design and improvement processes to enhance usability.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, usability affects various aspects of system design, development, and operation. It requires collaboration across different teams to ensure that the system meets user expectations and provides a positive user experience.
+
+#### Key Aspects:
+- **User-Centered Design**: Involving users in the design and testing phases to ensure the system meets their needs and preferences.
+- **Consistent User Interface**: Maintaining consistency in design elements and interactions to reduce the learning curve.
+- **Continuous Improvement**: Regularly updating and refining the system based on user feedback and usability testing.
+
+### Implementing Usability
+
+To implement usability, the following steps should be taken:
+- **Conduct User Research**: Understand the needs, preferences, and challenges of the target user base through surveys, interviews, and observation.
+- **Develop User Personas and Scenarios**: Create detailed user personas and scenarios to guide the design and development process.
+- **Design Prototypes and Conduct Usability Testing**: Develop prototypes and conduct usability testing with real users to identify issues and gather feedback.
+- **Implement Intuitive Navigation and Interfaces**: Design interfaces that are easy to navigate with clear, consistent, and intuitive elements.
+- **Ensure Accessibility**: Follow accessibility guidelines to make the system usable for all users, including those with disabilities.
+- **Provide Training and Support**: Offer training materials, tutorials, and support to help users learn and efficiently use the system.
+- **Gather and Analyze User Feedback**: Continuously gather user feedback and use it to make iterative improvements to the system's usability.
 
 </span>
 

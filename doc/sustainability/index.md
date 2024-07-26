@@ -2,15 +2,43 @@
 
 **The quality/ability/extent of being sustainable.**
 
-<span data-chatgpt-prompt="explain sustainability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="sustainability + template">
 
-Sustainability is a system quality attribute that refers to a system's ability to maintain its performance and functionality over time, while also minimizing its impact on the environment and society.
+**Sustainability** in systems refers to the capacity of a system to endure and maintain functionality over time while minimizing negative environmental, social, and economic impacts. It involves designing and operating systems in ways that are environmentally responsible, economically viable, and socially equitable.
 
-Sustainability is a cross-functional constraint, as it involves various aspects of a system, including its technology, design, materials, and business practices, as well as its impact on the environment and society.
+### System Quality Attribute
 
-Sustainability is a non-functional requirement, as it is a characteristic that is not directly related to the system's primary function or features, but rather its overall quality and impact.
+As a **system quality attribute**, sustainability focuses on the system's ability to operate efficiently and effectively over its lifecycle, considering long-term impacts and resource usage.
 
-Sustainability is an essential consideration for any system or technology that seeks to minimize its impact on the environment, conserve resources, and promote social responsibility.
+#### Key Aspects:
+- **Energy Efficiency**: Minimizing energy consumption while maintaining system performance.
+- **Resource Optimization**: Efficient use of materials and resources to reduce waste.
+- **Longevity and Durability**: Designing systems to have a long operational life with minimal need for replacement or extensive maintenance.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), sustainability specifies the criteria and standards for creating systems that have minimal adverse effects on the environment, economy, and society throughout their lifecycle.
+
+#### Key Aspects:
+- **Environmental Impact**: Reducing emissions, waste, and ecological footprint.
+- **Economic Viability**: Ensuring cost-effectiveness over the system's lifecycle, including initial investment, operation, and maintenance.
+- **Social Responsibility**: Considering the system's impact on communities and ensuring ethical practices.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, sustainability affects various aspects of system design, development, and operation. It necessitates collaboration across different teams and stakeholders to ensure that sustainable practices are integrated throughout the system's lifecycle.
+
+#### Key Aspects:
+- **Integrated Planning**: Collaborative planning involving stakeholders from multiple disciplines to address sustainability goals.
+- **Regulatory Compliance**: Adhering to environmental laws and regulations.
+- **Stakeholder Engagement**: Involving stakeholders in decision-making processes to ensure diverse perspectives are considered.
+
+### Implementing Sustainability
+
+To implement sustainability, the following steps should be taken:
+- **Adopt Green Design Principles**: Incorporate sustainable design principles such as reducing energy consumption, using recyclable materials, and minimizing waste.
+- **Lifecycle Analysis**: Conduct a thorough analysis of the system's lifecycle to identify and mitigate potential environmental, economic, and social impacts.
+- **Continuous Improvement**: Regularly review and update sustainability practices and performance, incorporating new technologies and methodologies to enhance sustainability outcomes.
 
 </span>
 

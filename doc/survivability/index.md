@@ -2,13 +2,47 @@
 
 **The quality/ability/extent of being survivable.**
 
-<span data-chatgpt-prompt="explain survivability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="survivability + template">
 
-Survivability is a system quality attribute that refers to the ability of a system to maintain its critical functionality in the face of various disturbances or threats. It is a non-functional requirement that defines the capacity of a system to operate continuously, effectively and efficiently in the presence of disruptive changes or disruptions.
+**Survivability** in systems refers to the ability of a system to continue to function and maintain essential services even in the face of adverse conditions, failures, or attacks.
 
-The goal of survivability is to ensure that the system remains available, secure, and functional even in the event of partial or complete failures or attacks. It is a critical attribute for systems that are involved in mission-critical or operational-critical applications, where the failure of the system can cause significant damage, loss of life or financial penalties.
+### System Quality Attribute
 
-Survivability is often considered a cross-functional constraint as it involves the consideration of multiple system aspects such as security, availability, reliability, and performance. It requires the involvement of different domains such as security, operations, networking, and software development to jointly evaluate the system requirement, design and provide an adequate level of survivability.
+As a **system quality attribute**, survivability ensures that a system can withstand and recover from unexpected disruptions, maintaining critical operations without significant loss of functionality or data.
+
+#### Key Aspects:
+- **Fault Tolerance**: The system's capability to continue operating despite the presence of faults or errors.
+- **Redundancy**: Incorporating duplicate components or systems that can take over in case of failure.
+- **Resilience**: The ability to quickly recover from disruptions and restore normal operations.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), survivability specifies the need for the system to sustain its operations and protect critical functions under adverse conditions.
+
+#### Key Aspects:
+- **Continuity of Operations**: Ensuring that critical services remain available during and after disruptions.
+- **Risk Mitigation**: Identifying and addressing potential risks that could impact system functionality.
+- **Disaster Recovery**: Planning and implementing strategies to restore normal operations quickly after a disruption.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, survivability affects various aspects of system design, implementation, and maintenance, requiring collaboration across multiple teams to ensure robustness and resilience.
+
+#### Key Aspects:
+- **System Design**: Architecting the system with redundancy, fault tolerance, and recovery mechanisms.
+- **Security Measures**: Implementing strong security practices to protect against attacks and breaches.
+- **Operational Procedures**: Establishing procedures for monitoring, responding to, and recovering from disruptions.
+
+### Implementing Survivability
+
+To implement survivability:
+- **Redundant Systems**: Design and deploy redundant components and systems to take over in case of failures.
+- **Fault Tolerance**: Use fault-tolerant techniques such as error detection, correction, and failover mechanisms.
+- **Regular Backups**: Ensure regular backups of critical data and systems to facilitate quick recovery.
+- **Disaster Recovery Plans**: Develop and test comprehensive disaster recovery plans to address various disruption scenarios.
+- **Monitoring and Alerts**: Implement continuous monitoring and alert systems to detect and respond to issues promptly.
+- **Security Measures**: Enforce robust security protocols to protect against cyber-attacks and unauthorized access.
+- **Training and Drills**: Conduct regular training and drills to prepare staff for handling emergencies and recovering from disruptions.
 
 </span>
 

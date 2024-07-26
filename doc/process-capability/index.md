@@ -2,13 +2,45 @@
 
 **The quality/ability/extent of being process capable.**
 
-<span data-chatgpt-prompt="explain Process capability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="process capability + template">
 
-Process capability refers to the ability of a system or process to consistently produce products or services that meet predetermined specifications and quality standards. It is a system quality attribute, meaning that it reflects the overall effectiveness and efficiency of the system as a whole.
+**Process capability** in systems refers to the ability of a process to produce output that meets specified requirements consistently and reliably. It encompasses the inherent ability of the process to perform within established limits and to achieve desired quality levels.
 
-Process capability is also considered a non-functional requirement, as it is not directly related to the functional requirements of the system (i.e. the specific features and capabilities that it must perform), but is instead focused on the quality and performance of those features.
+### System Quality Attribute
 
-Additionally, process capability can be considered a cross-functional constraint, as it generally involves the coordination and integration of multiple functions within an organization, from design and manufacturing to quality control and customer service. It requires a collaborative approach to ensure that all aspects of the system are working together to achieve consistent quality and performance.
+As a **system quality attribute**, process capability refers to how well a system’s manufacturing or operational processes can consistently produce products or outcomes that meet the predefined quality standards and requirements.
+
+#### Key Aspects:
+- **Consistency**: The ability of the process to produce outputs that are within specifications over time.
+- **Accuracy**: How closely the process output aligns with the target values or specifications.
+- **Control**: The extent to which process variability is managed and minimized to ensure outputs remain within acceptable limits.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), process capability specifies that the system's processes must be capable of consistently producing results that meet or exceed quality and performance standards. This requirement is crucial for ensuring product reliability and customer satisfaction.
+
+#### Key Aspects:
+- **Specification Compliance**: The process must be capable of producing outputs that conform to technical and quality specifications.
+- **Performance Metrics**: Defined metrics (such as Cp, Cpk, Pp, Ppk) must be met to ensure that the process is capable of maintaining quality standards.
+- **Consistency Over Time**: The process must reliably perform within established control limits to avoid variations that lead to defects.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, process capability impacts multiple aspects of the system development and production lifecycle, including design, manufacturing, quality assurance, and supply chain management. It requires coordination across different teams to ensure that processes are capable and aligned with overall system goals.
+
+#### Key Aspects:
+- **Design Integration**: Design teams must work with manufacturing and quality assurance teams to ensure that designs are feasible and processes are capable of meeting design requirements.
+- **Quality Assurance**: Continuous monitoring and evaluation of process capability are essential to ensure that quality standards are maintained.
+- **Supply Chain Management**: Coordination with suppliers is necessary to ensure that materials and components meet process capability requirements.
+
+### Implementing Process Capability
+
+To implement process capability:
+- **Define Process Requirements**: Establish clear specifications and requirements for process performance, including acceptable limits for variations and quality metrics.
+- **Evaluate and Improve Processes**: Use statistical tools and methods (such as control charts, capability indices) to assess and improve process performance. Regularly review process capability to identify areas for improvement.
+- **Design for Capability**: Ensure that process design and equipment selection are aligned with the capability requirements. Implement design changes that enhance process stability and control.
+- **Monitor and Control**: Continuously monitor process performance using appropriate measurement systems and control mechanisms. Implement corrective actions to address deviations from desired performance.
+- **Training and Documentation**: Provide training for personnel involved in the process to ensure they understand and adhere to capability requirements. Document processes and standards to ensure consistency and compliance.
 
 </span>
 

@@ -2,13 +2,51 @@
 
 **The quality/ability/extent of being accessible.**
 
-<span data-chatgpt-prompt="explain accessibility (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="accessibility + template">
 
-Accessibility is a system quality attribute that refers to people with disabilities or special needs being able to effectively use a system. Accessibility helps accommodate a diverse user base and helps promote inclusivity. Accessibility typically includes a system's ability to provide alternative input and output mechanisms, such as voice commands or text-to-speech, as well compatibility with assistive technologies such as screen readers and Braille displays.
+**Accessibility** refers to the design of products, devices, services, or environments so they are usable by people with the widest range of abilities. In the context of systems, accessibility ensures that applications can be effectively used by everyone, including people with disabilities.
 
-Accessibility is a non-functional requirement for consideration when designing and developing systems and applications that are accessible to people with disabilities. Accessibility is a mandatory governmental legal requirement for websites and applications in many jurisdictions.
+### System Quality Attribute
 
-Accessibility is a cross-functional constraint because it requires collaboration between designers, developers, and quality assurance teams to ensure that the system meets accessibility standards and guidelines, and complies with company policies and governmental laws.
+As a **system quality attribute**, accessibility defines how well a system can be used by individuals with diverse abilities, ensuring inclusivity.
+
+#### Key Aspects:
+- **Usability**: Ensures that people with varying levels of ability can use the system effectively and efficiently.
+- **Inclusivity**: Supports diverse user needs, making technology available to all, regardless of physical, cognitive, or sensory impairments.
+- **Compliance**: Adherence to accessibility standards and guidelines such as WCAG (Web Content Accessibility Guidelines).
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), accessibility specifies the conditions under which the system must operate to be considered accessible. It defines the system's ability to support users with disabilities.
+
+#### Key Aspects:
+- **Perceivability**: Information and user interface components must be presentable to users in ways they can perceive, e.g., through screen readers or text alternatives for images.
+- **Operability**: User interface components and navigation must be operable by all users, e.g., through keyboard navigation or voice commands.
+- **Understandability**: Information and operation of the user interface must be understandable, e.g., through simple language and clear instructions.
+- **Robustness**: Content must be robust enough to be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, accessibility impacts various aspects of system design and development, requiring collaboration across multiple teams to ensure a cohesive and comprehensive approach.
+
+#### Key Aspects:
+- **Design**: Designers must create interfaces that consider accessibility from the outset, incorporating features like color contrast, text size options, and intuitive layouts.
+- **Development**: Developers must implement code that supports accessibility features, such as semantic HTML, ARIA (Accessible Rich Internet Applications) landmarks, and keyboard accessibility.
+- **Testing**: Testers must conduct accessibility testing using tools like screen readers and automated accessibility checkers, as well as manual testing with diverse user groups.
+- **Content Creation**: Content creators must ensure that all multimedia and text content is accessible, providing transcripts, captions, and descriptions as needed.
+- **Training**: All team members should be trained on accessibility best practices and guidelines to ensure a consistent and informed approach.
+
+### Implementing Accessibility
+
+To implement accessibility, several strategies can be employed:
+- **Guideline Adherence**: Following established accessibility guidelines like WCAG to ensure compliance with best practices.
+- **User Research**: Conducting research and usability testing with users who have disabilities to identify and address potential barriers.
+- **Tools and Technologies**: Utilizing accessibility testing tools and assistive technologies during the development and testing phases.
+- **Inclusive Design**: Adopting an inclusive design approach that considers the needs of all users from the beginning of the design process.
+
+### Conclusion
+
+Accessibility is a critical consideration for creating inclusive systems that serve the widest possible range of users. By addressing it as a system quality attribute, a non-functional requirement, and a cross-functional constraint, organizations can ensure their systems are usable by all individuals, including those with disabilities. This not only meets legal and ethical standards but also broadens the user base and enhances overall user satisfaction.
 
 </span>
 

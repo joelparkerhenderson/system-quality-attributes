@@ -2,13 +2,47 @@
 
 **The quality/ability/extent of being tailorable.**
 
-<span data-chatgpt-prompt="explain tailorability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="tailorability + template">
 
-Tailorability is a system quality attribute that represents the degree to which a system can be configured or customized to meet the specific needs of its users or stakeholders. It is a non-functional requirement that allows users to mold the system to fit their unique requirements or preferences.
+**Tailorability** in systems refers to the ability of a system to be customized or adapted to meet the specific needs and preferences of different users or contexts without requiring significant reconfiguration or redevelopment.
 
-Tailorability is a cross-functional constraint because it affects various aspects of the system, such as its usability, adaptability, and maintainability. For example, a highly tailorability system may require additional user training and documentation to guide users on how to tailor the system effectively.
+### System Quality Attribute
 
-Tailorability is essential for systems that serve different users or user groups with varying needs and preferences. It enables users to personalize their experience, improve their efficiency and productivity, and reduce the risk of errors or dissatisfaction. Systems with low tailorability may create frustration or inefficiency due to the inability to meet specific user requirements.
+As a **system quality attribute**, tailorability ensures that a system can be easily adapted or customized to suit varying user requirements, operational contexts, or evolving needs.
+
+#### Key Aspects:
+- **User Customization**: Allowing users to personalize their experience based on preferences and needs.
+- **Configurability**: Providing flexible settings and options to adjust system behavior or appearance.
+- **Extensibility**: Supporting the addition of new features or modifications with minimal disruption.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), tailorability specifies the need for the system to be flexible and adaptable to accommodate different use cases and requirements.
+
+#### Key Aspects:
+- **Customization Options**: Defined parameters for user customization and system configurability.
+- **Adaptability**: The ability of the system to adapt to changing user needs or operational environments.
+- **Ease of Modification**: Ensuring that modifications can be made without extensive effort or risk of introducing errors.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, tailorability impacts various aspects of the system, requiring collaboration across development, design, and user experience teams to ensure adaptability and ease of customization.
+
+#### Key Aspects:
+- **Design Flexibility**: Designing the system architecture to support easy customization and extension.
+- **User Interface**: Providing intuitive and accessible interfaces for customization and configuration.
+- **Documentation and Support**: Offering clear documentation and support for users to understand and utilize customization options.
+
+### Implementing Tailorability
+
+To implement tailorability:
+- **Modular Design**: Use a modular architecture to enable independent modification and extension of system components.
+- **User Preferences**: Allow users to save and manage preferences and settings that personalize their experience.
+- **Configuration Management**: Implement robust configuration management tools and interfaces for easy adjustment of system settings.
+- **Plugin/Extension Support**: Design the system to support plugins or extensions that can add or modify functionality without affecting the core system.
+- **Feedback Mechanisms**: Include mechanisms for user feedback to continuously improve customization options and adaptability.
+- **Training and Documentation**: Provide comprehensive training and documentation to guide users in customizing and configuring the system.
+- **Continuous Improvement**: Regularly review and update customization features based on user feedback and evolving requirements.
 
 </span>
 

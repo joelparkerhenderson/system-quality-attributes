@@ -2,18 +2,45 @@
 
 **The quality/ability/extent of being controllable.**
 
-<span data-chatgpt-prompt="explain controllability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="controllability + template">
 
-Controllability is a system quality attribute that refers to the ability of a system or its components to be easily managed, monitored, and controlled, typically by its users, administrators, and other stakeholders. 
+**Controllability** in systems refers to the ability to manage, direct, and regulate the operations, behaviors, and outcomes of the system. It ensures that system administrators and users can oversee and influence the system's functions effectively.
 
+### System Quality Attribute
 
-Controllability is a non-functional requirement, and it impacts various aspects of a system, including usability, reliability, and security. Controllability may also be a cross-cutting concern, for example if controls span multiple areas of the system.
+As a **system quality attribute**, controllability focuses on providing mechanisms to monitor and adjust the system's performance and behavior to meet desired outcomes.
 
-Controllability is also a cross-functional constraint: TODO
+#### Key Aspects:
+- **Monitoring**: The ability to continuously observe and track the system's state and performance.
+- **Configuration Management**: Tools and processes to change system settings and parameters.
+- **Feedback Mechanisms**: Systems in place to receive feedback on performance and behavior to make adjustments as needed.
 
-In practical terms, controllability means that a system should provide interfaces, tools, and mechanisms that enable users to manage and control its behavior, performance, and other aspects. For example, an operating system should provide a user-friendly interface to allow users to manage system resources, such as memory, disk space, and CPU usage. Likewise, a database management system should provide tools to monitor and maintain data integrity, performance, and security.
+### Non-Functional Requirement
 
-A system that is difficult to control and manage can lead to operational issues, such as downtime, data loss, and security breaches. Therefore, system designers and business stakeholders should work toward systems that are easy to control and manage.
+As a **non-functional requirement** (NFR), controllability defines the standards and criteria for designing a system that can be easily monitored, managed, and adjusted. It specifies how the system should support control operations.
+
+#### Key Aspects:
+- **Accessibility**: Ensuring that control interfaces and tools are easily accessible to authorized personnel.
+- **Responsiveness**: The system's ability to promptly respond to control inputs and adjustments.
+- **Security**: Ensuring that control mechanisms are protected against unauthorized access and manipulation.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, controllability affects various aspects of system design, development, and operation. It requires collaboration across different teams to ensure that the system can be effectively controlled.
+
+#### Key Aspects:
+- **Standardized Control Interfaces**: Using consistent interfaces for control operations across different system components.
+- **Collaborative Development**: Involving multiple teams in designing and implementing control mechanisms.
+- **Ongoing Training**: Providing training to ensure that users and administrators can effectively use control tools and interfaces.
+
+### Implementing Controllability
+
+To implement controllability, the following steps should be taken:
+- **Develop Comprehensive Monitoring Tools**: Implement tools that allow continuous monitoring of the system's state and performance.
+- **Implement Configuration Management Systems**: Provide mechanisms for managing and adjusting system settings and parameters.
+- **Establish Feedback Loops**: Create systems to gather and analyze feedback on system performance and behavior, allowing for adjustments as needed.
+- **Ensure Security of Control Mechanisms**: Protect control interfaces and tools from unauthorized access and manipulation.
+- **Provide Training and Documentation**: Offer training programs and maintain up-to-date documentation to ensure that users and administrators can effectively control the system.
 
 </span>
 

@@ -2,15 +2,45 @@
 
 **The quality/ability/extent of being warrantable.**
 
-<span data-chatgpt-prompt="explain warrantability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="warrantability + template">
 
-Warrantability is a system quality attribute that describes the ability of a software system to be maintained and supported by the software vendor or by the customer's own technical team. It is a non-functional requirement that specifies that the software must be designed in such a way that it can be easily updated, maintained, and repaired as needed throughout its lifetime.
+**Warrantability** in systems refers to the degree to which a system or its components are eligible for warranties, reflecting the confidence in the system's reliability, durability, and quality. It encompasses the guarantees provided regarding the system's performance, maintenance, and support over a specified period.
 
-Warrantability is a cross-functional constraint that covers both technical and business aspects. From a technical point of view, warrantability requires that the system architecture and design be modular, extensible, and well-documented. It also requires that the system be built using industry standards and best practices to ensure that it can be easily understood and maintained by other developers.
+### System Quality Attribute
 
-From a business perspective, warrantability imposes a set of obligations on the software vendor to provide customer support, bug fixes, and updates to ensure the software remains functional and secure over time. It also imposes an obligation on the customer to keep their own technical team current and knowledgeable about the software and to provide the vendor with the necessary feedback to improve the software as necessary.
+As a **system quality attribute**, warrantability focuses on ensuring that the system is designed and built to meet specified standards that warrant its reliability and performance, thereby making it eligible for warranties.
 
-In sum, warrantability is a critically important quality attribute that ensures the continued usability and value of a software system over time. Software vendors and customers must work together to ensure that the software is well-designed, well-documented, and well-maintained to meet the needs of all stakeholders.
+#### Key Aspects:
+- **Reliability**: Ensuring that the system consistently performs its intended functions without failure over a specified period.
+- **Durability**: The system's ability to withstand wear, pressure, or damage and maintain its functionality over time.
+- **Support and Maintenance**: Providing ongoing support and maintenance options that align with warranty terms.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), warrantability specifies the standards and criteria a system must meet to be eligible for warranties. It defines the expectations for system reliability, durability, and support.
+
+#### Key Aspects:
+- **Performance Standards**: Establishing and adhering to performance benchmarks that ensure system reliability.
+- **Quality Assurance**: Implementing rigorous quality assurance processes to meet warranty eligibility.
+- **Documentation and Certification**: Providing necessary documentation and certifications to support warranty claims.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, warrantability affects various aspects of system design, development, and operation. It requires collaboration across different teams to ensure that the system meets the criteria for warranties.
+
+#### Key Aspects:
+- **Integrated Quality Management**: Ensuring all teams adhere to quality management practices that support warrantability.
+- **Consistent Compliance**: Aligning with industry standards and regulations to meet warranty criteria.
+- **Collaborative Design and Testing**: Involving multiple teams in the design, development, and testing phases to ensure reliability and durability.
+
+### Implementing Warrantability
+
+To implement warrantability, the following steps should be taken:
+- **Adopt Rigorous Testing Protocols**: Implement comprehensive testing to ensure the system meets reliability and durability standards.
+- **Ensure Compliance with Standards**: Align system design and development processes with relevant industry standards and regulations.
+- **Provide Detailed Documentation**: Maintain thorough documentation to support warranty claims, including user manuals, maintenance guides, and certification records.
+- **Offer Robust Support and Maintenance Plans**: Develop and provide support and maintenance plans that align with warranty terms, ensuring ongoing reliability and performance.
+- **Monitor and Review**: Continuously monitor system performance and conduct regular reviews to ensure compliance with warranty standards and address any issues promptly.
 
 </span>
 

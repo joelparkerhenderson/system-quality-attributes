@@ -2,13 +2,48 @@
 
 **The quality/ability/extent of being composable.**
 
-<span data-chatgpt-prompt="explain composability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="composability + template">
 
-Composability is a system quality attribute that determines the degree to which different components or services within an architecture can be combined or composed to create new functionalities or systems without requiring significant changes to the individual components. In other words, composability is the ability of a system or a component to be combined or integrated with other systems or components in a flexible and seamless manner, allowing for easy customization, scalability, and interoperability.
+**Composability** in systems refers to the ability to select and assemble various components in different combinations to satisfy specific user requirements or to achieve desired functionalities. It emphasizes modularity and interoperability, allowing system elements to be reused, combined, and rearranged flexibly.
 
-Composability is can be a non-functional requirement because it's typically more about the system components. However, composability can also be a functional requirement, such as in a system that directly features plug-and-play, or add-ons, or building blocks.
+### System Quality Attribute
 
-Composability is essential for complex software systems with multiple components or services, as it enables teams to build and maintain systems that are flexible, modular, and easily adaptable to changing requirements. It is also critical for organizations that rely on third-party software components or services, as it ensures that these components can be easily integrated into the organization's existing technology infrastructure.
+As a **system quality attribute**, composability emphasizes the importance of building systems using modular components that can be easily combined and recombined to create new functionalities or systems.
+
+#### Key Aspects:
+- **Modularity:** The degree to which a system's components can be separated and recombined. Modular components are self-contained and can be developed, tested, and deployed independently.
+- **Interoperability:** The ability of different system components to work together seamlessly, regardless of their origin or the platform they are running on.
+- **Reusability:** The capability of system components to be used in different contexts and for different purposes without modification.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), composability defines the standards and conditions that enable the system to be built from interchangeable components, promoting flexibility and adaptability.
+
+#### Key Aspects:
+- **Standardized Interfaces:** Ensuring that components interact through well-defined and standardized interfaces, making it easier to combine and recombine them.
+- **Loose Coupling:** Designing components so they are minimally dependent on each other, enhancing their independence and reusability.
+- **Flexibility:** Allowing the system to adapt to new requirements or changes by rearranging or replacing components without extensive rework.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, composability imposes requirements that impact various aspects of the system, ensuring that components can be integrated and utilized effectively across different functions.
+
+#### Key Aspects:
+- **Security:** Ensuring that the integration of various components does not introduce vulnerabilities, and that each component adheres to security standards.
+- **Performance:** Maintaining optimal system performance even when components are recombined or when new components are introduced.
+- **Consistency:** Ensuring that composable components maintain consistent behavior and performance across different combinations and configurations.
+
+### Implementing Composability
+
+To implement composability in a system, consider the following steps:
+- **Design Modular Components:** Develop system components with a modular architecture, ensuring they can function independently and be easily combined with other components.
+- **Define Standardized Interfaces:** Use standardized protocols and interfaces for component interaction, making it straightforward to integrate different components.
+- **Ensure Loose Coupling:** Design components with minimal dependencies on other components to enhance their reusability and flexibility.
+- **Implement Interoperability Standards:** Ensure components adhere to industry standards for interoperability, allowing them to work together seamlessly.
+- **Regular Testing:** Continuously test components in various combinations to ensure they work correctly and efficiently when assembled in different ways.
+- **Security Audits:** Conduct regular security audits to identify and mitigate vulnerabilities introduced by component integration.
+
+By focusing on these aspects and steps, systems can achieve high composability, allowing them to be flexible, adaptable, and capable of meeting diverse user requirements through the recombination of modular components.
 
 </span>
 

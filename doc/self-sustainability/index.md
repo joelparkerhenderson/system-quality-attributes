@@ -2,14 +2,48 @@
 
 **The quality/ability/extent of being self-sustainable. Compare antifragility.**
 
-<span data-chatgpt-prompt="explain self-sustainability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="self-sustainability + template">
 
-Self-sustainability refers to the ability of a system to maintain its intended functionality without external intervention or support.
+**Self-sustainability** in systems refers to the capability of a system to operate and maintain itself without requiring external support or intervention, effectively managing its resources and adapting to changing conditions autonomously.
 
-Self-sustainability is a system quality attribute that focuses on the system's ability to sustain itself over time, even as its environment and circumstances change. Self-sustainability is a non-functional requirement, which means that it does not relate to the system's specific functionality but rather to how the system operates.
+### System Quality Attribute
 
-**As a cross-functional constraint:** self-sustainability impacts multiple parts of a system and requires coordination and cooperation among various stakeholders. For example, a self-sustaining system may require the use of renewable energy sources or recycling of materials to reduce waste and minimize external support. It may involve the use of automation and smart technology to optimize energy efficiency and reduce maintenance needs.
+As a **system quality attribute**, self-sustainability emphasizes the system's ability to autonomously manage and sustain its operations over time, minimizing reliance on external inputs.
 
+#### Key Aspects:
+- **Autonomous Resource Management**: The system efficiently manages its own resources (e.g., energy, data, hardware) without external assistance.
+- **Adaptability**: The system can adapt to changing conditions and self-optimize for continued operation.
+- **Resilience**: The system can recover from disruptions or failures on its own, ensuring continuous operation.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), self-sustainability specifies the criteria that the system must meet to ensure it can sustain its operations autonomously.
+
+#### Key Aspects:
+- **Energy Efficiency**: The system must be designed to operate efficiently with minimal energy consumption.
+- **Self-Monitoring and Diagnostics**: The system must be capable of monitoring its own performance and diagnosing issues without external intervention.
+- **Automated Maintenance**: The system must perform routine maintenance tasks automatically to ensure ongoing reliability and performance.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, self-sustainability requires consideration across multiple dimensions of system development and operation, influencing design, implementation, and maintenance practices.
+
+#### Key Aspects:
+- **Integrated Design**: Self-sustainability must be considered during the initial design phase, ensuring that all components can operate autonomously.
+- **Holistic Approach**: Addressing self-sustainability involves coordination among various system components and subsystems to achieve overall autonomous operation.
+- **Long-term Viability**: The system must be designed with long-term sustainability in mind, considering factors such as durability, energy sources, and resource replenishment.
+
+### Implementing Self-sustainability
+
+To implement self-sustainability:
+- **Energy-efficient Design**: Develop energy-efficient hardware and software solutions to minimize power consumption and extend operational life.
+- **Self-monitoring Systems**: Integrate sensors and diagnostic tools that allow the system to monitor its health and performance in real-time.
+- **Automated Maintenance and Repair**: Implement mechanisms for the system to perform self-maintenance tasks, such as software updates, data cleanup, and hardware adjustments.
+- **Adaptive Algorithms**: Use machine learning and adaptive algorithms to enable the system to adjust its behavior based on changing conditions and optimize its performance.
+- **Resource Management**: Develop robust resource management protocols that ensure the efficient use and replenishment of resources, such as energy and data storage.
+- **Redundancy and Failover Mechanisms**: Incorporate redundancy and failover mechanisms to ensure the system can continue to operate even in the event of component failures.
+- **Resilience Planning**: Design the system with resilience in mind, ensuring it can withstand and recover from various types of disruptions.
+- **Sustainable Practices**: Apply sustainable practices in the development and deployment of the system, such as using renewable energy sources and environmentally friendly materials.
 
 </span>
 

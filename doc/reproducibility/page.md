@@ -1,6 +1,6 @@
 # Reproducibility
 
-**The quality/ability/extent of being reproducable.**
+**The quality/ability/extent of being reproducible.**
 
 <span data-chatgpt-prompt="explain reproducibility (system quality attribute, non-functional requirement, cross-functional constraint)">
 
@@ -12,7 +12,7 @@ Reproducibility is important because it enhances the reliability and credibility
 
 </span>
 
-**Define reproducable:** <span data-chatgpt-prompt="define reproducable (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.</span>
+**Define reproducible:** <span data-chatgpt-prompt="define reproducible (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.</span>
 
 ## See Also
 

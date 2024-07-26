@@ -2,17 +2,50 @@
 
 **The quality/ability/extent of being degradable.**
 
-<span data-chatgpt-prompt="explain degradability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="degradability + template">
 
-Degradability is a system quality attribute that refers to the ability of a system to operate at an acceptable level of performance even when certain components or resources are unavailable.
+**Degradability** in systems refers to the ability of a system to maintain partial functionality and performance when some components fail or when under adverse conditions. It ensures that the system degrades gracefully, allowing it to continue operating, albeit with reduced performance or limited functionality.
 
-Degradability is a non-functional requirement that is essential for systems that are critical to business operations or public safety.
+### System Quality Attribute
 
-Degradability is a cross-functional constraint that affects multiple aspects of a system's design, implementation, and maintenance. It requires careful consideration of factors such as fault tolerance, redundancy, load balancing, and failover mechanisms.
+As a **system quality attribute**, degradability focuses on the system's capacity to handle failures and adverse conditions without complete breakdown, maintaining essential services.
 
-A system that is not sufficiently degradable may experience catastrophic failure in the event of an unexpected outage or overload. This can lead to significant financial losses, loss of life, or damage to the reputation of the organization that operates the system.
+#### Key Aspects:
+- **Graceful Degradation**: The system continues to operate with reduced functionality when components fail.
+- **Fault Tolerance**: The system can tolerate faults and continue to provide services, possibly at a reduced level.
+- **Performance Degradation**: The system's performance degrades gradually rather than abruptly failing.
 
-In contrast, a highly degradable system can continue to operate even during adverse conditions, allowing critical functions to continue without interruption. This can help to increase the reliability, availability, and maintainability of the system, which are all important considerations for ensuring business continuity and public safety.
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), degradability specifies the standards and criteria to ensure the system can handle failures and adverse conditions gracefully.
+
+#### Key Aspects:
+- **Redundancy**: The system includes redundant components that can take over in case of failures.
+- **Failover Mechanisms**: The system has mechanisms in place to switch to backup components or systems during failures.
+- **Monitoring and Alerts**: The system monitors its health and alerts operators about issues before they cause significant degradation.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, degradability impacts various aspects of system design, development, and operation, requiring collaboration across different teams to ensure the system can degrade gracefully.
+
+#### Key Aspects:
+- **Design for Failure**: The system is designed with the expectation that components will fail and includes strategies for handling these failures.
+- **Testing for Degradability**: The system undergoes rigorous testing to ensure it can degrade gracefully under different failure scenarios.
+- **Operational Readiness**: The system is prepared for real-world conditions where failures and adverse situations are inevitable.
+
+### Implementing Degradability
+
+To implement degradability:
+- **Incorporate Redundancy**: Design the system with redundant components and pathways to ensure continued operation during failures.
+- **Implement Failover Mechanisms**: Develop robust failover mechanisms that can seamlessly switch to backup components or systems.
+- **Use Graceful Degradation Techniques**: Ensure that the system can continue to provide essential services even if some features or performance levels are reduced.
+- **Develop Robust Monitoring Systems**: Implement monitoring systems that continuously check the health of the system and provide early warnings of potential failures.
+- **Perform Regular Degradability Testing**: Conduct regular testing to simulate different failure scenarios and assess the system's ability to degrade gracefully.
+- **Maintain Comprehensive Documentation**: Provide detailed documentation on the system’s degradation strategies, including how to handle and recover from failures.
+- **Design for Scalability**: Ensure that the system can scale down efficiently, maintaining essential functions even under constrained resources.
+- **Ensure Clear Communication Channels**: Establish clear communication channels for alerting and informing stakeholders about system degradation and steps taken.
+- **Implement Load Balancing**: Use load balancing to distribute workloads evenly and avoid overloading any single component.
+- **Plan for Disaster Recovery**: Develop and regularly update disaster recovery plans to ensure quick recovery from major failures while maintaining essential services.
 
 </span>
 

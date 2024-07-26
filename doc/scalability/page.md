@@ -17,7 +17,7 @@ Scalability can be measured over multiple dimensions, such as:
 
 * Geographic scalability: The ability to maintain effectiveness during expansion from a local area to a larger region.
 
-* Load scalability: The ability for a distributed system to expand and contract to accommodate heavier or lighter loads, including, the ease with which a system or component can be modified, added, or removed, to accommodate changing loads.
+* Elastic load scalability: The ability for a distributed system to expand and contract to accommodate heavier or lighter loads, including, the ease with which a system or component can be modified, added, or removed, to accommodate changing loads.
 
 * Generation scalability: The ability of a system to scale by adopting new generations of components.
 

@@ -2,16 +2,51 @@
 
 **The quality/ability/extent of being relevant.**
 
-<span data-chatgpt-prompt="explain relevancy (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="relevancy + template">
 
-Relevancy, in the context of software development, refers to the degree to which a system meets the user's needs, expectations, and goals. Relevancy is essential in developing high-quality software that fulfills the intended purpose and satisfies the stakeholders. Depending on the perspective, relevancy can be seen as a system quality attribute, a non-functional requirement, or a cross-functional constraint.
+# Relevancy (system quality attribute, non-functional requirement, cross-functional constraint)
 
-**As a system quality attribute:** relevancy measures the degree to which a system is fit for its intended use. It considers whether the system's features and functionalities are relevant to its users, whether its outputs provide value to the business, and whether it supports the organization's goals and strategies. A system that lacks relevancy may be difficult to use, lack user adoption, or fail to meet the desired business outcomes.
+**Relevancy** in systems refers to the extent to which the system meets the needs, expectations, and context of its users and stakeholders. It ensures that the system provides meaningful, timely, and appropriate information or functionality.
 
-**As a non-functional requirement:** relevancy defines the quality attributes that quantify the system's ability to meet its user needs, such as usability, efficiency, and effectiveness. User feedback and observation may help in determining the necessary non-functional requirements that support relevancy. For example, the system may need to be responsive and fast, error-free, secure and scalable, and allow for seamless integration with other software or hardware tools.
+### System Quality Attribute
 
-**As a cross-functional constraint:** relevancy influences how different parts of the system interoperate and affects the overall software architecture. It considers the necessary trade-offs when different stakeholders have different goals or infrastructural constraints such as resource limitations. The design and development team may need to ensure that the system is adaptable to different user scenarios, locations, and usage demands.
+As a **system quality attribute**, relevancy ensures that the system consistently delivers outputs that are pertinent and valuable to the user's context and needs.
 
+#### Key Aspects:
+- **User-Centered Design**: Tailoring system functionalities and outputs to match user requirements and preferences.
+- **Context Awareness**: The system's ability to adapt its behavior based on the current context or situation.
+- **Timeliness**: Delivering information or functionalities at the appropriate time when they are needed.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), relevancy specifies the standards and criteria for how the system should meet the contextual and timely needs of users.
+
+#### Key Aspects:
+- **Accuracy**: Ensuring that the information provided is precise and correct for the user's needs.
+- **Context Adaptation**: The system's capacity to adjust its outputs based on user context, location, or other relevant factors.
+- **Timeliness**: Requirements for the system to deliver relevant information or functionalities promptly.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, relevancy affects multiple aspects of the system, from design and development to deployment and maintenance, requiring collaboration across different teams to ensure the system remains relevant to its users.
+
+#### Key Aspects:
+- **Collaborative Development**: Involving stakeholders from various departments to ensure the system meets diverse user needs.
+- **Continuous Feedback**: Implementing mechanisms for users to provide feedback to keep the system aligned with their evolving requirements.
+- **Regular Updates**: Ensuring the system is regularly updated to maintain its relevance in changing contexts and environments.
+
+### Implementing Relevancy
+
+To implement relevancy:
+- **Conduct User Research**: Regularly engage with users to understand their needs, preferences, and context.
+- **User-Centered Design**: Adopt design methodologies that focus on user needs, such as Design Thinking and Agile UX.
+- **Implement Context Awareness**: Use sensors, data analytics, and machine learning to make the system aware of the user's context and adapt accordingly.
+- **Timely Information Delivery**: Ensure the system can provide information or functionalities exactly when users need them.
+- **Regular Updates and Maintenance**: Keep the system updated with the latest data, features, and improvements based on user feedback and changing needs.
+- **Feedback Mechanisms**: Integrate continuous feedback loops where users can easily report issues, suggest features, or provide general feedback.
+- **Data Analytics**: Use data analytics to track how users interact with the system and identify areas for improvement.
+- **Personalization**: Implement personalization features that tailor the system's behavior to individual user preferences and habits.
+- **Prototype and Test**: Continuously prototype and test new features with real users to ensure they meet actual needs and improve relevance.
 
 </span>
 

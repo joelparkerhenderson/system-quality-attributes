@@ -2,13 +2,50 @@
 
 **The quality/ability/extent of being debuggable.**
 
-<span data-chatgpt-prompt="explain debugability (system quality attribute, non-functional requirement, cross-functional constraint)">
+<span data-chatgpt-prompt="debugability + template">
 
-Debugability is a system quality attribute, which is also considered a non-functional requirement and cross-functional constraint. It refers to the ease of finding and fixing bugs or errors in a software system. Debugability enables developers to identify and correct errors quickly and efficiently, which can save time and reduce costs in the long run.
+**Debugability** in systems refers to the ease with which a system can be debugged to identify, diagnose, and fix defects or issues. It involves providing the tools, processes, and capabilities necessary to efficiently trace and resolve problems within the system.
 
-A system with good debugability is easier to maintain, and issues can be resolved swiftly, reducing downtime, and increasing overall system performance. Debugability is achieved through the use of proper logging and tracing, debugging tools, and automated testing frameworks. It also requires good documentation, well-designed code, and proper error handling.
+### System Quality Attribute
 
-Debugability is essential for all software systems and is particularly critical for mission-critical applications. It is a fundamental system quality attribute that helps ensure that software is reliable, maintainable, and resilient, providing users with a seamless, error-free experience.
+As a **system quality attribute**, debugability focuses on the inherent design characteristics of a system that make it easier to debug.
+
+#### Key Aspects:
+- **Traceability**: The ability to trace the flow of execution and data through the system.
+- **Logging**: Comprehensive logging of system events and states.
+- **Error Reporting**: Clear and detailed reporting of errors and exceptions.
+
+### Non-Functional Requirement
+
+As a **non-functional requirement** (NFR), debugability defines the requirements that ensure the system can be debugged efficiently and effectively.
+
+#### Key Aspects:
+- **Instrumentation**: The system should be instrumented to provide detailed insights into its internal state.
+- **Diagnostics**: Built-in diagnostic tools to help identify and resolve issues.
+- **User-Friendly Error Messages**: Error messages should be clear and informative, guiding the user toward resolution.
+
+### Cross-Functional Constraint
+
+As a **cross-functional constraint**, debugability impacts various aspects of system design, development, and operation, requiring collaboration across different teams to ensure the system can be easily debugged.
+
+#### Key Aspects:
+- **Consistency**: Maintaining consistent logging and error reporting across all components of the system.
+- **Documentation**: Providing comprehensive documentation on how to debug the system.
+- **Maintainability**: Ensuring that debugging capabilities do not negatively impact system maintainability.
+
+### Implementing Debugability
+
+To implement debugability:
+- **Implement Comprehensive Logging**: Ensure that all significant events and states are logged with sufficient detail.
+- **Use Structured Error Reporting**: Implement structured and informative error reporting mechanisms that guide the user toward resolution.
+- **Provide Traceability Tools**: Include tools that allow developers to trace the execution flow and data paths within the system.
+- **Enable Diagnostic Modes**: Create diagnostic modes that can be activated to gather more detailed information when issues arise.
+- **Integrate Debugging Tools**: Integrate with external debugging tools and platforms to facilitate efficient issue resolution.
+- **Maintain Detailed Documentation**: Provide detailed documentation on debugging procedures, common issues, and their resolutions.
+- **Ensure Code Readability**: Write clean, readable, and well-documented code to facilitate easier debugging.
+- **Incorporate Automated Testing**: Use automated testing to catch issues early and make debugging more manageable.
+- **Develop Clear Error Messages**: Design error messages to be clear, concise, and informative, helping users and developers understand the issue quickly.
+- **Perform Regular Reviews**: Conduct regular reviews and updates to the system’s debugging capabilities to ensure they remain effective and up-to-date.
 
 </span>
 

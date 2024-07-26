@@ -1240,7 +1240,7 @@ Additionally, process capability can be considered a cross-functional constraint
 
 # Producibility
 
-**The quality/ability/extent of being producable.**
+**The quality/ability/extent of being producible.**
 
 
 Producibility is a system quality attribute which refers to the ease and efficiency with which a software system can be developed, tested, deployed and maintained. It is primarily concerned with ensuring that the software system can be feasibly and effectively produced.
@@ -1252,7 +1252,7 @@ Producibility is also a cross-functional constraint because it affects all aspec
 Therefore, producibility is a critical aspect of any software development project which ensures that software resources are optimized and are cost-effective.
 
 
-**Define producable:** <span data-chatgpt-prompt="define producable (computers and software)">Producible refers to the ability of a computer or software program to be manufactured or developed within relevant technological constraints, in a cost-effective manner, and within a defined timeframe. It involves ensuring that the technology and resources required to create the product are available, and that the design and manufacturing processes are optimized to achieve efficient production. In the context of software development, producibility also includes considerations such as coding standards, testing procedures, and documentation practices to ensure that the final product is functional, reliable, and maintainable.
+**Define producible:** <span data-chatgpt-prompt="define producible (computers and software)">Producible refers to the ability of a computer or software program to be manufactured or developed within relevant technological constraints, in a cost-effective manner, and within a defined timeframe. It involves ensuring that the technology and resources required to create the product are available, and that the design and manufacturing processes are optimized to achieve efficient production. In the context of software development, producibility also includes considerations such as coding standards, testing procedures, and documentation practices to ensure that the final product is functional, reliable, and maintainable.
 
 
 
@@ -1363,7 +1363,7 @@ Repeatability can be a non-functional requirement, as an important consideration
 
 # Reproducibility
 
-**The quality/ability/extent of being reproducable.**
+**The quality/ability/extent of being reproducible.**
 
 
 Reproducibility is a system quality attribute that refers to the ability of a system to produce consistent and accurate results when the same input is provided multiple times. It is a non-functional requirement that is essential for scientific research, particularly in fields that rely on experimental data analysis.
@@ -1373,7 +1373,7 @@ From a cross-functional perspective, reproducibility is considered a constraint 
 Reproducibility is important because it enhances the reliability and credibility of scientific research and enables scientists to verify and validate their findings. It also promotes transparency and accountability in research, as it allows others to replicate and evaluate the methodology and results of a study.
 
 
-**Define reproducable:** <span data-chatgpt-prompt="define reproducable (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.
+**Define reproducible:** <span data-chatgpt-prompt="define reproducible (computers and software)">In the context of computers and software, "reproducible" refers to the ability to recreate a specific outcome or result consistently and reliably, typically in the same computing environment, with the same input data, and using the same software settings and configurations. Reproducibility is important for ensuring the accuracy and validity of scientific experiments and computational analyses, as well as for troubleshooting and debugging technical issues. To achieve reproducibility, developers or researchers may document their methods and code, use version control systems, and apply standardization and automation practices.
 
 
 
