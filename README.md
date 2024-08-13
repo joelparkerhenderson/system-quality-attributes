@@ -4,9 +4,9 @@ System quality attributes (SQAs) refer to a set of characteristics that describe
 
 This project explains 100+ system quality attributes, one by one, in the list below.
 
-* If you're new to this topic, you may want to first read about these related concepts: [System quality attributes](doc/system-quality-attriburtes), [Cross-Functional Constraints (CFCs)](doc/cross-functional-constraints/), [Non-Functional Requirements (NFRs)](doc/non-functional-requirements/), [Cross-Cutting Concerns (CCCs)](doc/cross-cutting-concerns/).
+* If you're new to this topic, you may want to first read about these related concepts: [system quality attributes](doc/system-quality-attriburtes (SQAs)), [cross-functional constraints (CFCs)](doc/cross-functional-constraints/), [non-functional requirements (NFRs)](doc/non-functional-requirements/), [cross-cutting concerns (CCCs)](doc/cross-cutting-concerns/).
 
-* If you're an implementor, then you may want to read about planning and tracking: [Key Performance Indicator (KPI)](doc/key-performance-indicator/), [Quality Assessment Report (QAR)](doc/quality-assessment-report/), [System Quality Attributes Maturity Model (SQAMM)](doc/system-quality-attributes-maturity-model/, [Software Quality Assessment based on Lifecycle Expectations (SQALE)](doc/software-quality-assessment-based-on-lifecycle-expectations/), [Chaos Engineering](doc/chaos-engineering/).
+* If you're an implementor, then you may want to read about planning and tracking: [Key Performance Indicator (KPI)](doc/key-performance-indicator/), [Quality Assessment Report (QAR)](doc/quality-assessment-report/), [System Quality Attributes Maturity Model (SQAMM)](doc/system-quality-attributes-maturity-model/), [Software Quality Assessment based on Lifecycle Expectations (SQALE)](doc/software-quality-assessment-based-on-lifecycle-expectations/), [Chaos Engineering](doc/chaos-engineering/).
 
 ## System quality attributes explained
 
@@ -32,8 +32,10 @@ System quality attributes explained in alphabetic order:
 * [Configurability](doc/configurability/)
 * [Consistency](doc/consistency/)
 * [Continuity ](doc/continuity/)
+* [Continuity ](doc/continuity/)
 * [Controllability](doc/controllability/)
 * [Correctness](doc/correctness/)
+* [Credibility ](doc/credibility/)
 * [Credibility ](doc/credibility/)
 * [Customizability](doc/customizability/)
 * [Debugability](doc/debugability/)
