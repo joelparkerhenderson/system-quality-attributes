@@ -2,7 +2,15 @@
 
 System quality attributes (SQAs) refer to a set of characteristics that describe capabilities of a given system, such as a computer software program, or a business process, or an organizational practice. System quality attributes determine how well the system performs in terms of aspects such as functionality, reliability, usability, efficiency, security, and maintainability.
 
-System quality attributes explained:
+This project explains 100+ system quality attributes, one by one, in the list below.
+
+* If you're new to this topic, you may want to first read about these related concepts: [System quality attributes](doc/system-quality-attriburtes), [Cross-Functional Constraints (CFCs)](doc/cross-functional-constraints/), [Non-Functional Requirements (NFRs)](doc/non-functional-requirements/), [Cross-Cutting Concerns (CCCs)](doc/cross-cutting-concerns/).
+
+* If you're an implementor, then you may want to read about planning and tracking: [Key Performance Indicator (KPI)](doc/key-performance-indicator/), [Quality Assessment Report (QAR)](doc/quality-assessment-report/), [System Quality Attributes Maturity Model (SQAMM)](doc/system-quality-attributes-maturity-model/, [Software Quality Assessment based on Lifecycle Expectations (SQALE)](doc/software-quality-assessment-based-on-lifecycle-expectations/), [Chaos Engineering](doc/chaos-engineering/).
+
+## System quality attributes explained
+
+System quality attributes explained in alphabetic order:
 
 * [Accessibility](doc/accessibility/)
 * [Accountability](doc/accountability/)
@@ -23,10 +31,10 @@ System quality attributes explained:
 * [Composability](doc/composability/)
 * [Configurability](doc/configurability/)
 * [Consistency](doc/consistency/)
-* [Continuity ](doc/continuity /)
+* [Continuity ](doc/continuity/)
 * [Controllability](doc/controllability/)
 * [Correctness](doc/correctness/)
-* [Credibility ](doc/credibility /)
+* [Credibility ](doc/credibility/)
 * [Customizability](doc/customizability/)
 * [Debugability](doc/debugability/)
 * [Degradability](doc/degradability/)
