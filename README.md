@@ -125,6 +125,9 @@ System quality attributes explained in alphabetic order:
 * [Vertical scalability](doc/vertical-scalability/)
 * [Warrantability](doc/warrantability/)
 
+
+## Complementary concepts
+
 System quality attributes are a broad way to describe all of these:
 
 * [System Quality Attributes (SQAs)](doc/system-quality-attributes/)
@@ -135,7 +138,9 @@ System quality attributes are a broad way to describe all of these:
 
 * [Cross-Cutting Concerns (CCCs)](doc/cross-cutting-concerns/)
 
-System quality attributes can be planned, tracked, measured, and tested, such as with:
+## Planning and tracking
+
+System quality attributes can involve planning, tracking, and testing, such as with:
 
 * [Key Performance Indicator (KPI)](doc/key-performance-indicator/)
 
